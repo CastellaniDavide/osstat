@@ -3,15 +3,23 @@
 import sys
 import os
 from datetime import datetime
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
 
 __author__ = "davidecastellani@castellanidavide.it"
-__version__ = "01.02 2020-04-28"
+__version__ = "01.03 2020-05-05"
 
 class osstat:
-	def __init__ (self, directory):
-		file = open("..\\log\\log.log", "a")
-		csv_file = "..\\flussi\\osstat.csv"
+	def __init__ (self, directory, vs=False):
+		"""Inizialiting files, scan the files and ends the program
+		"""
+		base_dir = "castellani_davide_osstat_01_03" if vs else ".." # the project "root" in Visual studio it is different
+
+		file = open(os.path.join(base_dir, "log", "log.log"), "a")
+		csv_file = os.path.join(base_dir, "flussi", "osstat.csv")
+
 		start_time = datetime.now()
+
 		osstat.log(file, f"Start time: {start_time}")
 		osstat.log(file, "Inizializing the csv file")
 		osstat.csv_setup(csv_file)
@@ -24,7 +32,7 @@ class osstat:
 			osstat.print_and_log(file, f"Present subdirectories: {subdirectories}")
 			osstat.print_and_log(file, f"Present files: {files}")
 			for file_ in files:
-				osstat.file_stat(file, f"{directories}\\{file_}", csv_file)
+				osstat.file_stat(file, os.path.join(directories, file_), csv_file)
 
 		osstat.log(file, "Done")
 		osstat.log(file, f"End time: {datetime.now()}\nTotal time: {datetime.now() - start_time}")
@@ -40,6 +48,7 @@ class osstat:
 	def log(file, item):
 		"""Writes a line in the log.log file
 		"""
+		print(item)
 		file.write(f"{item}\n")
 
 	def print_and_log(file, item):
@@ -62,11 +71,18 @@ class osstat:
 			csv.write(f"{item}\n")
 
 	def time_converter(unix):
-		return datetime.utcfromtimestamp(unix).strftime('%Y-%m-%d %H:%M:%S')
+		"""Return my time by UNIX to user friendly one
+		"""
+		url = f'https://showcase.linx.twenty57.net:8081/UnixTime/fromunix?timestamp={int(unix)}' #  my WebService
+		return urlopen(url).read()
 
 if __name__ == "__main__":
+	# degub flag
+	debug = False
+
+	# My call
 	try:
-		osstat(sys.argv[1].replace(f'{"//"}', "\\"))
+		osstat(sys.argv[1], debug)
 	except:
-		default_directory = "..\\"
-		osstat(default_directory)
+		default_directory = "castellani_davide_osstat_01_03" if debug else".."
+		osstat(default_directory, debug)

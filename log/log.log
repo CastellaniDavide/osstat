@@ -652,3 +652,1830 @@ Done
 End time: 2020-04-28 10:53:57.571746
 Total time: 0:00:00.013964
 
+Start time: 2020-05-05 21:12:48.365955
+Inizializing the csv file
+Printing on screen the given directory name: castellani_davide_osstat_01_03\
+Analizing directory castellani_davide_osstat_01_03\
+Actual directory: castellani_davide_osstat_01_03\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory castellani_davide_osstat_01_03\bin
+Actual directory: castellani_davide_osstat_01_03\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: castellani_davide_osstat_01_03\bin\osstat.py
+Write on csv file castellani_davide_osstat_01_03\bin\osstat.py,33206,17169973579847453,3693933532,1,0,0,3296,1588705958.0241458,b'2020-05-05 19:12:38',1588705958.0241458,b'2020-05-05 19:12:38',1588660708.060336,b'2020-05-05 06:38:28'
+Analizing directory castellani_davide_osstat_01_03\doc
+Actual directory: castellani_davide_osstat_01_03\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: castellani_davide_osstat_01_03\doc\README.md
+Write on csv file castellani_davide_osstat_01_03\doc\README.md,33206,34902897112302001,3693933532,1,0,0,1013,1588704856.41202,b'2020-05-05 18:54:16',1588704856.41202,b'2020-05-05 18:54:16',1588660708.0653303,b'2020-05-05 06:38:28'
+Analizing directory castellani_davide_osstat_01_03\flussi
+Actual directory: castellani_davide_osstat_01_03\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: castellani_davide_osstat_01_03\flussi\osstat.csv
+Write on csv file castellani_davide_osstat_01_03\flussi\osstat.csv,33206,12384898975827963,3693933532,1,0,0,582,1588705971.3115005,b'2020-05-05 19:12:51',1588705971.3115005,b'2020-05-05 19:12:51',1588660708.0693119,b'2020-05-05 06:38:28'
+Analizing directory castellani_davide_osstat_01_03\log
+Actual directory: castellani_davide_osstat_01_03\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: castellani_davide_osstat_01_03\log\log.log
+Write on csv file castellani_davide_osstat_01_03\log\log.log,33206,22517998137349910,3693933532,1,0,0,28978,1588705537.5321224,b'2020-05-05 19:05:37',1588705537.5321224,b'2020-05-05 19:05:37',1588660708.0723033,b'2020-05-05 06:38:28'
+Done
+End time: 2020-05-05 21:12:54.277816
+Total time: 0:00:05.911861
+
+Start time: 2020-05-05 21:25:09.370013
+Inizializing the csv file
+Printing on screen the given directory name: ..//
+Analizing directory ..//
+Actual directory: ..//
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..//bin
+Actual directory: ..//bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..//bin/osstat.py
+Write on csv file ..//bin/osstat.py,33279,45317471251883929,14,1,1000,1000,3364,1588706705.480307,b'2020-05-05 19:25:05',1588706705.480307,b'2020-05-05 19:25:05',1588706705.4942408,b'2020-05-05 19:25:05'
+Analizing directory ..//doc
+Actual directory: ..//doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..//doc/README.md
+Write on csv file ..//doc/README.md,33279,34902897112302001,14,1,1000,1000,1013,1588704856.41202,b'2020-05-05 18:54:16',1588704856.41202,b'2020-05-05 18:54:16',1588704865.0954578,b'2020-05-05 18:54:25'
+Analizing directory ..//flussi
+Actual directory: ..//flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..//flussi/osstat.csv
+Write on csv file ..//flussi/osstat.csv,33279,12384898975827963,14,1,1000,1000,520,1588706712.1691728,b'2020-05-05 19:25:12',1588706712.1691728,b'2020-05-05 19:25:12',1588706712.1691728,b'2020-05-05 19:25:12'
+Analizing directory ..//log
+Actual directory: ..//log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..//log/log.log
+Write on csv file ..//log/log.log,33279,22517998137349910,14,1,1000,1000,31421,1588706668.905635,b'2020-05-05 19:24:28',1588706668.905635,b'2020-05-05 19:24:28',1588706677.9100544,b'2020-05-05 19:24:37'
+Done
+End time: 2020-05-05 21:25:14.637420
+Total time: 0:00:05.267440
+
+Start time: 2020-05-05 21:28:23.990707
+Inizializing the csv file
+Printing on screen the given directory name: castellani_davide_osstat_01_03
+Analizing directory castellani_davide_osstat_01_03
+Actual directory: castellani_davide_osstat_01_03
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory castellani_davide_osstat_01_03\bin
+Actual directory: castellani_davide_osstat_01_03\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: castellani_davide_osstat_01_03\bin\osstat.py
+Write on csv file castellani_davide_osstat_01_03\bin\osstat.py,33206,10977524093186287,3693933532,1,0,0,3334,1588706900.5000367,b'2020-05-05 19:28:20',1588706900.5000367,b'2020-05-05 19:28:20',1588660708.060336,b'2020-05-05 06:38:28'
+Analizing directory castellani_davide_osstat_01_03\doc
+Actual directory: castellani_davide_osstat_01_03\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: castellani_davide_osstat_01_03\doc\README.md
+Write on csv file castellani_davide_osstat_01_03\doc\README.md,33206,34902897112302001,3693933532,1,0,0,1013,1588704856.41202,b'2020-05-05 18:54:16',1588704856.41202,b'2020-05-05 18:54:16',1588660708.0653303,b'2020-05-05 06:38:28'
+Analizing directory castellani_davide_osstat_01_03\flussi
+Actual directory: castellani_davide_osstat_01_03\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: castellani_davide_osstat_01_03\flussi\osstat.csv
+Write on csv file castellani_davide_osstat_01_03\flussi\osstat.csv,33206,12384898975827963,3693933532,1,0,0,582,1588706906.8300502,b'2020-05-05 19:28:26',1588706906.8300502,b'2020-05-05 19:28:26',1588660708.0693119,b'2020-05-05 06:38:28'
+Analizing directory castellani_davide_osstat_01_03\log
+Actual directory: castellani_davide_osstat_01_03\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: castellani_davide_osstat_01_03\log\log.log
+Write on csv file castellani_davide_osstat_01_03\log\log.log,33206,33776997206749659,3693933532,1,0,0,32935,1588706764.0107481,b'2020-05-05 19:26:04',1588706764.0107481,b'2020-05-05 19:26:04',1588660708.0723033,b'2020-05-05 06:38:28'
+Done
+End time: 2020-05-05 21:28:29.297614
+Total time: 0:00:05.306907
+
+Start time: 2020-05-05 21:28:59.098001
+Inizializing the csv file
+Printing on screen the given directory name: ..
+Analizing directory ..
+Actual directory: ..
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ../bin
+Actual directory: ../bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ../bin/osstat.py
+Write on csv file ../bin/osstat.py,33279,25895697858851298,14,1,1000,1000,3335,1588706936.2229898,b'2020-05-05 19:28:56',1588706936.2229898,b'2020-05-05 19:28:56',1588706936.2329617,b'2020-05-05 19:28:56'
+Analizing directory ../doc
+Actual directory: ../doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../doc/README.md
+Write on csv file ../doc/README.md,33279,34902897112302001,14,1,1000,1000,1013,1588704856.41202,b'2020-05-05 18:54:16',1588704856.41202,b'2020-05-05 18:54:16',1588704865.0954578,b'2020-05-05 18:54:25'
+Analizing directory ../flussi
+Actual directory: ../flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ../flussi/osstat.csv
+Write on csv file ../flussi/osstat.csv,33279,12384898975827963,14,1,1000,1000,520,1588706942.055513,b'2020-05-05 19:29:02',1588706942.055513,b'2020-05-05 19:29:02',1588706942.055513,b'2020-05-05 19:29:02'
+Analizing directory ../log
+Actual directory: ../log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ../log/log.log
+Write on csv file ../log/log.log,33279,33776997206749659,14,1,1000,1000,35191,1588706909.3072145,b'2020-05-05 19:28:29',1588706909.3072145,b'2020-05-05 19:28:29',1588706919.331704,b'2020-05-05 19:28:39'
+Done
+End time: 2020-05-05 21:29:04.737627
+Total time: 0:00:05.639661
+
+Start time: 2020-05-05 21:32:51.785274
+Inizializing the csv file
+Printing on screen the given directory name: ../..
+Analizing directory ../..
+Actual directory: ../..
+Present subdirectories: ['.git', '.vs', 'castellani_davide_criptotest_01_01', 'castellani_davide_hostdns_01_02', 'castellani_davide_hostdns_01_03', 'castellani_davide_hostdns_01_04', 'castellani_davide_osstat_01_01', 'castellani_davide_osstat_01_02', 'castellani_davide_osstat_01_03', 'cp_01_01', 'cp_01_02', 'create_structure_01_01', 'create_structure_02_01', 'exp_2020-01-21', 'hostdns_01_01', 'int81_01_01', 'int81_02_01', 'osstat_01_02', 'proc_02_01', 'vbox_02_01', 'vbox_02_02', 'virtualbox_cli_01_01', 'walk_01_01', 'walk_01_02']
+Present files: ['.gitattributes', 'castellani_davide_hostdns_01_02.zip', 'castellani_davide_hostdns_01_03.zip', 'castellani_davide_hostdns_01_04.zip', 'castellani_davide_osstat_01_01.zip', 'castellani_davide_osstat_01_02.zip', 'README.md', 'sabaini_chiara_hostdns_01_01.zip']
+Testing file: ../../.gitattributes
+Write on csv file ../../.gitattributes,33279,3096224743899143,14,1,1000,1000,68,1579590241.1078014,b'2020-01-21 07:04:01',1579590241.1078014,b'2020-01-21 07:04:01',1579707864.799487,b'2020-01-22 15:44:24'
+Testing file: ../../castellani_davide_hostdns_01_02.zip
+Write on csv file ../../castellani_davide_hostdns_01_02.zip,33279,54887620458643131,14,1,1000,1000,2064755,1586363694.5779898,b'2020-04-08 16:34:54',1586363694.5779898,b'2020-04-08 16:34:54',1586363707.6594894,b'2020-04-08 16:35:07'
+Testing file: ../../castellani_davide_hostdns_01_03.zip
+Write on csv file ../../castellani_davide_hostdns_01_03.zip,33279,7036874418586068,14,1,1000,1000,2090128,1586373917.1653104,b'2020-04-08 19:25:17',1586373917.1653104,b'2020-04-08 19:25:17',1586373943.0441685,b'2020-04-08 19:25:43'
+Testing file: ../../castellani_davide_hostdns_01_04.zip
+Write on csv file ../../castellani_davide_hostdns_01_04.zip,33279,54887620458644595,14,1,1000,1000,1178,1586373920.7912562,b'2020-04-08 19:25:20',1586373920.7912562,b'2020-04-08 19:25:20',1586373947.0468323,b'2020-04-08 19:25:47'
+Testing file: ../../castellani_davide_osstat_01_01.zip
+Write on csv file ../../castellani_davide_osstat_01_01.zip,33279,36310271995833641,14,1,1000,1000,2909,1588064467.1575713,b'2020-04-28 09:01:07',1588064467.1575713,b'2020-04-28 09:01:07',1588064474.7681172,b'2020-04-28 09:01:14'
+Testing file: ../../castellani_davide_osstat_01_02.zip
+Write on csv file ../../castellani_davide_osstat_01_02.zip,33279,50384020831835721,14,1,1000,1000,5781,1588064521.5720086,b'2020-04-28 09:02:01',1588064521.5720086,b'2020-04-28 09:02:01',1588064529.6155877,b'2020-04-28 09:02:09'
+Testing file: ../../README.md
+Write on csv file ../../README.md,33279,4503599627452433,14,1,1000,1000,74,1579590241.1099606,b'2020-01-21 07:04:01',1579590241.1099606,b'2020-01-21 07:04:01',1585841617.013774,b'2020-04-02 15:33:37'
+Testing file: ../../sabaini_chiara_hostdns_01_01.zip
+Write on csv file ../../sabaini_chiara_hostdns_01_01.zip,33279,3659174698063908,14,1,1000,1000,2064855,1585834859.7959025,b'2020-04-02 13:40:59',1585834859.7959025,b'2020-04-02 13:40:59',1585834870.8701215,b'2020-04-02 13:41:10'
+Analizing directory ../../.git
+Actual directory: ../../.git
+Present subdirectories: ['hooks', 'info', 'logs', 'objects', 'refs']
+Present files: ['COMMIT_EDITMSG', 'config', 'description', 'FETCH_HEAD', 'HEAD', 'index', 'ms-persist.xml', 'ORIG_HEAD', 'packed-refs']
+Testing file: ../../.git/COMMIT_EDITMSG
+Write on csv file ../../.git/COMMIT_EDITMSG,33279,6755399441858373,14,1,1000,1000,15,1585834992.7216744,b'2020-04-02 13:43:12',1585834992.7216744,b'2020-04-02 13:43:12',1585835003.8818693,b'2020-04-02 13:43:23'
+Testing file: ../../.git/config
+Write on csv file ../../.git/config,33279,6473924464421706,14,1,1000,1000,334,1579590241.0799167,b'2020-01-21 07:04:01',1579590241.0799167,b'2020-01-21 07:04:01',1579707859.1152575,b'2020-01-22 15:44:19'
+Testing file: ../../.git/description
+Write on csv file ../../.git/description,33279,17732923532847564,14,1,1000,1000,73,1579590237.7415166,b'2020-01-21 07:03:57',1579590237.7415166,b'2020-01-21 07:03:57',1579707859.1470044,b'2020-01-22 15:44:19'
+Testing file: ../../.git/FETCH_HEAD
+Write on csv file ../../.git/FETCH_HEAD,33279,7318349394559467,14,1,1000,1000,109,1586360547.472445,b'2020-04-08 15:42:27',1586360547.472445,b'2020-04-08 15:42:27',1586360552.9029505,b'2020-04-08 15:42:32'
+Testing file: ../../.git/HEAD
+Write on csv file ../../.git/HEAD,33279,1688849861653540,14,1,1000,1000,23,1582295557.0238469,b'2020-02-21 14:32:37',1582295557.0238469,b'2020-02-21 14:32:37',1582295588.9776423,b'2020-02-21 14:33:08'
+Testing file: ../../.git/index
+Write on csv file ../../.git/index,33279,74590868828944355,14,1,1000,1000,11348,1585834992.7166474,b'2020-04-02 13:43:12',1585834992.7166474,b'2020-04-02 13:43:12',1585835000.8633232,b'2020-04-02 13:43:20'
+Testing file: ../../.git/ms-persist.xml
+Write on csv file ../../.git/ms-persist.xml,33279,17169973580152643,14,1,1000,1000,147,1588054311.654724,b'2020-04-28 06:11:51',1588054311.654724,b'2020-04-28 06:11:51',1588054317.9325569,b'2020-04-28 06:11:57'
+Testing file: ../../.git/ORIG_HEAD
+Write on csv file ../../.git/ORIG_HEAD,33279,3659174697320440,14,1,1000,1000,41,1582295556.4993503,b'2020-02-21 14:32:36',1582295556.4993503,b'2020-02-21 14:32:36',1582295591.355034,b'2020-02-21 14:33:11'
+Testing file: ../../.git/packed-refs
+Write on csv file ../../.git/packed-refs,33279,5348024557584260,14,1,1000,1000,114,1579590241.0509493,b'2020-01-21 07:04:01',1579590241.0509493,b'2020-01-21 07:04:01',1579707759.539297,b'2020-01-22 15:42:39'
+Analizing directory ../../.git/hooks
+Actual directory: ../../.git/hooks
+Present subdirectories: []
+Present files: ['applypatch-msg.sample', 'commit-msg.sample', 'fsmonitor-watchman.sample', 'post-update.sample', 'pre-applypatch.sample', 'pre-commit.sample', 'pre-push.sample', 'pre-rebase.sample', 'pre-receive.sample', 'prepare-commit-msg.sample', 'update.sample']
+Testing file: ../../.git/hooks/applypatch-msg.sample
+Write on csv file ../../.git/hooks/applypatch-msg.sample,33279,8162774324685273,14,1,1000,1000,478,1579590237.7427032,b'2020-01-21 07:03:57',1579590237.7427032,b'2020-01-21 07:03:57',1579707778.9744308,b'2020-01-22 15:42:58'
+Testing file: ../../.git/hooks/commit-msg.sample
+Write on csv file ../../.git/hooks/commit-msg.sample,33279,55732045388786186,14,1,1000,1000,896,1579590237.7427032,b'2020-01-21 07:03:57',1579590237.7427032,b'2020-01-21 07:03:57',1579707779.171944,b'2020-01-22 15:42:59'
+Testing file: ../../.git/hooks/fsmonitor-watchman.sample
+Write on csv file ../../.git/hooks/fsmonitor-watchman.sample,33279,12103423998634509,14,1,1000,1000,3327,1579590237.7435112,b'2020-01-21 07:03:57',1579590237.7435112,b'2020-01-21 07:03:57',1579707779.3095737,b'2020-01-22 15:42:59'
+Testing file: ../../.git/hooks/post-update.sample
+Write on csv file ../../.git/hooks/post-update.sample,33279,8444249301395982,14,1,1000,1000,189,1579590237.7445085,b'2020-01-21 07:03:57',1579590237.7445085,b'2020-01-21 07:03:57',1579707778.8736973,b'2020-01-22 15:42:58'
+Testing file: ../../.git/hooks/pre-applypatch.sample
+Write on csv file ../../.git/hooks/pre-applypatch.sample,33279,14918173765741074,14,1,1000,1000,424,1579590237.7445085,b'2020-01-21 07:03:57',1579590237.7445085,b'2020-01-21 07:03:57',1579707779.1248744,b'2020-01-22 15:42:59'
+Testing file: ../../.git/hooks/pre-commit.sample
+Write on csv file ../../.git/hooks/pre-commit.sample,33279,15199648742451741,14,1,1000,1000,1638,1579590237.7455053,b'2020-01-21 07:03:57',1579590237.7455053,b'2020-01-21 07:03:57',1579707779.2636924,b'2020-01-22 15:42:59'
+Testing file: ../../.git/hooks/pre-push.sample
+Write on csv file ../../.git/hooks/pre-push.sample,33279,7318349394553382,14,1,1000,1000,1348,1579590237.7455053,b'2020-01-21 07:03:57',1579590237.7455053,b'2020-01-21 07:03:57',1579707779.217778,b'2020-01-22 15:42:59'
+Testing file: ../../.git/hooks/pre-rebase.sample
+Write on csv file ../../.git/hooks/pre-rebase.sample,33279,12947848928766509,14,1,1000,1000,4898,1579590237.7455053,b'2020-01-21 07:03:57',1579590237.7455053,b'2020-01-21 07:03:57',1579707778.8278203,b'2020-01-22 15:42:58'
+Testing file: ../../.git/hooks/pre-receive.sample
+Write on csv file ../../.git/hooks/pre-receive.sample,33279,11821949021923886,14,1,1000,1000,544,1579590237.7465024,b'2020-01-21 07:03:57',1579590237.7465024,b'2020-01-21 07:03:57',1579707779.0721707,b'2020-01-22 15:42:59'
+Testing file: ../../.git/hooks/prepare-commit-msg.sample
+Write on csv file ../../.git/hooks/prepare-commit-msg.sample,33279,8162774324685377,14,1,1000,1000,1492,1579590237.7465024,b'2020-01-21 07:03:57',1579590237.7465024,b'2020-01-21 07:03:57',1579707778.9225664,b'2020-01-22 15:42:58'
+Testing file: ../../.git/hooks/update.sample
+Write on csv file ../../.git/hooks/update.sample,33279,8162774324685385,14,1,1000,1000,3610,1579590237.7474997,b'2020-01-21 07:03:57',1579590237.7474997,b'2020-01-21 07:03:57',1579707779.023692,b'2020-01-22 15:42:59'
+Analizing directory ../../.git/info
+Actual directory: ../../.git/info
+Present subdirectories: []
+Present files: ['exclude']
+Testing file: ../../.git/info/exclude
+Write on csv file ../../.git/info/exclude,33279,5910974511000176,14,1,1000,1000,240,1579590237.747552,b'2020-01-21 07:03:57',1579590237.747552,b'2020-01-21 07:03:57',1579707778.737299,b'2020-01-22 15:42:58'
+Analizing directory ../../.git/logs
+Actual directory: ../../.git/logs
+Present subdirectories: ['refs']
+Present files: ['HEAD']
+Testing file: ../../.git/logs/HEAD
+Write on csv file ../../.git/logs/HEAD,33279,3377699720609786,14,1,1000,1000,3707,1585834992.7326064,b'2020-04-02 13:43:12',1585834992.7326064,b'2020-04-02 13:43:12',1585835006.881697,b'2020-04-02 13:43:26'
+Analizing directory ../../.git/logs/refs
+Actual directory: ../../.git/logs/refs
+Present subdirectories: ['heads', 'remotes']
+Present files: []
+Analizing directory ../../.git/logs/refs/heads
+Actual directory: ../../.git/logs/refs/heads
+Present subdirectories: []
+Present files: ['master']
+Testing file: ../../.git/logs/refs/heads/master
+Write on csv file ../../.git/logs/refs/heads/master,33279,2533274790477820,14,1,1000,1000,3377,1585834992.7336025,b'2020-04-02 13:43:12',1585834992.7336025,b'2020-04-02 13:43:12',1585835008.6327806,b'2020-04-02 13:43:28'
+Analizing directory ../../.git/logs/refs/remotes
+Actual directory: ../../.git/logs/refs/remotes
+Present subdirectories: ['origin']
+Present files: []
+Analizing directory ../../.git/logs/refs/remotes/origin
+Actual directory: ../../.git/logs/refs/remotes/origin
+Present subdirectories: []
+Present files: ['HEAD', 'master']
+Testing file: ../../.git/logs/refs/remotes/origin/HEAD
+Write on csv file ../../.git/logs/refs/remotes/origin/HEAD,33279,2814749767188471,14,1,1000,1000,206,1579590241.06192,b'2020-01-21 07:04:01',1579590241.06192,b'2020-01-21 07:04:01',1579707844.6470003,b'2020-01-22 15:44:04'
+Testing file: ../../.git/logs/refs/remotes/origin/master
+Write on csv file ../../.git/logs/refs/remotes/origin/master,33279,7036874417858122,14,1,1000,1000,2452,1585834999.4310868,b'2020-04-02 13:43:19',1585834999.4310868,b'2020-04-02 13:43:19',1585835011.7392619,b'2020-04-02 13:43:31'
+Analizing directory ../../.git/objects
+Actual directory: ../../.git/objects
+Present subdirectories: ['00', '04', '05', '06', '08', '0a', '0d', '0e', '0f', '10', '11', '13', '16', '17', '18', '19', '1a', '1c', '1d', '1e', '25', '28', '2c', '2d', '30', '32', '34', '36', '37', '38', '3a', '3b', '3d', '3e', '40', '41', '44', '45', '47', '49', '4a', '52', '53', '54', '56', '57', '58', '5c', '5d', '5e', '60', '61', '67', '69', '6a', '6b', '6c', '6e', '6f', '70', '71', '73', '74', '76', '78', '79', '7a', '7b', '7e', '7f', '80', '82', '84', '89', '8c', '8e', '91', '93', '94', '98', '99', '9a', '9b', 'a2', 'a8', 'aa', 'ac', 'ad', 'b0', 'b4', 'b5', 'b6', 'b7', 'bb', 'bc', 'c1', 'c2', 'c7', 'c8', 'c9', 'ca', 'cb', 'ce', 'd1', 'd3', 'd4', 'd5', 'd9', 'da', 'db', 'dc', 'dd', 'de', 'df', 'e1', 'e6', 'e8', 'ed', 'ee', 'ef', 'f0', 'f1', 'f3', 'f4', 'f5', 'f6', 'f7', 'f8', 'f9', 'fc', 'ff', 'info', 'pack']
+Present files: []
+Analizing directory ../../.git/objects/00
+Actual directory: ../../.git/objects/00
+Present subdirectories: []
+Present files: ['5c8f4814a3330c4d9f1dc824dbec7ca954f182']
+Testing file: ../../.git/objects/00/5c8f4814a3330c4d9f1dc824dbec7ca954f182
+Write on csv file ../../.git/objects/00/5c8f4814a3330c4d9f1dc824dbec7ca954f182,33133,4503599628173192,14,2,1000,1000,987,1581405022.911368,b'2020-02-11 07:10:22',1581405022.911368,b'2020-02-11 07:10:22',1581405030.2483814,b'2020-02-11 07:10:30'
+Analizing directory ../../.git/objects/04
+Actual directory: ../../.git/objects/04
+Present subdirectories: []
+Present files: ['910ff8db459db472cdcbc12b3327963c15a5f6']
+Testing file: ../../.git/objects/04/910ff8db459db472cdcbc12b3327963c15a5f6
+Write on csv file ../../.git/objects/04/910ff8db459db472cdcbc12b3327963c15a5f6,33133,3659174698374384,14,2,1000,1000,487,1585047299.6935906,b'2020-03-24 10:54:59',1585047299.6935906,b'2020-03-24 10:54:59',1585047312.830456,b'2020-03-24 10:55:12'
+Analizing directory ../../.git/objects/05
+Actual directory: ../../.git/objects/05
+Present subdirectories: []
+Present files: ['1179471cb8b935a738b8a1a71cb237f40588f3']
+Testing file: ../../.git/objects/05/1179471cb8b935a738b8a1a71cb237f40588f3
+Write on csv file ../../.git/objects/05/1179471cb8b935a738b8a1a71cb237f40588f3,33133,5066549581631274,14,2,1000,1000,50,1585829797.082013,b'2020-04-02 12:16:37',1585829797.082013,b'2020-04-02 12:16:37',1585829812.9624798,b'2020-04-02 12:16:52'
+Analizing directory ../../.git/objects/06
+Actual directory: ../../.git/objects/06
+Present subdirectories: []
+Present files: ['3ed8f484c43fa5f4c801b80340d5c255e6e2ea', '6729fb52b443c76e5103b63393a6a023bfe511']
+Testing file: ../../.git/objects/06/3ed8f484c43fa5f4c801b80340d5c255e6e2ea
+Write on csv file ../../.git/objects/06/3ed8f484c43fa5f4c801b80340d5c255e6e2ea,33133,26458647810936205,14,2,1000,1000,139,1584716138.09491,b'2020-03-20 14:55:38',1584716138.09491,b'2020-03-20 14:55:38',1584716150.4314597,b'2020-03-20 14:55:50'
+Testing file: ../../.git/objects/06/6729fb52b443c76e5103b63393a6a023bfe511
+Write on csv file ../../.git/objects/06/6729fb52b443c76e5103b63393a6a023bfe511,33133,49821070878604575,14,2,1000,1000,545,1585829781.8513753,b'2020-04-02 12:16:21',1585829781.8513753,b'2020-04-02 12:16:21',1585829788.485078,b'2020-04-02 12:16:28'
+Analizing directory ../../.git/objects/08
+Actual directory: ../../.git/objects/08
+Present subdirectories: []
+Present files: ['6da921c09061e873ef8f73c732a81a5a1c59c8', '7b155d010d587b21635476a96413e07adf1de5']
+Testing file: ../../.git/objects/08/6da921c09061e873ef8f73c732a81a5a1c59c8
+Write on csv file ../../.git/objects/08/6da921c09061e873ef8f73c732a81a5a1c59c8,33133,8162774325744878,14,2,1000,1000,99,1585047299.6827905,b'2020-03-24 10:54:59',1585047299.6827905,b'2020-03-24 10:54:59',1585047308.8695312,b'2020-03-24 10:55:08'
+Testing file: ../../.git/objects/08/7b155d010d587b21635476a96413e07adf1de5
+Write on csv file ../../.git/objects/08/7b155d010d587b21635476a96413e07adf1de5,33133,2251799813772745,14,3,1000,1000,73,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295650.6843748,b'2020-02-21 14:34:10'
+Analizing directory ../../.git/objects/0a
+Actual directory: ../../.git/objects/0a
+Present subdirectories: []
+Present files: ['2f3b029978341cf3d92174fdf638490c08d2ad']
+Testing file: ../../.git/objects/0a/2f3b029978341cf3d92174fdf638490c08d2ad
+Write on csv file ../../.git/objects/0a/2f3b029978341cf3d92174fdf638490c08d2ad,33133,844424931521562,14,2,1000,1000,200,1582295554.7040522,b'2020-02-21 14:32:34',1582295554.7040522,b'2020-02-21 14:32:34',1582295582.9485242,b'2020-02-21 14:33:02'
+Analizing directory ../../.git/objects/0d
+Actual directory: ../../.git/objects/0d
+Present subdirectories: []
+Present files: ['b73192f1e2b619b439295de55adec882f574d5']
+Testing file: ../../.git/objects/0d/b73192f1e2b619b439295de55adec882f574d5
+Write on csv file ../../.git/objects/0d/b73192f1e2b619b439295de55adec882f574d5,33133,14355223813060943,14,2,1000,1000,87,1584199421.6129625,b'2020-03-14 15:23:41',1584199421.6129625,b'2020-03-14 15:23:41',1584199433.7184112,b'2020-03-14 15:23:53'
+Analizing directory ../../.git/objects/0e
+Actual directory: ../../.git/objects/0e
+Present subdirectories: []
+Present files: ['765941b61e67b82a2a755546b78908f73e4270', 'e771a6e37306bf55743552d21874fd8e81009b']
+Testing file: ../../.git/objects/0e/765941b61e67b82a2a755546b78908f73e4270
+Write on csv file ../../.git/objects/0e/765941b61e67b82a2a755546b78908f73e4270,33133,58546795155950804,14,2,1000,1000,2913026,1584716138.016054,b'2020-03-20 14:55:38',1584716138.016054,b'2020-03-20 14:55:38',1584716144.6025774,b'2020-03-20 14:55:44'
+Testing file: ../../.git/objects/0e/e771a6e37306bf55743552d21874fd8e81009b
+Write on csv file ../../.git/objects/0e/e771a6e37306bf55743552d21874fd8e81009b,33133,12666373952103417,14,3,1000,1000,3344,1582042786.0,b'2020-02-18 16:19:46',1582042786.0,b'2020-02-18 16:19:46',1582042796.4861212,b'2020-02-18 16:19:56'
+Analizing directory ../../.git/objects/0f
+Actual directory: ../../.git/objects/0f
+Present subdirectories: []
+Present files: ['5e0fabd75a552ad15d9235134f2509768a17d8']
+Testing file: ../../.git/objects/0f/5e0fabd75a552ad15d9235134f2509768a17d8
+Write on csv file ../../.git/objects/0f/5e0fabd75a552ad15d9235134f2509768a17d8,33133,4222124651663871,14,2,1000,1000,470,1585834972.3461888,b'2020-04-02 13:42:52',1585834972.3461888,b'2020-04-02 13:42:52',1585834982.8739917,b'2020-04-02 13:43:02'
+Analizing directory ../../.git/objects/10
+Actual directory: ../../.git/objects/10
+Present subdirectories: []
+Present files: ['93fa79b21da76bfe967223b0be8d222ecd6356', 'fa8d0e01401cebacc4548ae49d3271c1249182']
+Testing file: ../../.git/objects/10/93fa79b21da76bfe967223b0be8d222ecd6356
+Write on csv file ../../.git/objects/10/93fa79b21da76bfe967223b0be8d222ecd6356,33133,4222124651795545,14,3,1000,1000,51,1585047323.0,b'2020-03-24 10:55:23',1585047323.0,b'2020-03-24 10:55:23',1585047332.4943347,b'2020-03-24 10:55:32'
+Testing file: ../../.git/objects/10/fa8d0e01401cebacc4548ae49d3271c1249182
+Write on csv file ../../.git/objects/10/fa8d0e01401cebacc4548ae49d3271c1249182,33133,9851624185008195,14,2,1000,1000,174,1582042786.4659698,b'2020-02-18 16:19:46',1582042786.4659698,b'2020-02-18 16:19:46',1582042801.5804894,b'2020-02-18 16:20:01'
+Analizing directory ../../.git/objects/11
+Actual directory: ../../.git/objects/11
+Present subdirectories: []
+Present files: ['687b4e6e642e449ab3598b5e023a74327f6295']
+Testing file: ../../.git/objects/11/687b4e6e642e449ab3598b5e023a74327f6295
+Write on csv file ../../.git/objects/11/687b4e6e642e449ab3598b5e023a74327f6295,33133,1688849861268084,14,2,1000,1000,461327,1585834972.477871,b'2020-04-02 13:42:52',1585834972.477871,b'2020-04-02 13:42:52',1585834982.7883346,b'2020-04-02 13:43:02'
+Analizing directory ../../.git/objects/13
+Actual directory: ../../.git/objects/13
+Present subdirectories: []
+Present files: ['db5c1004b754b2924fe7e93ef4eb402039c458']
+Testing file: ../../.git/objects/13/db5c1004b754b2924fe7e93ef4eb402039c458
+Write on csv file ../../.git/objects/13/db5c1004b754b2924fe7e93ef4eb402039c458,33133,3377699721330515,14,2,1000,1000,72,1581403222.099081,b'2020-02-11 06:40:22',1581403222.099081,b'2020-02-11 06:40:22',1581403236.18749,b'2020-02-11 06:40:36'
+Analizing directory ../../.git/objects/16
+Actual directory: ../../.git/objects/16
+Present subdirectories: []
+Present files: ['86d9585ad392d36013f20e9d3d1ebf61bcc512']
+Testing file: ../../.git/objects/16/86d9585ad392d36013f20e9d3d1ebf61bcc512
+Write on csv file ../../.git/objects/16/86d9585ad392d36013f20e9d3d1ebf61bcc512,33133,15199648742462685,14,2,1000,1000,196770,1579594730.9009223,b'2020-01-21 08:18:50',1579594730.9009223,b'2020-01-21 08:18:50',1579707839.6507409,b'2020-01-22 15:43:59'
+Analizing directory ../../.git/objects/17
+Actual directory: ../../.git/objects/17
+Present subdirectories: []
+Present files: ['881fabf90f901916070bfddd0c199a14cbe218']
+Testing file: ../../.git/objects/17/881fabf90f901916070bfddd0c199a14cbe218
+Write on csv file ../../.git/objects/17/881fabf90f901916070bfddd0c199a14cbe218,33133,9288674231542627,14,3,1000,1000,11181,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295653.2566767,b'2020-02-21 14:34:13'
+Analizing directory ../../.git/objects/18
+Actual directory: ../../.git/objects/18
+Present subdirectories: []
+Present files: ['b777e5f41b1a67b1e275336b63e5457af5ab03']
+Testing file: ../../.git/objects/18/b777e5f41b1a67b1e275336b63e5457af5ab03
+Write on csv file ../../.git/objects/18/b777e5f41b1a67b1e275336b63e5457af5ab03,33133,6755399442139762,14,2,1000,1000,51,1585080350.7246654,b'2020-03-24 20:05:50',1585080350.7246654,b'2020-03-24 20:05:50',1585120248.4545696,b'2020-03-25 07:10:48'
+Analizing directory ../../.git/objects/19
+Actual directory: ../../.git/objects/19
+Present subdirectories: []
+Present files: ['71ad4153352696dc4631c3272f47e00dafdbb5']
+Testing file: ../../.git/objects/19/71ad4153352696dc4631c3272f47e00dafdbb5
+Write on csv file ../../.git/objects/19/71ad4153352696dc4631c3272f47e00dafdbb5,33133,4785074604169168,14,3,1000,1000,126,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295653.6924725,b'2020-02-21 14:34:13'
+Analizing directory ../../.git/objects/1a
+Actual directory: ../../.git/objects/1a
+Present subdirectories: []
+Present files: ['d02b919fa0d19bfb612c9a9b782a814bf5ff5d']
+Testing file: ../../.git/objects/1a/d02b919fa0d19bfb612c9a9b782a814bf5ff5d
+Write on csv file ../../.git/objects/1a/d02b919fa0d19bfb612c9a9b782a814bf5ff5d,33133,9851624185710079,14,2,1000,1000,51,1585829797.0650597,b'2020-04-02 12:16:37',1585829797.0650597,b'2020-04-02 12:16:37',1585829812.9876907,b'2020-04-02 12:16:52'
+Analizing directory ../../.git/objects/1c
+Actual directory: ../../.git/objects/1c
+Present subdirectories: []
+Present files: ['f9d143f75154cdf65861d00dbc2d78c0af1cdf']
+Testing file: ../../.git/objects/1c/f9d143f75154cdf65861d00dbc2d78c0af1cdf
+Write on csv file ../../.git/objects/1c/f9d143f75154cdf65861d00dbc2d78c0af1cdf,33133,9007199255824958,14,2,1000,1000,98,1585080068.4853177,b'2020-03-24 20:01:08',1585080068.4853177,b'2020-03-24 20:01:08',1585120248.2899168,b'2020-03-25 07:10:48'
+Analizing directory ../../.git/objects/1d
+Actual directory: ../../.git/objects/1d
+Present subdirectories: []
+Present files: ['2423033df63bd0c970211c5dd4ec4ed7f4c875', '8cd882b4c25a37b40d89267b52bb9333388fba', 'a11b0fd18a70767c57e5e611cc5c95f6576b99']
+Testing file: ../../.git/objects/1d/2423033df63bd0c970211c5dd4ec4ed7f4c875
+Write on csv file ../../.git/objects/1d/2423033df63bd0c970211c5dd4ec4ed7f4c875,33133,12666373952070503,14,3,1000,1000,12541,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295650.8070476,b'2020-02-21 14:34:10'
+Testing file: ../../.git/objects/1d/8cd882b4c25a37b40d89267b52bb9333388fba
+Write on csv file ../../.git/objects/1d/8cd882b4c25a37b40d89267b52bb9333388fba,33133,53761720552819240,14,2,1000,1000,50,1585080068.4763436,b'2020-03-24 20:01:08',1585080068.4763436,b'2020-03-24 20:01:08',1585120248.32981,b'2020-03-25 07:10:48'
+Testing file: ../../.git/objects/1d/a11b0fd18a70767c57e5e611cc5c95f6576b99
+Write on csv file ../../.git/objects/1d/a11b0fd18a70767c57e5e611cc5c95f6576b99,33133,11540474045261937,14,3,1000,1000,393,1582042786.0,b'2020-02-18 16:19:46',1582042786.0,b'2020-02-18 16:19:46',1582042796.3395128,b'2020-02-18 16:19:56'
+Analizing directory ../../.git/objects/1e
+Actual directory: ../../.git/objects/1e
+Present subdirectories: []
+Present files: ['e931746b5930326f81b1407a8ac0ef748b6564']
+Testing file: ../../.git/objects/1e/e931746b5930326f81b1407a8ac0ef748b6564
+Write on csv file ../../.git/objects/1e/e931746b5930326f81b1407a8ac0ef748b6564,33133,2251799814502737,14,2,1000,1000,54,1584199421.6211326,b'2020-03-14 15:23:41',1584199421.6211326,b'2020-03-14 15:23:41',1584199433.7021542,b'2020-03-14 15:23:53'
+Analizing directory ../../.git/objects/25
+Actual directory: ../../.git/objects/25
+Present subdirectories: []
+Present files: ['475f19e31a37e9940e2b08dac7cf09b5703856']
+Testing file: ../../.git/objects/25/475f19e31a37e9940e2b08dac7cf09b5703856
+Write on csv file ../../.git/objects/25/475f19e31a37e9940e2b08dac7cf09b5703856,33133,3377699721330503,14,2,1000,1000,174,1581403207.8613253,b'2020-02-11 06:40:07',1581403207.8613253,b'2020-02-11 06:40:07',1581403219.956408,b'2020-02-11 06:40:19'
+Analizing directory ../../.git/objects/28
+Actual directory: ../../.git/objects/28
+Present subdirectories: []
+Present files: ['eee1aa9164d58072a1a93ee38ab9cb9e2632ec']
+Testing file: ../../.git/objects/28/eee1aa9164d58072a1a93ee38ab9cb9e2632ec
+Write on csv file ../../.git/objects/28/eee1aa9164d58072a1a93ee38ab9cb9e2632ec,33133,12947848929774185,14,2,1000,1000,197,1585080343.643611,b'2020-03-24 20:05:43',1585080343.643611,b'2020-03-24 20:05:43',1585120248.089265,b'2020-03-25 07:10:48'
+Analizing directory ../../.git/objects/2c
+Actual directory: ../../.git/objects/2c
+Present subdirectories: []
+Present files: ['6bad99cc5cf4536d2a16f7cd45afe3ce9e462f']
+Testing file: ../../.git/objects/2c/6bad99cc5cf4536d2a16f7cd45afe3ce9e462f
+Write on csv file ../../.git/objects/2c/6bad99cc5cf4536d2a16f7cd45afe3ce9e462f,33133,12666373952114038,14,2,1000,1000,211594,1584716138.0809493,b'2020-03-20 14:55:38',1584716138.0809493,b'2020-03-20 14:55:38',1584716150.4594157,b'2020-03-20 14:55:50'
+Analizing directory ../../.git/objects/2d
+Actual directory: ../../.git/objects/2d
+Present subdirectories: []
+Present files: ['658f7ef9c0cb8c73c3ec5ff95f4acfc9931062', 'a5547a55fb448418e9434a201dfb060f748e2a', 'f58baa0ec39ea8b19fb6d22dbc7ed61a752725', 'fb50910f22c26b997ef88c8c4dfa95aa94935d']
+Testing file: ../../.git/objects/2d/658f7ef9c0cb8c73c3ec5ff95f4acfc9931062
+Write on csv file ../../.git/objects/2d/658f7ef9c0cb8c73c3ec5ff95f4acfc9931062,33133,13229323905479626,14,2,1000,1000,84,1579590240.9464,b'2020-01-21 07:04:00',1579590240.9464,b'2020-01-21 07:04:00',1579707839.8760993,b'2020-01-22 15:43:59'
+Testing file: ../../.git/objects/2d/a5547a55fb448418e9434a201dfb060f748e2a
+Write on csv file ../../.git/objects/2d/a5547a55fb448418e9434a201dfb060f748e2a,33133,142144863238897817,14,2,1000,1000,170,1585829797.1099489,b'2020-04-02 12:16:37',1585829797.1099489,b'2020-04-02 12:16:37',1585829805.9002204,b'2020-04-02 12:16:45'
+Testing file: ../../.git/objects/2d/f58baa0ec39ea8b19fb6d22dbc7ed61a752725
+Write on csv file ../../.git/objects/2d/f58baa0ec39ea8b19fb6d22dbc7ed61a752725,33133,7599824371343128,14,2,1000,1000,82,1584716151.734902,b'2020-03-20 14:55:51',1584716151.734902,b'2020-03-20 14:55:51',1584716166.0180962,b'2020-03-20 14:56:06'
+Testing file: ../../.git/objects/2d/fb50910f22c26b997ef88c8c4dfa95aa94935d
+Write on csv file ../../.git/objects/2d/fb50910f22c26b997ef88c8c4dfa95aa94935d,33133,7881299348053776,14,2,1000,1000,72,1584716151.7109249,b'2020-03-20 14:55:51',1584716151.7109249,b'2020-03-20 14:55:51',1584716166.0021389,b'2020-03-20 14:56:06'
+Analizing directory ../../.git/objects/30
+Actual directory: ../../.git/objects/30
+Present subdirectories: []
+Present files: ['434e2918a9fe4b650cf80e7c8cab8156a9e049']
+Testing file: ../../.git/objects/30/434e2918a9fe4b650cf80e7c8cab8156a9e049
+Write on csv file ../../.git/objects/30/434e2918a9fe4b650cf80e7c8cab8156a9e049,33133,4222124651795608,14,2,1000,1000,487,1585047278.279401,b'2020-03-24 10:54:38',1585047278.279401,b'2020-03-24 10:54:38',1585047297.0425928,b'2020-03-24 10:54:57'
+Analizing directory ../../.git/objects/32
+Actual directory: ../../.git/objects/32
+Present subdirectories: []
+Present files: ['b53da4e0aca4909f811d05b948312bf0869bb6']
+Testing file: ../../.git/objects/32/b53da4e0aca4909f811d05b948312bf0869bb6
+Write on csv file ../../.git/objects/32/b53da4e0aca4909f811d05b948312bf0869bb6,33133,30962247438997417,14,2,1000,1000,191,1585834992.6837356,b'2020-04-02 13:43:12',1585834992.6837356,b'2020-04-02 13:43:12',1585835010.4950712,b'2020-04-02 13:43:30'
+Analizing directory ../../.git/objects/34
+Actual directory: ../../.git/objects/34
+Present subdirectories: []
+Present files: ['3392dec9e86b284b37525f32d494e857b91e3e', 'd2fc21cc7dc13d9c2d24b7c091e9178ce722bb']
+Testing file: ../../.git/objects/34/3392dec9e86b284b37525f32d494e857b91e3e
+Write on csv file ../../.git/objects/34/3392dec9e86b284b37525f32d494e857b91e3e,33133,24206847998252277,14,2,1000,1000,180,1585047362.6732156,b'2020-03-24 10:56:02',1585047362.6732156,b'2020-03-24 10:56:02',1585047374.13767,b'2020-03-24 10:56:14'
+Testing file: ../../.git/objects/34/d2fc21cc7dc13d9c2d24b7c091e9178ce722bb
+Write on csv file ../../.git/objects/34/d2fc21cc7dc13d9c2d24b7c091e9178ce722bb,33133,31243722415012518,14,2,1000,1000,54,1582042786.4210467,b'2020-02-18 16:19:46',1582042786.4210467,b'2020-02-18 16:19:46',1582042801.6812196,b'2020-02-18 16:20:01'
+Analizing directory ../../.git/objects/36
+Actual directory: ../../.git/objects/36
+Present subdirectories: []
+Present files: ['5145385c8c1019748077bb3b4b0354a8d6207c']
+Testing file: ../../.git/objects/36/5145385c8c1019748077bb3b4b0354a8d6207c
+Write on csv file ../../.git/objects/36/5145385c8c1019748077bb3b4b0354a8d6207c,33133,13510798882928959,14,2,1000,1000,54,1584199395.1080322,b'2020-03-14 15:23:15',1584199395.1080322,b'2020-03-14 15:23:15',1584199410.2791765,b'2020-03-14 15:23:30'
+Analizing directory ../../.git/objects/37
+Actual directory: ../../.git/objects/37
+Present subdirectories: []
+Present files: ['20b587075d59b8d5f8de199fcea4cbbc91782b', '8137db8d85552caaeb02cb15748c916cd40239', 'd06d617c17f02e664d57bd467e0bb246ef7257']
+Testing file: ../../.git/objects/37/20b587075d59b8d5f8de199fcea4cbbc91782b
+Write on csv file ../../.git/objects/37/20b587075d59b8d5f8de199fcea4cbbc91782b,33133,18295873486317458,14,3,1000,1000,707,1582042786.0,b'2020-02-18 16:19:46',1582042786.0,b'2020-02-18 16:19:46',1582042796.1510174,b'2020-02-18 16:19:56'
+Testing file: ../../.git/objects/37/8137db8d85552caaeb02cb15748c916cd40239
+Write on csv file ../../.git/objects/37/8137db8d85552caaeb02cb15748c916cd40239,33133,16325548650152092,14,2,1000,1000,573,1585834992.7086694,b'2020-04-02 13:43:12',1585834992.7086694,b'2020-04-02 13:43:12',1585835005.7773302,b'2020-04-02 13:43:25'
+Testing file: ../../.git/objects/37/d06d617c17f02e664d57bd467e0bb246ef7257
+Write on csv file ../../.git/objects/37/d06d617c17f02e664d57bd467e0bb246ef7257,33133,146929937843087198,14,3,1000,1000,331,1582042786.0,b'2020-02-18 16:19:46',1582042786.0,b'2020-02-18 16:19:46',1582042796.098159,b'2020-02-18 16:19:56'
+Analizing directory ../../.git/objects/38
+Actual directory: ../../.git/objects/38
+Present subdirectories: []
+Present files: ['464b7ef3b7d7a5d29e5ef1d6a6a3161f338ba1']
+Testing file: ../../.git/objects/38/464b7ef3b7d7a5d29e5ef1d6a6a3161f338ba1
+Write on csv file ../../.git/objects/38/464b7ef3b7d7a5d29e5ef1d6a6a3161f338ba1,33133,4785074604170236,14,3,1000,1000,281,1582295635.0,b'2020-02-21 14:33:55',1582295635.0,b'2020-02-21 14:33:55',1582295653.125988,b'2020-02-21 14:34:13'
+Analizing directory ../../.git/objects/3a
+Actual directory: ../../.git/objects/3a
+Present subdirectories: []
+Present files: ['9ff847afbd91c15d74c453fd47873f815ea3c6', 'ae76b7f26949e8a278f97e9da90c5fc477b237', 'd06e8f1575db0154d4cc2b36fc0d805faa1aaa']
+Testing file: ../../.git/objects/3a/9ff847afbd91c15d74c453fd47873f815ea3c6
+Write on csv file ../../.git/objects/3a/9ff847afbd91c15d74c453fd47873f815ea3c6,33133,119345390126158408,14,2,1000,1000,168,1585080350.7575774,b'2020-03-24 20:05:50',1585080350.7575774,b'2020-03-24 20:05:50',1585120248.4974916,b'2020-03-25 07:10:48'
+Testing file: ../../.git/objects/3a/ae76b7f26949e8a278f97e9da90c5fc477b237
+Write on csv file ../../.git/objects/3a/ae76b7f26949e8a278f97e9da90c5fc477b237,33133,1688849861081395,14,3,1000,1000,402240,1584716138.0,b'2020-03-20 14:55:38',1584716138.0,b'2020-03-20 14:55:38',1584716143.9619033,b'2020-03-20 14:55:43'
+Testing file: ../../.git/objects/3a/d06e8f1575db0154d4cc2b36fc0d805faa1aaa
+Write on csv file ../../.git/objects/3a/d06e8f1575db0154d4cc2b36fc0d805faa1aaa,33133,9288674232587514,14,2,1000,1000,99,1585047323.1821537,b'2020-03-24 10:55:23',1585047323.1821537,b'2020-03-24 10:55:23',1585047335.7607675,b'2020-03-24 10:55:35'
+Analizing directory ../../.git/objects/3b
+Actual directory: ../../.git/objects/3b
+Present subdirectories: []
+Present files: ['6b0ad55df8573c208227c440cacda04d837923']
+Testing file: ../../.git/objects/3b/6b0ad55df8573c208227c440cacda04d837923
+Write on csv file ../../.git/objects/3b/6b0ad55df8573c208227c440cacda04d837923,33133,3940649674038974,14,3,1000,1000,54,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295650.9287236,b'2020-02-21 14:34:10'
+Analizing directory ../../.git/objects/3d
+Actual directory: ../../.git/objects/3d
+Present subdirectories: []
+Present files: ['e62f7a19d7a7aa31e503b5b568731d3c63a024', 'f93e090a699c1f6ee301bfdcd1edb66eeb54eb']
+Testing file: ../../.git/objects/3d/e62f7a19d7a7aa31e503b5b568731d3c63a024
+Write on csv file ../../.git/objects/3d/e62f7a19d7a7aa31e503b5b568731d3c63a024,33133,15481123719215154,14,2,1000,1000,371,1585047249.152526,b'2020-03-24 10:54:09',1585047249.152526,b'2020-03-24 10:54:09',1585047260.0397308,b'2020-03-24 10:54:20'
+Testing file: ../../.git/objects/3d/f93e090a699c1f6ee301bfdcd1edb66eeb54eb
+Write on csv file ../../.git/objects/3d/f93e090a699c1f6ee301bfdcd1edb66eeb54eb,33133,40532396646463196,14,2,1000,1000,49,1582042786.4110763,b'2020-02-18 16:19:46',1582042786.4110763,b'2020-02-18 16:19:46',1582042801.7530282,b'2020-02-18 16:20:01'
+Analizing directory ../../.git/objects/3e
+Actual directory: ../../.git/objects/3e
+Present subdirectories: []
+Present files: ['67a46f933f72a1224e3b87b9b65a9555035a43', '8c1613097f5fa3f1ec05b68b7bb50351d81294']
+Testing file: ../../.git/objects/3e/67a46f933f72a1224e3b87b9b65a9555035a43
+Write on csv file ../../.git/objects/3e/67a46f933f72a1224e3b87b9b65a9555035a43,33133,15199648743195752,14,2,1000,1000,586,1585829781.8582034,b'2020-04-02 12:16:21',1585829781.8582034,b'2020-04-02 12:16:21',1585829788.5288546,b'2020-04-02 12:16:28'
+Testing file: ../../.git/objects/3e/8c1613097f5fa3f1ec05b68b7bb50351d81294
+Write on csv file ../../.git/objects/3e/8c1613097f5fa3f1ec05b68b7bb50351d81294,33133,3377699721663741,14,2,1000,1000,170,1585047323.2137828,b'2020-03-24 10:55:23',1585047323.2137828,b'2020-03-24 10:55:23',1585047335.789692,b'2020-03-24 10:55:35'
+Analizing directory ../../.git/objects/40
+Actual directory: ../../.git/objects/40
+Present subdirectories: []
+Present files: ['4801436d2dbd57f405da51380db0fe52b8c243']
+Testing file: ../../.git/objects/40/4801436d2dbd57f405da51380db0fe52b8c243
+Write on csv file ../../.git/objects/40/4801436d2dbd57f405da51380db0fe52b8c243,33133,23080948091113547,14,2,1000,1000,100,1585829797.0890002,b'2020-04-02 12:16:37',1585829797.0890002,b'2020-04-02 12:16:37',1585829812.9743483,b'2020-04-02 12:16:52'
+Analizing directory ../../.git/objects/41
+Actual directory: ../../.git/objects/41
+Present subdirectories: []
+Present files: ['2e24aecf4583ae1be7ddec392bece7720b7251']
+Testing file: ../../.git/objects/41/2e24aecf4583ae1be7ddec392bece7720b7251
+Write on csv file ../../.git/objects/41/2e24aecf4583ae1be7ddec392bece7720b7251,33133,3659174698041173,14,2,1000,1000,184,1581403222.1033285,b'2020-02-11 06:40:22',1581403222.1033285,b'2020-02-11 06:40:22',1581403236.405553,b'2020-02-11 06:40:36'
+Analizing directory ../../.git/objects/44
+Actual directory: ../../.git/objects/44
+Present subdirectories: []
+Present files: ['b9260859dcbe445df8a5b117baed2f16286f73']
+Testing file: ../../.git/objects/44/b9260859dcbe445df8a5b117baed2f16286f73
+Write on csv file ../../.git/objects/44/b9260859dcbe445df8a5b117baed2f16286f73,33133,844424931521557,14,2,1000,1000,60,1582295554.6806426,b'2020-02-21 14:32:34',1582295554.6806426,b'2020-02-21 14:32:34',1582295575.2621584,b'2020-02-21 14:32:55'
+Analizing directory ../../.git/objects/45
+Actual directory: ../../.git/objects/45
+Present subdirectories: []
+Present files: ['86948c7f9671e5f19c16a47a75520650353de2']
+Testing file: ../../.git/objects/45/86948c7f9671e5f19c16a47a75520650353de2
+Write on csv file ../../.git/objects/45/86948c7f9671e5f19c16a47a75520650353de2,33133,5066549581927524,14,2,1000,1000,100,1585047278.214356,b'2020-03-24 10:54:38',1585047278.214356,b'2020-03-24 10:54:38',1585047297.0158107,b'2020-03-24 10:54:57'
+Analizing directory ../../.git/objects/47
+Actual directory: ../../.git/objects/47
+Present subdirectories: []
+Present files: ['a23fbb50ee0d97f2f6723a51eec915f8a4de58']
+Testing file: ../../.git/objects/47/a23fbb50ee0d97f2f6723a51eec915f8a4de58
+Write on csv file ../../.git/objects/47/a23fbb50ee0d97f2f6723a51eec915f8a4de58,33133,11540474046526479,14,2,1000,1000,573,1582295554.653188,b'2020-02-21 14:32:34',1582295554.653188,b'2020-02-21 14:32:34',1582295575.219167,b'2020-02-21 14:32:55'
+Analizing directory ../../.git/objects/49
+Actual directory: ../../.git/objects/49
+Present subdirectories: []
+Present files: ['728fd207439975873c8ed2b00809ccf1b503f9']
+Testing file: ../../.git/objects/49/728fd207439975873c8ed2b00809ccf1b503f9
+Write on csv file ../../.git/objects/49/728fd207439975873c8ed2b00809ccf1b503f9,33133,23643898043825841,14,2,1000,1000,100,1582042786.43102,b'2020-02-18 16:19:46',1582042786.43102,b'2020-02-18 16:19:46',1582042801.6264038,b'2020-02-18 16:20:01'
+Analizing directory ../../.git/objects/4a
+Actual directory: ../../.git/objects/4a
+Present subdirectories: []
+Present files: ['0d5e00f73fcf8a77aed91e793d5fbddb9c8e64']
+Testing file: ../../.git/objects/4a/0d5e00f73fcf8a77aed91e793d5fbddb9c8e64
+Write on csv file ../../.git/objects/4a/0d5e00f73fcf8a77aed91e793d5fbddb9c8e64,33133,6755399442191472,14,2,1000,1000,63,1585047278.224329,b'2020-03-24 10:54:38',1585047278.224329,b'2020-03-24 10:54:38',1585047297.0973723,b'2020-03-24 10:54:57'
+Analizing directory ../../.git/objects/52
+Actual directory: ../../.git/objects/52
+Present subdirectories: []
+Present files: ['066bceee7ae870000c134209f40a8b7dc19683', '5e64b8f3778c08990d7746e2edf05384aedbba']
+Testing file: ../../.git/objects/52/066bceee7ae870000c134209f40a8b7dc19683
+Write on csv file ../../.git/objects/52/066bceee7ae870000c134209f40a8b7dc19683,33133,3096224744634673,14,3,1000,1000,410729,1584716138.0,b'2020-03-20 14:55:38',1584716138.0,b'2020-03-20 14:55:38',1584716144.0396948,b'2020-03-20 14:55:44'
+Testing file: ../../.git/objects/52/5e64b8f3778c08990d7746e2edf05384aedbba
+Write on csv file ../../.git/objects/52/5e64b8f3778c08990d7746e2edf05384aedbba,33133,4503599628200907,14,2,1000,1000,100,1585829797.0570796,b'2020-04-02 12:16:37',1585829797.0570796,b'2020-04-02 12:16:37',1585829807.406376,b'2020-04-02 12:16:47'
+Analizing directory ../../.git/objects/53
+Actual directory: ../../.git/objects/53
+Present subdirectories: []
+Present files: ['b7e97432454d1b5d45c2b42a017802675bedf8']
+Testing file: ../../.git/objects/53/b7e97432454d1b5d45c2b42a017802675bedf8
+Write on csv file ../../.git/objects/53/b7e97432454d1b5d45c2b42a017802675bedf8,33133,4222124651795572,14,2,1000,1000,54,1585047278.2333055,b'2020-03-24 10:54:38',1585047278.2333055,b'2020-03-24 10:54:38',1585047297.0565557,b'2020-03-24 10:54:57'
+Analizing directory ../../.git/objects/54
+Actual directory: ../../.git/objects/54
+Present subdirectories: []
+Present files: ['5fec826904a94ab869433728c76731af4c919d', 'bb91a160f12b903092ca425fc0f4531db1cd3c']
+Testing file: ../../.git/objects/54/5fec826904a94ab869433728c76731af4c919d
+Write on csv file ../../.git/objects/54/5fec826904a94ab869433728c76731af4c919d,33133,20829148276719506,14,2,1000,1000,54,1582042786.4350095,b'2020-02-18 16:19:46',1582042786.4350095,b'2020-02-18 16:19:46',1582042801.6533334,b'2020-02-18 16:20:01'
+Testing file: ../../.git/objects/54/bb91a160f12b903092ca425fc0f4531db1cd3c
+Write on csv file ../../.git/objects/54/bb91a160f12b903092ca425fc0f4531db1cd3c,33133,51509920738889172,14,2,1000,1000,54,1585829797.0731044,b'2020-04-02 12:16:37',1585829797.0731044,b'2020-04-02 12:16:37',1585829806.667671,b'2020-04-02 12:16:46'
+Analizing directory ../../.git/objects/56
+Actual directory: ../../.git/objects/56
+Present subdirectories: []
+Present files: ['d625c40333819aaaf25c610f3add5913222cd6']
+Testing file: ../../.git/objects/56/d625c40333819aaaf25c610f3add5913222cd6
+Write on csv file ../../.git/objects/56/d625c40333819aaaf25c610f3add5913222cd6,33133,20266198324247953,14,2,1000,1000,235,1582295545.3639562,b'2020-02-21 14:32:25',1582295545.3639562,b'2020-02-21 14:32:25',1582295560.3858511,b'2020-02-21 14:32:40'
+Analizing directory ../../.git/objects/57
+Actual directory: ../../.git/objects/57
+Present subdirectories: []
+Present files: ['24f31241bc5ce44a81bfd5c062e189adcd2547']
+Testing file: ../../.git/objects/57/24f31241bc5ce44a81bfd5c062e189adcd2547
+Write on csv file ../../.git/objects/57/24f31241bc5ce44a81bfd5c062e189adcd2547,33133,18014398509604867,14,3,1000,1000,6655,1582042786.0,b'2020-02-18 16:19:46',1582042786.0,b'2020-02-18 16:19:46',1582042795.8956985,b'2020-02-18 16:19:55'
+Analizing directory ../../.git/objects/58
+Actual directory: ../../.git/objects/58
+Present subdirectories: []
+Present files: ['5f1d5dc23b05a3bba6901c17997a5e04b6afbf']
+Testing file: ../../.git/objects/58/5f1d5dc23b05a3bba6901c17997a5e04b6afbf
+Write on csv file ../../.git/objects/58/5f1d5dc23b05a3bba6901c17997a5e04b6afbf,33133,4222124651477313,14,2,1000,1000,71,1584199395.1160414,b'2020-03-14 15:23:15',1584199395.1160414,b'2020-03-14 15:23:15',1584199410.3400612,b'2020-03-14 15:23:30'
+Analizing directory ../../.git/objects/5c
+Actual directory: ../../.git/objects/5c
+Present subdirectories: []
+Present files: ['35eebece7f9c7b66f0d5fec7c8e95047a3e1f9', '59861799e3d5698ee8cade9cc3db3f6cff994a']
+Testing file: ../../.git/objects/5c/35eebece7f9c7b66f0d5fec7c8e95047a3e1f9
+Write on csv file ../../.git/objects/5c/35eebece7f9c7b66f0d5fec7c8e95047a3e1f9,33133,8725724278119143,14,3,1000,1000,1494,1582295635.0,b'2020-02-21 14:33:55',1582295635.0,b'2020-02-21 14:33:55',1582295651.4922152,b'2020-02-21 14:34:11'
+Testing file: ../../.git/objects/5c/59861799e3d5698ee8cade9cc3db3f6cff994a
+Write on csv file ../../.git/objects/5c/59861799e3d5698ee8cade9cc3db3f6cff994a,33133,4503599627461592,14,3,1000,1000,14574,1582295635.0,b'2020-02-21 14:33:55',1582295635.0,b'2020-02-21 14:33:55',1582295651.659833,b'2020-02-21 14:34:11'
+Analizing directory ../../.git/objects/5d
+Actual directory: ../../.git/objects/5d
+Present subdirectories: []
+Present files: ['c1558a9c943b1b6b452afbc6b2cd85463e97ee']
+Testing file: ../../.git/objects/5d/c1558a9c943b1b6b452afbc6b2cd85463e97ee
+Write on csv file ../../.git/objects/5d/c1558a9c943b1b6b452afbc6b2cd85463e97ee,33133,18577348462990056,14,2,1000,1000,266,1579594718.9998665,b'2020-01-21 08:18:38',1579594718.9998665,b'2020-01-21 08:18:38',1579707839.343162,b'2020-01-22 15:43:59'
+Analizing directory ../../.git/objects/5e
+Actual directory: ../../.git/objects/5e
+Present subdirectories: []
+Present files: ['2a3c543ae755eb0753fe4349913c305164c701']
+Testing file: ../../.git/objects/5e/2a3c543ae755eb0753fe4349913c305164c701
+Write on csv file ../../.git/objects/5e/2a3c543ae755eb0753fe4349913c305164c701,33133,7599824372323575,14,2,1000,1000,54,1585047323.1588595,b'2020-03-24 10:55:23',1585047323.1588595,b'2020-03-24 10:55:23',1585047335.6959145,b'2020-03-24 10:55:35'
+Analizing directory ../../.git/objects/60
+Actual directory: ../../.git/objects/60
+Present subdirectories: []
+Present files: ['2a6384aa5e84804bb5140a109ac4b9b7f774c8', 'df67eaa61549e80d91fbead5aa595a2ece43cf']
+Testing file: ../../.git/objects/60/2a6384aa5e84804bb5140a109ac4b9b7f774c8
+Write on csv file ../../.git/objects/60/2a6384aa5e84804bb5140a109ac4b9b7f774c8,33133,49539595902136811,14,2,1000,1000,198,1585080295.0,b'2020-03-24 20:04:55',1585080295.0,b'2020-03-24 20:04:55',1585120248.2095952,b'2020-03-25 07:10:48'
+Testing file: ../../.git/objects/60/df67eaa61549e80d91fbead5aa595a2ece43cf
+Write on csv file ../../.git/objects/60/df67eaa61549e80d91fbead5aa595a2ece43cf,33133,844424931521560,14,2,1000,1000,54,1582295554.6950758,b'2020-02-21 14:32:34',1582295554.6950758,b'2020-02-21 14:32:34',1582295582.9261107,b'2020-02-21 14:33:02'
+Analizing directory ../../.git/objects/61
+Actual directory: ../../.git/objects/61
+Present subdirectories: []
+Present files: ['2024da69377354899f409b912d13e8c87b1df9']
+Testing file: ../../.git/objects/61/2024da69377354899f409b912d13e8c87b1df9
+Write on csv file ../../.git/objects/61/2024da69377354899f409b912d13e8c87b1df9,33133,3377699721611887,14,2,1000,1000,54,1585080350.7166872,b'2020-03-24 20:05:50',1585080350.7166872,b'2020-03-24 20:05:50',1585120248.2470322,b'2020-03-25 07:10:48'
+Analizing directory ../../.git/objects/67
+Actual directory: ../../.git/objects/67
+Present subdirectories: []
+Present files: ['a8408209b669ac0579f909e6801f80bbdd6d88']
+Testing file: ../../.git/objects/67/a8408209b669ac0579f909e6801f80bbdd6d88
+Write on csv file ../../.git/objects/67/a8408209b669ac0579f909e6801f80bbdd6d88,33133,38562071809494695,14,2,1000,1000,465,1584716138.1168523,b'2020-03-20 14:55:38',1584716138.1168523,b'2020-03-20 14:55:38',1584716150.4913003,b'2020-03-20 14:55:50'
+Analizing directory ../../.git/objects/69
+Actual directory: ../../.git/objects/69
+Present subdirectories: []
+Present files: ['65e48de0dee99223cdc9a656c40fd7d2aecb6e', 'eabbe39c23da4026cffa3379c48b2d646b5063', 'f0e09696bce9aac5ba3c997b3ab3944718982b', 'f125f61f50d6d75e65d1a7f64cdf850bcfe809']
+Testing file: ../../.git/objects/69/65e48de0dee99223cdc9a656c40fd7d2aecb6e
+Write on csv file ../../.git/objects/69/65e48de0dee99223cdc9a656c40fd7d2aecb6e,33133,16888498602762200,14,3,1000,1000,112,1582042786.0,b'2020-02-18 16:19:46',1582042786.0,b'2020-02-18 16:19:46',1582042796.572888,b'2020-02-18 16:19:56'
+Testing file: ../../.git/objects/69/eabbe39c23da4026cffa3379c48b2d646b5063
+Write on csv file ../../.git/objects/69/eabbe39c23da4026cffa3379c48b2d646b5063,33133,104427216360493132,14,2,1000,1000,541,1585829797.0979774,b'2020-04-02 12:16:37',1585829797.0979774,b'2020-04-02 12:16:37',1585829808.795539,b'2020-04-02 12:16:48'
+Testing file: ../../.git/objects/69/f0e09696bce9aac5ba3c997b3ab3944718982b
+Write on csv file ../../.git/objects/69/f0e09696bce9aac5ba3c997b3ab3944718982b,33133,15199648742466290,14,3,1000,1000,27120,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295649.7798395,b'2020-02-21 14:34:09'
+Testing file: ../../.git/objects/69/f125f61f50d6d75e65d1a7f64cdf850bcfe809
+Write on csv file ../../.git/objects/69/f125f61f50d6d75e65d1a7f64cdf850bcfe809,33133,3377699721330573,14,2,1000,1000,72,1581405032.1053438,b'2020-02-11 07:10:32',1581405032.1053438,b'2020-02-11 07:10:32',1581405042.5860379,b'2020-02-11 07:10:42'
+Analizing directory ../../.git/objects/6a
+Actual directory: ../../.git/objects/6a
+Present subdirectories: []
+Present files: ['76be76452ee00f281d2b74bed0e6ed012427bd']
+Testing file: ../../.git/objects/6a/76be76452ee00f281d2b74bed0e6ed012427bd
+Write on csv file ../../.git/objects/6a/76be76452ee00f281d2b74bed0e6ed012427bd,33133,1688849861081411,14,2,1000,1000,402,1584199395.1240177,b'2020-03-14 15:23:15',1584199395.1240177,b'2020-03-14 15:23:15',1584199410.2522466,b'2020-03-14 15:23:30'
+Analizing directory ../../.git/objects/6b
+Actual directory: ../../.git/objects/6b
+Present subdirectories: []
+Present files: ['7971c85a6ed1fb43f921d3a3b8ce863e294f23']
+Testing file: ../../.git/objects/6b/7971c85a6ed1fb43f921d3a3b8ce863e294f23
+Write on csv file ../../.git/objects/6b/7971c85a6ed1fb43f921d3a3b8ce863e294f23,33133,3096224744821333,14,2,1000,1000,454922,1585834972.4209878,b'2020-04-02 13:42:52',1585834972.4209878,b'2020-04-02 13:42:52',1585834982.8046343,b'2020-04-02 13:43:02'
+Analizing directory ../../.git/objects/6c
+Actual directory: ../../.git/objects/6c
+Present subdirectories: []
+Present files: ['aa89943013e3467da8a844c62123ec41625cda', 'aecb0eff7e5c7f4187fd42ca4b34d8dfe459fa']
+Testing file: ../../.git/objects/6c/aa89943013e3467da8a844c62123ec41625cda
+Write on csv file ../../.git/objects/6c/aa89943013e3467da8a844c62123ec41625cda,33133,19703248369875674,14,2,1000,1000,53,1582042786.424039,b'2020-02-18 16:19:46',1582042786.424039,b'2020-02-18 16:19:46',1582042801.5954506,b'2020-02-18 16:20:01'
+Testing file: ../../.git/objects/6c/aecb0eff7e5c7f4187fd42ca4b34d8dfe459fa
+Write on csv file ../../.git/objects/6c/aecb0eff7e5c7f4187fd42ca4b34d8dfe459fa,33133,3377699721330575,14,2,1000,1000,227,1581405032.1103299,b'2020-02-11 07:10:32',1581405032.1103299,b'2020-02-11 07:10:32',1581405045.9476593,b'2020-02-11 07:10:45'
+Analizing directory ../../.git/objects/6e
+Actual directory: ../../.git/objects/6e
+Present subdirectories: []
+Present files: ['f2b70a20c56002f8544d85e699dc41ad9d531b']
+Testing file: ../../.git/objects/6e/f2b70a20c56002f8544d85e699dc41ad9d531b
+Write on csv file ../../.git/objects/6e/f2b70a20c56002f8544d85e699dc41ad9d531b,33133,6473924465480976,14,2,1000,1000,518,1585047362.62718,b'2020-03-24 10:56:02',1585047362.62718,b'2020-03-24 10:56:02',1585047378.3548455,b'2020-03-24 10:56:18'
+Analizing directory ../../.git/objects/6f
+Actual directory: ../../.git/objects/6f
+Present subdirectories: []
+Present files: ['c181feb96142792a68f09c3f18fd459a7c3b57', 'db91d9892cd8108f2a8a6e03ffdfbc6af015e3']
+Testing file: ../../.git/objects/6f/c181feb96142792a68f09c3f18fd459a7c3b57
+Write on csv file ../../.git/objects/6f/c181feb96142792a68f09c3f18fd459a7c3b57,33133,18014398510308042,14,2,1000,1000,55,1585834992.6917138,b'2020-04-02 13:43:12',1585834992.6917138,b'2020-04-02 13:43:12',1585835006.7036314,b'2020-04-02 13:43:26'
+Testing file: ../../.git/objects/6f/db91d9892cd8108f2a8a6e03ffdfbc6af015e3
+Write on csv file ../../.git/objects/6f/db91d9892cd8108f2a8a6e03ffdfbc6af015e3,33133,1125899908232203,14,2,1000,1000,169,1582295545.4040291,b'2020-02-21 14:32:25',1582295545.4040291,b'2020-02-21 14:32:25',1582295566.4526203,b'2020-02-21 14:32:46'
+Analizing directory ../../.git/objects/70
+Actual directory: ../../.git/objects/70
+Present subdirectories: []
+Present files: ['40b19db42bf226acf46eca00b5fe1f7931e6aa']
+Testing file: ../../.git/objects/70/40b19db42bf226acf46eca00b5fe1f7931e6aa
+Write on csv file ../../.git/objects/70/40b19db42bf226acf46eca00b5fe1f7931e6aa,33133,1125899908232223,14,2,1000,1000,289,1582295556.7984495,b'2020-02-21 14:32:36',1582295556.7984495,b'2020-02-21 14:32:36',1582295584.7277632,b'2020-02-21 14:33:04'
+Analizing directory ../../.git/objects/71
+Actual directory: ../../.git/objects/71
+Present subdirectories: []
+Present files: ['1fdf0a4c6ce6d83d6f246b59e777e830ffa5a3', '368ae56e0c8a0e35bba6bf272da58acb9099a2', '60ec53c338f8de6684b581a904d7c4330ca12c']
+Testing file: ../../.git/objects/71/1fdf0a4c6ce6d83d6f246b59e777e830ffa5a3
+Write on csv file ../../.git/objects/71/1fdf0a4c6ce6d83d6f246b59e777e830ffa5a3,33133,3377699721611891,14,2,1000,1000,99,1585080350.7336402,b'2020-03-24 20:05:50',1585080350.7336402,b'2020-03-24 20:05:50',1585120248.4116845,b'2020-03-25 07:10:48'
+Testing file: ../../.git/objects/71/368ae56e0c8a0e35bba6bf272da58acb9099a2
+Write on csv file ../../.git/objects/71/368ae56e0c8a0e35bba6bf272da58acb9099a2,33133,1688849861081413,14,2,1000,1000,167,1584199395.1355448,b'2020-03-14 15:23:15',1584199395.1355448,b'2020-03-14 15:23:15',1584199410.3061028,b'2020-03-14 15:23:30'
+Testing file: ../../.git/objects/71/60ec53c338f8de6684b581a904d7c4330ca12c
+Write on csv file ../../.git/objects/71/60ec53c338f8de6684b581a904d7c4330ca12c,33133,59672695063743078,14,2,1000,1000,388,1585080295.1653247,b'2020-03-24 20:04:55',1585080295.1653247,b'2020-03-24 20:04:55',1585120248.3707037,b'2020-03-25 07:10:48'
+Analizing directory ../../.git/objects/73
+Actual directory: ../../.git/objects/73
+Present subdirectories: []
+Present files: ['24e1b01b46e2f0aa3d29222976ac95e7be94ea']
+Testing file: ../../.git/objects/73/24e1b01b46e2f0aa3d29222976ac95e7be94ea
+Write on csv file ../../.git/objects/73/24e1b01b46e2f0aa3d29222976ac95e7be94ea,33133,9570149208317710,14,2,1000,1000,146,1584716151.702945,b'2020-03-20 14:55:51',1584716151.702945,b'2020-03-20 14:55:51',1584716166.032094,b'2020-03-20 14:56:06'
+Analizing directory ../../.git/objects/74
+Actual directory: ../../.git/objects/74
+Present subdirectories: []
+Present files: ['718b1ec55ec1dde6b5ac3faa9e294017901cd6']
+Testing file: ../../.git/objects/74/718b1ec55ec1dde6b5ac3faa9e294017901cd6
+Write on csv file ../../.git/objects/74/718b1ec55ec1dde6b5ac3faa9e294017901cd6,33133,7318349394563000,14,2,1000,1000,134,1579594718.977925,b'2020-01-21 08:18:38',1579594718.977925,b'2020-01-21 08:18:38',1579707840.0127318,b'2020-01-22 15:44:00'
+Analizing directory ../../.git/objects/76
+Actual directory: ../../.git/objects/76
+Present subdirectories: []
+Present files: ['917fb0a1317e45a4275dd30559625a37322d69']
+Testing file: ../../.git/objects/76/917fb0a1317e45a4275dd30559625a37322d69
+Write on csv file ../../.git/objects/76/917fb0a1317e45a4275dd30559625a37322d69,33133,1688849861081400,14,3,1000,1000,1269,1584199397.0,b'2020-03-14 15:23:17',1584199397.0,b'2020-03-14 15:23:17',1584199406.232232,b'2020-03-14 15:23:26'
+Analizing directory ../../.git/objects/78
+Actual directory: ../../.git/objects/78
+Present subdirectories: []
+Present files: ['94989a500b38ac2da4f3c411b803fed31c5ab8', 'd14333ed3896e83d1b3a88dd3b4528186f8cee']
+Testing file: ../../.git/objects/78/94989a500b38ac2da4f3c411b803fed31c5ab8
+Write on csv file ../../.git/objects/78/94989a500b38ac2da4f3c411b803fed31c5ab8,33133,14636698789088676,14,2,1000,1000,259,1584716138.1028898,b'2020-03-20 14:55:38',1584716138.1028898,b'2020-03-20 14:55:38',1584716150.5761337,b'2020-03-20 14:55:50'
+Testing file: ../../.git/objects/78/d14333ed3896e83d1b3a88dd3b4528186f8cee
+Write on csv file ../../.git/objects/78/d14333ed3896e83d1b3a88dd3b4528186f8cee,33133,33495522229696805,14,2,1000,1000,293,1585047243.1058843,b'2020-03-24 10:54:03',1585047243.1058843,b'2020-03-24 10:54:03',1585047251.633911,b'2020-03-24 10:54:11'
+Analizing directory ../../.git/objects/79
+Actual directory: ../../.git/objects/79
+Present subdirectories: []
+Present files: ['7d119dcb9d6707247eec80a25bcf9f0cefa8c7', 'ed099624cf6a19b50ea68cf5328a5a1f63d9aa']
+Testing file: ../../.git/objects/79/7d119dcb9d6707247eec80a25bcf9f0cefa8c7
+Write on csv file ../../.git/objects/79/7d119dcb9d6707247eec80a25bcf9f0cefa8c7,33133,39969446693730602,14,2,1000,1000,439,1584199376.459069,b'2020-03-14 15:22:56',1584199376.459069,b'2020-03-14 15:22:56',1584199386.356083,b'2020-03-14 15:23:06'
+Testing file: ../../.git/objects/79/ed099624cf6a19b50ea68cf5328a5a1f63d9aa
+Write on csv file ../../.git/objects/79/ed099624cf6a19b50ea68cf5328a5a1f63d9aa,33133,32932572275276219,14,2,1000,1000,45,1582042786.415063,b'2020-02-18 16:19:46',1582042786.415063,b'2020-02-18 16:19:46',1582042801.7390676,b'2020-02-18 16:20:01'
+Analizing directory ../../.git/objects/7a
+Actual directory: ../../.git/objects/7a
+Present subdirectories: []
+Present files: ['8370e4669278b6d7c5f64def3b5580420d1048']
+Testing file: ../../.git/objects/7a/8370e4669278b6d7c5f64def3b5580420d1048
+Write on csv file ../../.git/objects/7a/8370e4669278b6d7c5f64def3b5580420d1048,33133,4222124651788598,14,2,1000,1000,461,1585047263.2149706,b'2020-03-24 10:54:23',1585047263.2149706,b'2020-03-24 10:54:23',1585047273.4240274,b'2020-03-24 10:54:33'
+Analizing directory ../../.git/objects/7b
+Actual directory: ../../.git/objects/7b
+Present subdirectories: []
+Present files: ['6b0411f0364cfe7b07fdeb2f0ab228e5327792']
+Testing file: ../../.git/objects/7b/6b0411f0364cfe7b07fdeb2f0ab228e5327792
+Write on csv file ../../.git/objects/7b/6b0411f0364cfe7b07fdeb2f0ab228e5327792,33133,23080948090404922,14,2,1000,1000,54,1582042786.4380014,b'2020-02-18 16:19:46',1582042786.4380014,b'2020-02-18 16:19:46',1582042801.6114473,b'2020-02-18 16:20:01'
+Analizing directory ../../.git/objects/7e
+Actual directory: ../../.git/objects/7e
+Present subdirectories: []
+Present files: ['3bd5d1539cb2017c543355825deef7f19176aa']
+Testing file: ../../.git/objects/7e/3bd5d1539cb2017c543355825deef7f19176aa
+Write on csv file ../../.git/objects/7e/3bd5d1539cb2017c543355825deef7f19176aa,33133,17169973579476145,14,3,1000,1000,874,1582042786.0,b'2020-02-18 16:19:46',1582042786.0,b'2020-02-18 16:19:46',1582042795.032011,b'2020-02-18 16:19:55'
+Analizing directory ../../.git/objects/7f
+Actual directory: ../../.git/objects/7f
+Present subdirectories: []
+Present files: ['1a014c21b2583813fc53b37f327aa5bb9ce7df']
+Testing file: ../../.git/objects/7f/1a014c21b2583813fc53b37f327aa5bb9ce7df
+Write on csv file ../../.git/objects/7f/1a014c21b2583813fc53b37f327aa5bb9ce7df,33133,14355223813379321,14,2,1000,1000,54,1585047323.170429,b'2020-03-24 10:55:23',1585047323.170429,b'2020-03-24 10:55:23',1585047335.7328174,b'2020-03-24 10:55:35'
+Analizing directory ../../.git/objects/80
+Actual directory: ../../.git/objects/80
+Present subdirectories: []
+Present files: ['06c55fdeac3d728abd26c26b0a2de8ccf70445']
+Testing file: ../../.git/objects/80/06c55fdeac3d728abd26c26b0a2de8ccf70445
+Write on csv file ../../.git/objects/80/06c55fdeac3d728abd26c26b0a2de8ccf70445,33133,2533274790482627,14,2,1000,1000,215,1579594718.9918883,b'2020-01-21 08:18:38',1579594718.9918883,b'2020-01-21 08:18:38',1579707800.0804572,b'2020-01-22 15:43:20'
+Analizing directory ../../.git/objects/82
+Actual directory: ../../.git/objects/82
+Present subdirectories: []
+Present files: ['7905710bd9150d2d1ac828e7f8766304f93454']
+Testing file: ../../.git/objects/82/7905710bd9150d2d1ac828e7f8766304f93454
+Write on csv file ../../.git/objects/82/7905710bd9150d2d1ac828e7f8766304f93454,33133,10133099161660416,14,2,1000,1000,129,1579590240.920406,b'2020-01-21 07:04:00',1579590240.920406,b'2020-01-21 07:04:00',1579707799.9886167,b'2020-01-22 15:43:19'
+Analizing directory ../../.git/objects/84
+Actual directory: ../../.git/objects/84
+Present subdirectories: []
+Present files: ['72eb7ac2568035bec8033caec6f0dbbe0aeb57', 'c803389b220e4642eefe5e536441a2a1084a6f']
+Testing file: ../../.git/objects/84/72eb7ac2568035bec8033caec6f0dbbe0aeb57
+Write on csv file ../../.git/objects/84/72eb7ac2568035bec8033caec6f0dbbe0aeb57,33133,37436171902651554,14,2,1000,1000,99,1584716134.1187086,b'2020-03-20 14:55:34',1584716134.1187086,b'2020-03-20 14:55:34',1584716142.1447036,b'2020-03-20 14:55:42'
+Testing file: ../../.git/objects/84/c803389b220e4642eefe5e536441a2a1084a6f
+Write on csv file ../../.git/objects/84/c803389b220e4642eefe5e536441a2a1084a6f,33133,2533274790482553,14,3,1000,1000,378,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295650.099939,b'2020-02-21 14:34:10'
+Analizing directory ../../.git/objects/89
+Actual directory: ../../.git/objects/89
+Present subdirectories: []
+Present files: ['a4b7109bff130f10b2c54482c0929562227522']
+Testing file: ../../.git/objects/89/a4b7109bff130f10b2c54482c0929562227522
+Write on csv file ../../.git/objects/89/a4b7109bff130f10b2c54482c0929562227522,33133,13229323906334893,14,2,1000,1000,172,1585834992.7226317,b'2020-04-02 13:43:12',1585834992.7226317,b'2020-04-02 13:43:12',1585835011.8384433,b'2020-04-02 13:43:31'
+Analizing directory ../../.git/objects/8c
+Actual directory: ../../.git/objects/8c
+Present subdirectories: []
+Present files: ['b339d59fe3ab9bb74d6b507c856addcf0df245']
+Testing file: ../../.git/objects/8c/b339d59fe3ab9bb74d6b507c856addcf0df245
+Write on csv file ../../.git/objects/8c/b339d59fe3ab9bb74d6b507c856addcf0df245,33133,24769797950672040,14,2,1000,1000,99,1582042786.4449842,b'2020-02-18 16:19:46',1582042786.4449842,b'2020-02-18 16:19:46',1582042801.7101438,b'2020-02-18 16:20:01'
+Analizing directory ../../.git/objects/8e
+Actual directory: ../../.git/objects/8e
+Present subdirectories: []
+Present files: ['e4064127eb06652c66c12e3e17e4720005bfdd', 'f97a9b67c3139cd3501caa90df4068d128f3d4']
+Testing file: ../../.git/objects/8e/e4064127eb06652c66c12e3e17e4720005bfdd
+Write on csv file ../../.git/objects/8e/e4064127eb06652c66c12e3e17e4720005bfdd,33133,19140298416415664,14,3,1000,1000,441,1582295635.0,b'2020-02-21 14:33:55',1582295635.0,b'2020-02-21 14:33:55',1582295652.2860909,b'2020-02-21 14:34:12'
+Testing file: ../../.git/objects/8e/f97a9b67c3139cd3501caa90df4068d128f3d4
+Write on csv file ../../.git/objects/8e/f97a9b67c3139cd3501caa90df4068d128f3d4,33133,15481123719210930,14,3,1000,1000,204,1582042786.0,b'2020-02-18 16:19:46',1582042786.0,b'2020-02-18 16:19:46',1582042796.287652,b'2020-02-18 16:19:56'
+Analizing directory ../../.git/objects/91
+Actual directory: ../../.git/objects/91
+Present subdirectories: []
+Present files: ['adad566294d8d43722907d9aec6e9798343839']
+Testing file: ../../.git/objects/91/adad566294d8d43722907d9aec6e9798343839
+Write on csv file ../../.git/objects/91/adad566294d8d43722907d9aec6e9798343839,33133,4503599627457413,14,2,1000,1000,2991357,1579594730.6675763,b'2020-01-21 08:18:50',1579594730.6675763,b'2020-01-21 08:18:50',1579707839.4218898,b'2020-01-22 15:43:59'
+Analizing directory ../../.git/objects/93
+Actual directory: ../../.git/objects/93
+Present subdirectories: []
+Present files: ['4a3b5d6cac3cf3542d3f39b0909724979c0012', '62d109becfcc94910f9d458bf091a425e10c7b']
+Testing file: ../../.git/objects/93/4a3b5d6cac3cf3542d3f39b0909724979c0012
+Write on csv file ../../.git/objects/93/4a3b5d6cac3cf3542d3f39b0909724979c0012,33133,7599824371343142,14,2,1000,1000,168,1584716151.7707696,b'2020-03-20 14:55:51',1584716151.7707696,b'2020-03-20 14:55:51',1584716166.063975,b'2020-03-20 14:56:06'
+Testing file: ../../.git/objects/93/62d109becfcc94910f9d458bf091a425e10c7b
+Write on csv file ../../.git/objects/93/62d109becfcc94910f9d458bf091a425e10c7b,33133,8444249302455333,14,2,1000,1000,53,1585047278.1943998,b'2020-03-24 10:54:38',1585047278.1943998,b'2020-03-24 10:54:38',1585047290.7515414,b'2020-03-24 10:54:50'
+Analizing directory ../../.git/objects/94
+Actual directory: ../../.git/objects/94
+Present subdirectories: []
+Present files: ['858eb24eb270712699d6222e65eff493d5c483', 'c130e5535929741d4db552456ce4f5e1eac689']
+Testing file: ../../.git/objects/94/858eb24eb270712699d6222e65eff493d5c483
+Write on csv file ../../.git/objects/94/858eb24eb270712699d6222e65eff493d5c483,33133,3377699721330572,14,2,1000,1000,54,1581405032.1013558,b'2020-02-11 07:10:32',1581405032.1013558,b'2020-02-11 07:10:32',1581405045.974537,b'2020-02-11 07:10:45'
+Testing file: ../../.git/objects/94/c130e5535929741d4db552456ce4f5e1eac689
+Write on csv file ../../.git/objects/94/c130e5535929741d4db552456ce4f5e1eac689,33133,124693414682942931,14,2,1000,1000,165,1585080068.5102532,b'2020-03-24 20:01:08',1585080068.5102532,b'2020-03-24 20:01:08',1585120248.5353923,b'2020-03-25 07:10:48'
+Analizing directory ../../.git/objects/98
+Actual directory: ../../.git/objects/98
+Present subdirectories: []
+Present files: ['3d9174ebd5ad3545dfbc77506e89e526fd9681']
+Testing file: ../../.git/objects/98/3d9174ebd5ad3545dfbc77506e89e526fd9681
+Write on csv file ../../.git/objects/98/3d9174ebd5ad3545dfbc77506e89e526fd9681,33133,3659174698242668,14,2,1000,1000,434484,1585834972.443964,b'2020-04-02 13:42:52',1585834972.443964,b'2020-04-02 13:42:52',1585834982.856063,b'2020-04-02 13:43:02'
+Analizing directory ../../.git/objects/99
+Actual directory: ../../.git/objects/99
+Present subdirectories: []
+Present files: ['315f8b3324b0e638c40ecb2b0a78460fa42768']
+Testing file: ../../.git/objects/99/315f8b3324b0e638c40ecb2b0a78460fa42768
+Write on csv file ../../.git/objects/99/315f8b3324b0e638c40ecb2b0a78460fa42768,33133,21110623254427947,14,2,1000,1000,2113,1585047249.1665084,b'2020-03-24 10:54:09',1585047249.1665084,b'2020-03-24 10:54:09',1585047260.0178263,b'2020-03-24 10:54:20'
+Analizing directory ../../.git/objects/9a
+Actual directory: ../../.git/objects/9a
+Present subdirectories: []
+Present files: ['caf352b13df48128199ca12e046d1bded1fc86']
+Testing file: ../../.git/objects/9a/caf352b13df48128199ca12e046d1bded1fc86
+Write on csv file ../../.git/objects/9a/caf352b13df48128199ca12e046d1bded1fc86,33133,1688849861081427,14,2,1000,1000,72,1584199421.629086,b'2020-03-14 15:23:41',1584199421.629086,b'2020-03-14 15:23:41',1584199433.6428888,b'2020-03-14 15:23:53'
+Analizing directory ../../.git/objects/9b
+Actual directory: ../../.git/objects/9b
+Present subdirectories: []
+Present files: ['bdeacda5d7ff413c2e2354f1ceb2f5f803e6ef']
+Testing file: ../../.git/objects/9b/bdeacda5d7ff413c2e2354f1ceb2f5f803e6ef
+Write on csv file ../../.git/objects/9b/bdeacda5d7ff413c2e2354f1ceb2f5f803e6ef,33133,8162774324698516,14,3,1000,1000,72,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295649.2637022,b'2020-02-21 14:34:09'
+Analizing directory ../../.git/objects/a2
+Actual directory: ../../.git/objects/a2
+Present subdirectories: []
+Present files: ['31506217bad65dc7698c9fbf9fe440314cdf1a', '7e81a92c3f6a52bffeb11d94f8e4b6e223cb0a']
+Testing file: ../../.git/objects/a2/31506217bad65dc7698c9fbf9fe440314cdf1a
+Write on csv file ../../.git/objects/a2/31506217bad65dc7698c9fbf9fe440314cdf1a,33133,59672695062748060,14,3,1000,1000,181,1582295635.0,b'2020-02-21 14:33:55',1582295635.0,b'2020-02-21 14:33:55',1582295652.403809,b'2020-02-21 14:34:12'
+Testing file: ../../.git/objects/a2/7e81a92c3f6a52bffeb11d94f8e4b6e223cb0a
+Write on csv file ../../.git/objects/a2/7e81a92c3f6a52bffeb11d94f8e4b6e223cb0a,33133,9851624184959715,14,2,1000,1000,29,1579594718.9958785,b'2020-01-21 08:18:38',1579594718.9958785,b'2020-01-21 08:18:38',1579707839.1502233,b'2020-01-22 15:43:59'
+Analizing directory ../../.git/objects/a8
+Actual directory: ../../.git/objects/a8
+Present subdirectories: []
+Present files: ['c25d6a15be531649160fe9bbcc544cf2a24e42']
+Testing file: ../../.git/objects/a8/c25d6a15be531649160fe9bbcc544cf2a24e42
+Write on csv file ../../.git/objects/a8/c25d6a15be531649160fe9bbcc544cf2a24e42,33133,2814749767193032,14,2,1000,1000,117,1579594718.981915,b'2020-01-21 08:18:38',1579594718.981915,b'2020-01-21 08:18:38',1579707799.9470236,b'2020-01-22 15:43:19'
+Analizing directory ../../.git/objects/aa
+Actual directory: ../../.git/objects/aa
+Present subdirectories: []
+Present files: ['49f938fb68517019ecf9a0ad82b8f29fad76d1', '8a08298da7d17e959d7c0a4b9aacaa4085857b', '99092001107f105a6fea6dcbba2cb080ceb87d']
+Testing file: ../../.git/objects/aa/49f938fb68517019ecf9a0ad82b8f29fad76d1
+Write on csv file ../../.git/objects/aa/49f938fb68517019ecf9a0ad82b8f29fad76d1,33133,33495522228702594,14,2,1000,1000,118,1584716138.087929,b'2020-03-20 14:55:38',1584716138.087929,b'2020-03-20 14:55:38',1584716144.2102785,b'2020-03-20 14:55:44'
+Testing file: ../../.git/objects/aa/8a08298da7d17e959d7c0a4b9aacaa4085857b
+Write on csv file ../../.git/objects/aa/8a08298da7d17e959d7c0a4b9aacaa4085857b,33133,844424931521555,14,2,1000,1000,72,1582295554.671254,b'2020-02-21 14:32:34',1582295554.671254,b'2020-02-21 14:32:34',1582295575.0167065,b'2020-02-21 14:32:55'
+Testing file: ../../.git/objects/aa/99092001107f105a6fea6dcbba2cb080ceb87d
+Write on csv file ../../.git/objects/aa/99092001107f105a6fea6dcbba2cb080ceb87d,33133,20266198323984701,14,2,1000,1000,116,1584199395.1000512,b'2020-03-14 15:23:15',1584199395.1000512,b'2020-03-14 15:23:15',1584199405.076505,b'2020-03-14 15:23:25'
+Analizing directory ../../.git/objects/ac
+Actual directory: ../../.git/objects/ac
+Present subdirectories: []
+Present files: ['1aa17ee53325eb27de9999bc298fe160969248', 'c7b3da64552784bc1c90f78eb8472e3c905880']
+Testing file: ../../.git/objects/ac/1aa17ee53325eb27de9999bc298fe160969248
+Write on csv file ../../.git/objects/ac/1aa17ee53325eb27de9999bc298fe160969248,33133,7318349394568048,14,3,1000,1000,115,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295647.5407856,b'2020-02-21 14:34:07'
+Testing file: ../../.git/objects/ac/c7b3da64552784bc1c90f78eb8472e3c905880
+Write on csv file ../../.git/objects/ac/c7b3da64552784bc1c90f78eb8472e3c905880,33133,8444249302403702,14,2,1000,1000,516,1585080350.743615,b'2020-03-24 20:05:50',1585080350.743615,b'2020-03-24 20:05:50',1585120222.3725398,b'2020-03-25 07:10:22'
+Analizing directory ../../.git/objects/ad
+Actual directory: ../../.git/objects/ad
+Present subdirectories: []
+Present files: ['8421165060c949a3a586730997b67697a35859']
+Testing file: ../../.git/objects/ad/8421165060c949a3a586730997b67697a35859
+Write on csv file ../../.git/objects/ad/8421165060c949a3a586730997b67697a35859,33133,28710447624611622,14,3,1000,1000,178,1582042786.0,b'2020-02-18 16:19:46',1582042786.0,b'2020-02-18 16:19:46',1582042795.3192408,b'2020-02-18 16:19:55'
+Analizing directory ../../.git/objects/b0
+Actual directory: ../../.git/objects/b0
+Present subdirectories: []
+Present files: ['968a6995ad2d6209129d97f0625a47d0aa6af7', 'b49648b861aeff73b59ded80cf126ee3b9f876']
+Testing file: ../../.git/objects/b0/968a6995ad2d6209129d97f0625a47d0aa6af7
+Write on csv file ../../.git/objects/b0/968a6995ad2d6209129d97f0625a47d0aa6af7,33133,2814749767909194,14,2,1000,1000,54,1581403207.865831,b'2020-02-11 06:40:07',1581403207.865831,b'2020-02-11 06:40:07',1581403219.96738,b'2020-02-11 06:40:19'
+Testing file: ../../.git/objects/b0/b49648b861aeff73b59ded80cf126ee3b9f876
+Write on csv file ../../.git/objects/b0/b49648b861aeff73b59ded80cf126ee3b9f876,33133,844424931521558,14,2,1000,1000,8530,1582295554.6880968,b'2020-02-21 14:32:34',1582295554.6880968,b'2020-02-21 14:32:34',1582295575.3358986,b'2020-02-21 14:32:55'
+Analizing directory ../../.git/objects/b4
+Actual directory: ../../.git/objects/b4
+Present subdirectories: []
+Present files: ['6896d2f5f9e57c4941e046081eb21db52d5ae7', 'c011107151eb9d590b56d44c303469fff6ee48']
+Testing file: ../../.git/objects/b4/6896d2f5f9e57c4941e046081eb21db52d5ae7
+Write on csv file ../../.git/objects/b4/6896d2f5f9e57c4941e046081eb21db52d5ae7,33133,20547673299968905,14,3,1000,1000,49463,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295649.385881,b'2020-02-21 14:34:09'
+Testing file: ../../.git/objects/b4/c011107151eb9d590b56d44c303469fff6ee48
+Write on csv file ../../.git/objects/b4/c011107151eb9d590b56d44c303469fff6ee48,33133,9570149208989932,14,2,1000,1000,72,1585834992.6986952,b'2020-04-02 13:43:12',1585834992.6986952,b'2020-04-02 13:43:12',1585835004.8831394,b'2020-04-02 13:43:24'
+Analizing directory ../../.git/objects/b5
+Actual directory: ../../.git/objects/b5
+Present subdirectories: []
+Present files: ['d4c0ec2928a50840baac72ee894aeeeefa390e']
+Testing file: ../../.git/objects/b5/d4c0ec2928a50840baac72ee894aeeeefa390e
+Write on csv file ../../.git/objects/b5/d4c0ec2928a50840baac72ee894aeeeefa390e,33133,27021597764355187,14,2,1000,1000,54,1582042786.4409935,b'2020-02-18 16:19:46',1582042786.4409935,b'2020-02-18 16:19:46',1582042801.6951847,b'2020-02-18 16:20:01'
+Analizing directory ../../.git/objects/b6
+Actual directory: ../../.git/objects/b6
+Present subdirectories: []
+Present files: ['1ecd64f058aba5ddd7a482d19b3e178a09d520']
+Testing file: ../../.git/objects/b6/1ecd64f058aba5ddd7a482d19b3e178a09d520
+Write on csv file ../../.git/objects/b6/1ecd64f058aba5ddd7a482d19b3e178a09d520,33133,12666373953115282,14,2,1000,1000,136,1585047278.267343,b'2020-03-24 10:54:38',1585047278.267343,b'2020-03-24 10:54:38',1585047297.0715926,b'2020-03-24 10:54:57'
+Analizing directory ../../.git/objects/b7
+Actual directory: ../../.git/objects/b7
+Present subdirectories: []
+Present files: ['dbda88689cea1d3c7c17e4bae702aea75ef8b7']
+Testing file: ../../.git/objects/b7/dbda88689cea1d3c7c17e4bae702aea75ef8b7
+Write on csv file ../../.git/objects/b7/dbda88689cea1d3c7c17e4bae702aea75ef8b7,33133,42784196460848809,14,2,1000,1000,64,1585829797.0490973,b'2020-04-02 12:16:37',1585829797.0490973,b'2020-04-02 12:16:37',1585829813.0017562,b'2020-04-02 12:16:53'
+Analizing directory ../../.git/objects/bb
+Actual directory: ../../.git/objects/bb
+Present subdirectories: []
+Present files: ['3a81a2f153d24b28b2e33c247f29b8d40750ed']
+Testing file: ../../.git/objects/bb/3a81a2f153d24b28b2e33c247f29b8d40750ed
+Write on csv file ../../.git/objects/bb/3a81a2f153d24b28b2e33c247f29b8d40750ed,33133,12666373953115356,14,2,1000,1000,370,1585047284.8970146,b'2020-03-24 10:54:44',1585047284.8970146,b'2020-03-24 10:54:44',1585047297.1106012,b'2020-03-24 10:54:57'
+Analizing directory ../../.git/objects/bc
+Actual directory: ../../.git/objects/bc
+Present subdirectories: []
+Present files: ['b128332ba8f51ff55d9e7675b49cbb8f8f84b6', 'e998d0a39fbaa0186d0f70bbf3bf3df84cb4e5']
+Testing file: ../../.git/objects/bc/b128332ba8f51ff55d9e7675b49cbb8f8f84b6
+Write on csv file ../../.git/objects/bc/b128332ba8f51ff55d9e7675b49cbb8f8f84b6,33133,21110623254116652,14,2,1000,1000,356,1584199376.468045,b'2020-03-14 15:22:56',1584199376.468045,b'2020-03-14 15:22:56',1584199386.3388264,b'2020-03-14 15:23:06'
+Testing file: ../../.git/objects/bc/e998d0a39fbaa0186d0f70bbf3bf3df84cb4e5
+Write on csv file ../../.git/objects/bc/e998d0a39fbaa0186d0f70bbf3bf3df84cb4e5,33133,23643898044830963,14,2,1000,1000,388,1585047307.5382233,b'2020-03-24 10:55:07',1585047307.5382233,b'2020-03-24 10:55:07',1585047316.6929433,b'2020-03-24 10:55:16'
+Analizing directory ../../.git/objects/c1
+Actual directory: ../../.git/objects/c1
+Present subdirectories: []
+Present files: ['edad148e51b89979f98295b83c04f44a542f4f']
+Testing file: ../../.git/objects/c1/edad148e51b89979f98295b83c04f44a542f4f
+Write on csv file ../../.git/objects/c1/edad148e51b89979f98295b83c04f44a542f4f,33133,7881299348033381,14,2,1000,1000,501,1584716138.1258292,b'2020-03-20 14:55:38',1584716138.1258292,b'2020-03-20 14:55:38',1584716150.520223,b'2020-03-20 14:55:50'
+Analizing directory ../../.git/objects/c2
+Actual directory: ../../.git/objects/c2
+Present subdirectories: []
+Present files: ['6d38aa9d4274a79a37c1cdc9c1f3b64b6257e2']
+Testing file: ../../.git/objects/c2/6d38aa9d4274a79a37c1cdc9c1f3b64b6257e2
+Write on csv file ../../.git/objects/c2/6d38aa9d4274a79a37c1cdc9c1f3b64b6257e2,33133,16044073672596415,14,3,1000,1000,54,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295653.0142837,b'2020-02-21 14:34:13'
+Analizing directory ../../.git/objects/c7
+Actual directory: ../../.git/objects/c7
+Present subdirectories: []
+Present files: ['a9058594e42cef848b671bcc3936618332ecec', 'ead6a096c82b6772237a0e59310e4f37834631']
+Testing file: ../../.git/objects/c7/a9058594e42cef848b671bcc3936618332ecec
+Write on csv file ../../.git/objects/c7/a9058594e42cef848b671bcc3936618332ecec,33133,13792273859958004,14,3,1000,1000,460,1585080295.0,b'2020-03-24 20:04:55',1585080295.0,b'2020-03-24 20:04:55',1585119875.5594318,b'2020-03-25 07:04:35'
+Testing file: ../../.git/objects/c7/ead6a096c82b6772237a0e59310e4f37834631
+Write on csv file ../../.git/objects/c7/ead6a096c82b6772237a0e59310e4f37834631,33133,3377699721330510,14,2,1000,1000,54,1581403222.0912817,b'2020-02-11 06:40:22',1581403222.0912817,b'2020-02-11 06:40:22',1581403236.2112818,b'2020-02-11 06:40:36'
+Analizing directory ../../.git/objects/c8
+Actual directory: ../../.git/objects/c8
+Present subdirectories: []
+Present files: ['3bc7c5d81ff46af68f046bd70ebf0a49c9a0e0']
+Testing file: ../../.git/objects/c8/3bc7c5d81ff46af68f046bd70ebf0a49c9a0e0
+Write on csv file ../../.git/objects/c8/3bc7c5d81ff46af68f046bd70ebf0a49c9a0e0,33133,8444249302455566,14,2,1000,1000,54,1585047362.5651758,b'2020-03-24 10:56:02',1585047362.5651758,b'2020-03-24 10:56:02',1585047373.9136314,b'2020-03-24 10:56:13'
+Analizing directory ../../.git/objects/c9
+Actual directory: ../../.git/objects/c9
+Present subdirectories: []
+Present files: ['230d3fb4cc070e589452306d4c2334f6c6f868']
+Testing file: ../../.git/objects/c9/230d3fb4cc070e589452306d4c2334f6c6f868
+Write on csv file ../../.git/objects/c9/230d3fb4cc070e589452306d4c2334f6c6f868,33133,1688849861081402,14,3,1000,1000,267,1584199397.0,b'2020-03-14 15:23:17',1584199397.0,b'2020-03-14 15:23:17',1584199406.3540812,b'2020-03-14 15:23:26'
+Analizing directory ../../.git/objects/ca
+Actual directory: ../../.git/objects/ca
+Present subdirectories: []
+Present files: ['2ec57045d2a96adb442fec2df46ea84843984c', '8a109630dab776265d6811ca4e514ffac96cdf', 'aa7844fe82e652f473e44d1a974a64c5759733', 'f67b8041eaaa5df2d3ced2c427e40481fa0a87']
+Testing file: ../../.git/objects/ca/2ec57045d2a96adb442fec2df46ea84843984c
+Write on csv file ../../.git/objects/ca/2ec57045d2a96adb442fec2df46ea84843984c,33133,1688849861081428,14,2,1000,1000,439,1584199421.635565,b'2020-03-14 15:23:41',1584199421.635565,b'2020-03-14 15:23:41',1584199433.663796,b'2020-03-14 15:23:53'
+Testing file: ../../.git/objects/ca/8a109630dab776265d6811ca4e514ffac96cdf
+Write on csv file ../../.git/objects/ca/8a109630dab776265d6811ca4e514ffac96cdf,33133,15481123719176800,14,3,1000,1000,302,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295649.136516,b'2020-02-21 14:34:09'
+Testing file: ../../.git/objects/ca/aa7844fe82e652f473e44d1a974a64c5759733
+Write on csv file ../../.git/objects/ca/aa7844fe82e652f473e44d1a974a64c5759733,33133,43628621390954374,14,2,1000,1000,331,1581405018.3718135,b'2020-02-11 07:10:18',1581405018.3718135,b'2020-02-11 07:10:18',1581405026.1569834,b'2020-02-11 07:10:26'
+Testing file: ../../.git/objects/ca/f67b8041eaaa5df2d3ced2c427e40481fa0a87
+Write on csv file ../../.git/objects/ca/f67b8041eaaa5df2d3ced2c427e40481fa0a87,33133,3377699721330518,14,2,1000,1000,172,1581403222.1092513,b'2020-02-11 06:40:22',1581403222.1092513,b'2020-02-11 06:40:22',1581403236.2621455,b'2020-02-11 06:40:36'
+Analizing directory ../../.git/objects/cb
+Actual directory: ../../.git/objects/cb
+Present subdirectories: []
+Present files: ['c68d17f704527bfde60c5f7156e51cfaae85f9']
+Testing file: ../../.git/objects/cb/c68d17f704527bfde60c5f7156e51cfaae85f9
+Write on csv file ../../.git/objects/cb/c68d17f704527bfde60c5f7156e51cfaae85f9,33133,7599824371343124,14,2,1000,1000,142,1584716151.7189026,b'2020-03-20 14:55:51',1584716151.7189026,b'2020-03-20 14:55:51',1584716166.0460212,b'2020-03-20 14:56:06'
+Analizing directory ../../.git/objects/ce
+Actual directory: ../../.git/objects/ce
+Present subdirectories: []
+Present files: ['8954d0cf03213d267fb6c6d797f01c6eea034c']
+Testing file: ../../.git/objects/ce/8954d0cf03213d267fb6c6d797f01c6eea034c
+Write on csv file ../../.git/objects/ce/8954d0cf03213d267fb6c6d797f01c6eea034c,33133,3096224744901186,14,2,1000,1000,518,1585080068.4962878,b'2020-03-24 20:01:08',1585080068.4962878,b'2020-03-24 20:01:08',1585120248.1700542,b'2020-03-25 07:10:48'
+Analizing directory ../../.git/objects/d1
+Actual directory: ../../.git/objects/d1
+Present subdirectories: []
+Present files: ['6a96872845bd8eaf0fa9854c6e432bf97beb9d']
+Testing file: ../../.git/objects/d1/6a96872845bd8eaf0fa9854c6e432bf97beb9d
+Write on csv file ../../.git/objects/d1/6a96872845bd8eaf0fa9854c6e432bf97beb9d,33133,1125899908232225,14,2,1000,1000,173,1582295556.8118439,b'2020-02-21 14:32:36',1582295556.8118439,b'2020-02-21 14:32:36',1582295584.5143347,b'2020-02-21 14:33:04'
+Analizing directory ../../.git/objects/d3
+Actual directory: ../../.git/objects/d3
+Present subdirectories: []
+Present files: ['f4065df2662e220f98db4d1d0e1b84b48cb2d1']
+Testing file: ../../.git/objects/d3/f4065df2662e220f98db4d1d0e1b84b48cb2d1
+Write on csv file ../../.git/objects/d3/f4065df2662e220f98db4d1d0e1b84b48cb2d1,33133,52354345668316384,14,2,1000,1000,503054,1584716138.0610657,b'2020-03-20 14:55:38',1584716138.0610657,b'2020-03-20 14:55:38',1584716150.550203,b'2020-03-20 14:55:50'
+Analizing directory ../../.git/objects/d4
+Actual directory: ../../.git/objects/d4
+Present subdirectories: []
+Present files: ['39c1fbdca8d6008df7367fdf25ec7dcc959c7e', 'bfec6bce4603197ed642be222144075142f859']
+Testing file: ../../.git/objects/d4/39c1fbdca8d6008df7367fdf25ec7dcc959c7e
+Write on csv file ../../.git/objects/d4/39c1fbdca8d6008df7367fdf25ec7dcc959c7e,33133,34902897112256475,14,2,1000,1000,263,1582042786.4489722,b'2020-02-18 16:19:46',1582042786.4489722,b'2020-02-18 16:19:46',1582042801.725105,b'2020-02-18 16:20:01'
+Testing file: ../../.git/objects/d4/bfec6bce4603197ed642be222144075142f859
+Write on csv file ../../.git/objects/d4/bfec6bce4603197ed642be222144075142f859,33133,7599824371343126,14,2,1000,1000,90,1584716151.7268803,b'2020-03-20 14:55:51',1584716151.7268803,b'2020-03-20 14:55:51',1584716166.086912,b'2020-03-20 14:56:06'
+Analizing directory ../../.git/objects/d5
+Actual directory: ../../.git/objects/d5
+Present subdirectories: []
+Present files: ['762c7499b4f6e3330d00293674e3e446b71000']
+Testing file: ../../.git/objects/d5/762c7499b4f6e3330d00293674e3e446b71000
+Write on csv file ../../.git/objects/d5/762c7499b4f6e3330d00293674e3e446b71000,33133,7881299347990068,14,3,1000,1000,495,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295649.8934917,b'2020-02-21 14:34:09'
+Analizing directory ../../.git/objects/d9
+Actual directory: ../../.git/objects/d9
+Present subdirectories: []
+Present files: ['34ca5fe15cb955901d33fcbce0198de415cda5']
+Testing file: ../../.git/objects/d9/34ca5fe15cb955901d33fcbce0198de415cda5
+Write on csv file ../../.git/objects/d9/34ca5fe15cb955901d33fcbce0198de415cda5,33133,16607023627064555,14,2,1000,1000,54,1585047299.6758308,b'2020-03-24 10:54:59',1585047299.6758308,b'2020-03-24 10:54:59',1585047312.8475256,b'2020-03-24 10:55:12'
+Analizing directory ../../.git/objects/da
+Actual directory: ../../.git/objects/da
+Present subdirectories: []
+Present files: ['3b7253714065e48261adf8cf8d5d56f0f7e1e3']
+Testing file: ../../.git/objects/da/3b7253714065e48261adf8cf8d5d56f0f7e1e3
+Write on csv file ../../.git/objects/da/3b7253714065e48261adf8cf8d5d56f0f7e1e3,33133,3377699721663740,14,2,1000,1000,518,1585047323.1941311,b'2020-03-24 10:55:23',1585047323.1941311,b'2020-03-24 10:55:23',1585047335.8213394,b'2020-03-24 10:55:35'
+Analizing directory ../../.git/objects/db
+Actual directory: ../../.git/objects/db
+Present subdirectories: []
+Present files: ['23046f9e7abca2e6b759d11e2f9102fab1cc13', 'b79a51edfcc77353b3c72a3bf7704e329897a7', 'c29010b8813cc902bff97038d927d0fedd7f85', 'c3317a23a1898f145ff149f16e1eae72cc9799']
+Testing file: ../../.git/objects/db/23046f9e7abca2e6b759d11e2f9102fab1cc13
+Write on csv file ../../.git/objects/db/23046f9e7abca2e6b759d11e2f9102fab1cc13,33133,8162774325693035,14,2,1000,1000,52,1585080350.7077093,b'2020-03-24 20:05:50',1585080350.7077093,b'2020-03-24 20:05:50',1585120248.127164,b'2020-03-25 07:10:48'
+Testing file: ../../.git/objects/db/b79a51edfcc77353b3c72a3bf7704e329897a7
+Write on csv file ../../.git/objects/db/b79a51edfcc77353b3c72a3bf7704e329897a7,33133,2251799813774573,14,3,1000,1000,225,1582295635.0,b'2020-02-21 14:33:55',1582295635.0,b'2020-02-21 14:33:55',1582295651.8370667,b'2020-02-21 14:34:11'
+Testing file: ../../.git/objects/db/c29010b8813cc902bff97038d927d0fedd7f85
+Write on csv file ../../.git/objects/db/c29010b8813cc902bff97038d927d0fedd7f85,33133,61924494876474915,14,2,1000,1000,50,1582042786.4280293,b'2020-02-18 16:19:46',1582042786.4280293,b'2020-02-18 16:19:46',1582042801.6672575,b'2020-02-18 16:20:01'
+Testing file: ../../.git/objects/db/c3317a23a1898f145ff149f16e1eae72cc9799
+Write on csv file ../../.git/objects/db/c3317a23a1898f145ff149f16e1eae72cc9799,33133,42502721483357544,14,2,1000,1000,182,1585047299.7075577,b'2020-03-24 10:54:59',1585047299.7075577,b'2020-03-24 10:54:59',1585047309.8167686,b'2020-03-24 10:55:09'
+Analizing directory ../../.git/objects/dc
+Actual directory: ../../.git/objects/dc
+Present subdirectories: []
+Present files: ['5c37a29a2acb248cad7a6fba7d0d9780bf53ed']
+Testing file: ../../.git/objects/dc/5c37a29a2acb248cad7a6fba7d0d9780bf53ed
+Write on csv file ../../.git/objects/dc/5c37a29a2acb248cad7a6fba7d0d9780bf53ed,33133,7599824371343134,14,2,1000,1000,118,1584716151.7438357,b'2020-03-20 14:55:51',1584716151.7438357,b'2020-03-20 14:55:51',1584716165.9732177,b'2020-03-20 14:56:05'
+Analizing directory ../../.git/objects/dd
+Actual directory: ../../.git/objects/dd
+Present subdirectories: []
+Present files: ['20baa10d04caaca5b3db47b5f579aa367a6198', 'a0ea09ba1b80d469d833c0e277c5fdcf63f1ab']
+Testing file: ../../.git/objects/dd/20baa10d04caaca5b3db47b5f579aa367a6198
+Write on csv file ../../.git/objects/dd/20baa10d04caaca5b3db47b5f579aa367a6198,33133,86412817851307135,14,2,1000,1000,142,1585047278.2553265,b'2020-03-24 10:54:38',1585047278.2553265,b'2020-03-24 10:54:38',1585047288.9875824,b'2020-03-24 10:54:48'
+Testing file: ../../.git/objects/dd/a0ea09ba1b80d469d833c0e277c5fdcf63f1ab
+Write on csv file ../../.git/objects/dd/a0ea09ba1b80d469d833c0e277c5fdcf63f1ab,33133,3377699721330512,14,2,1000,1000,54,1581403222.0952754,b'2020-02-11 06:40:22',1581403222.0952754,b'2020-02-11 06:40:22',1581403236.3332992,b'2020-02-11 06:40:36'
+Analizing directory ../../.git/objects/de
+Actual directory: ../../.git/objects/de
+Present subdirectories: []
+Present files: ['660c9477114327b80b604119be91c5c39abb0a', 'ad3514b6b126a26b2d8888888e106f977749b1', 'cdcde6c9bdcfb6fd4248e300a59e39f6e5b63e']
+Testing file: ../../.git/objects/de/660c9477114327b80b604119be91c5c39abb0a
+Write on csv file ../../.git/objects/de/660c9477114327b80b604119be91c5c39abb0a,33133,2251799813772713,14,2,1000,1000,62,1579594730.9089005,b'2020-01-21 08:18:50',1579594730.9089005,b'2020-01-21 08:18:50',1579707838.9466715,b'2020-01-22 15:43:58'
+Testing file: ../../.git/objects/de/ad3514b6b126a26b2d8888888e106f977749b1
+Write on csv file ../../.git/objects/de/ad3514b6b126a26b2d8888888e106f977749b1,33133,47287796088518953,14,2,1000,1000,1048,1585047243.112867,b'2020-03-24 10:54:03',1585047243.112867,b'2020-03-24 10:54:03',1585047251.6139643,b'2020-03-24 10:54:11'
+Testing file: ../../.git/objects/de/cdcde6c9bdcfb6fd4248e300a59e39f6e5b63e
+Write on csv file ../../.git/objects/de/cdcde6c9bdcfb6fd4248e300a59e39f6e5b63e,33133,12666373952782156,14,2,1000,1000,172,1581405032.1183176,b'2020-02-11 07:10:32',1581405032.1183176,b'2020-02-11 07:10:32',1581405043.6803558,b'2020-02-11 07:10:43'
+Analizing directory ../../.git/objects/df
+Actual directory: ../../.git/objects/df
+Present subdirectories: []
+Present files: ['e0770424b2a19faf507a501ebfc23be8f54e7b']
+Testing file: ../../.git/objects/df/e0770424b2a19faf507a501ebfc23be8f54e7b
+Write on csv file ../../.git/objects/df/e0770424b2a19faf507a501ebfc23be8f54e7b,33133,12666373952057777,14,2,1000,1000,76,1579590240.9374132,b'2020-01-21 07:04:00',1579590240.9374132,b'2020-01-21 07:04:00',1579707838.8758683,b'2020-01-22 15:43:58'
+Analizing directory ../../.git/objects/e1
+Actual directory: ../../.git/objects/e1
+Present subdirectories: []
+Present files: ['1b216587cf0e0ca3b72fb7cf534b2c870b1a76', '49a2e06fcbfa22f1a999d737fb24d382c148b0']
+Testing file: ../../.git/objects/e1/1b216587cf0e0ca3b72fb7cf534b2c870b1a76
+Write on csv file ../../.git/objects/e1/1b216587cf0e0ca3b72fb7cf534b2c870b1a76,33133,14073748836668538,14,2,1000,1000,99,1585047278.244269,b'2020-03-24 10:54:38',1585047278.244269,b'2020-03-24 10:54:38',1585047297.0845678,b'2020-03-24 10:54:57'
+Testing file: ../../.git/objects/e1/49a2e06fcbfa22f1a999d737fb24d382c148b0
+Write on csv file ../../.git/objects/e1/49a2e06fcbfa22f1a999d737fb24d382c148b0,33133,3096224744821249,14,2,1000,1000,418192,1585834972.3801224,b'2020-04-02 13:42:52',1585834972.3801224,b'2020-04-02 13:42:52',1585834982.8879647,b'2020-04-02 13:43:02'
+Analizing directory ../../.git/objects/e6
+Actual directory: ../../.git/objects/e6
+Present subdirectories: []
+Present files: ['9de29bb2d1d6434b8b29ae775ad8c2e48c5391', 'c608590c108cb2f4d6c5367a5b022322fa8b3f']
+Testing file: ../../.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Write on csv file ../../.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391,33133,66709569481554208,14,3,1000,1000,15,1585047307.0,b'2020-03-24 10:55:07',1585047307.0,b'2020-03-24 10:55:07',1585047315.1107433,b'2020-03-24 10:55:15'
+Testing file: ../../.git/objects/e6/c608590c108cb2f4d6c5367a5b022322fa8b3f
+Write on csv file ../../.git/objects/e6/c608590c108cb2f4d6c5367a5b022322fa8b3f,33133,28991922602333448,14,2,1000,1000,382,1585047347.6076057,b'2020-03-24 10:55:47',1585047347.6076057,b'2020-03-24 10:55:47',1585047355.8139555,b'2020-03-24 10:55:55'
+Analizing directory ../../.git/objects/e8
+Actual directory: ../../.git/objects/e8
+Present subdirectories: []
+Present files: ['20f15f46cc1f61c921f630bd820a1ff55d0f9c', '452687ee52eac7b75a07d2b12ea66eb649c085', 'e6d2e7bc9eeef3fad46af6f1256d17a5749660']
+Testing file: ../../.git/objects/e8/20f15f46cc1f61c921f630bd820a1ff55d0f9c
+Write on csv file ../../.git/objects/e8/20f15f46cc1f61c921f630bd820a1ff55d0f9c,33133,1125899908232271,14,2,1000,1000,171,1582295636.3816593,b'2020-02-21 14:33:56',1582295636.3816593,b'2020-02-21 14:33:56',1582295658.5625863,b'2020-02-21 14:34:18'
+Testing file: ../../.git/objects/e8/452687ee52eac7b75a07d2b12ea66eb649c085
+Write on csv file ../../.git/objects/e8/452687ee52eac7b75a07d2b12ea66eb649c085,33133,6755399442445389,14,2,1000,1000,373,1582295636.337047,b'2020-02-21 14:33:56',1582295636.337047,b'2020-02-21 14:33:56',1582295656.5448382,b'2020-02-21 14:34:16'
+Testing file: ../../.git/objects/e8/e6d2e7bc9eeef3fad46af6f1256d17a5749660
+Write on csv file ../../.git/objects/e8/e6d2e7bc9eeef3fad46af6f1256d17a5749660,33133,6192449488763187,14,2,1000,1000,177,1585047278.2985256,b'2020-03-24 10:54:38',1585047278.2985256,b'2020-03-24 10:54:38',1585047290.0238664,b'2020-03-24 10:54:50'
+Analizing directory ../../.git/objects/ed
+Actual directory: ../../.git/objects/ed
+Present subdirectories: []
+Present files: ['ddfb63121076e83cb4f3ff8ccd94a4b82e17e1']
+Testing file: ../../.git/objects/ed/ddfb63121076e83cb4f3ff8ccd94a4b82e17e1
+Write on csv file ../../.git/objects/ed/ddfb63121076e83cb4f3ff8ccd94a4b82e17e1,33133,14918173765741845,14,2,1000,1000,92,1579590240.9293904,b'2020-01-21 07:04:00',1579590240.9293904,b'2020-01-21 07:04:00',1579707799.701253,b'2020-01-22 15:43:19'
+Analizing directory ../../.git/objects/ee
+Actual directory: ../../.git/objects/ee
+Present subdirectories: []
+Present files: ['5791af8412a6ca18f1003706bdfb359b26f85f', 'c4fdc48aeef7106c79642350c157355548dc47']
+Testing file: ../../.git/objects/ee/5791af8412a6ca18f1003706bdfb359b26f85f
+Write on csv file ../../.git/objects/ee/5791af8412a6ca18f1003706bdfb359b26f85f,33133,7599824371343136,14,2,1000,1000,135,1584716151.7518137,b'2020-03-20 14:55:51',1584716151.7518137,b'2020-03-20 14:55:51',1584716160.6490748,b'2020-03-20 14:56:00'
+Testing file: ../../.git/objects/ee/c4fdc48aeef7106c79642350c157355548dc47
+Write on csv file ../../.git/objects/ee/c4fdc48aeef7106c79642350c157355548dc47,33133,14073748835615216,14,2,1000,1000,151,1579594718.9739351,b'2020-01-21 08:18:38',1579594718.9739351,b'2020-01-21 08:18:38',1579707799.6404536,b'2020-01-22 15:43:19'
+Analizing directory ../../.git/objects/ef
+Actual directory: ../../.git/objects/ef
+Present subdirectories: []
+Present files: ['e847c8e366b0a5b4c262eab69aa95f5ce993c4']
+Testing file: ../../.git/objects/ef/e847c8e366b0a5b4c262eab69aa95f5ce993c4
+Write on csv file ../../.git/objects/ef/e847c8e366b0a5b4c262eab69aa95f5ce993c4,33133,844424931521553,14,2,1000,1000,318,1582295554.6621637,b'2020-02-21 14:32:34',1582295554.6621637,b'2020-02-21 14:32:34',1582295575.3050478,b'2020-02-21 14:32:55'
+Analizing directory ../../.git/objects/f0
+Actual directory: ../../.git/objects/f0
+Present subdirectories: []
+Present files: ['6488faa79f550c33efa67189159fb9962a442e', '8dc433a59e1598dbe111c41493f4a08729cde5']
+Testing file: ../../.git/objects/f0/6488faa79f550c33efa67189159fb9962a442e
+Write on csv file ../../.git/objects/f0/6488faa79f550c33efa67189159fb9962a442e,33133,19984723346591235,14,2,1000,1000,748,1584716138.1118648,b'2020-03-20 14:55:38',1584716138.1118648,b'2020-03-20 14:55:38',1584716144.5806384,b'2020-03-20 14:55:44'
+Testing file: ../../.git/objects/f0/8dc433a59e1598dbe111c41493f4a08729cde5
+Write on csv file ../../.git/objects/f0/8dc433a59e1598dbe111c41493f4a08729cde5,33133,4222124650751039,14,3,1000,1000,53,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295646.1604776,b'2020-02-21 14:34:06'
+Analizing directory ../../.git/objects/f1
+Actual directory: ../../.git/objects/f1
+Present subdirectories: []
+Present files: ['c9b24500e50a70006e95e7d65bc0f96b1cd3e8']
+Testing file: ../../.git/objects/f1/c9b24500e50a70006e95e7d65bc0f96b1cd3e8
+Write on csv file ../../.git/objects/f1/c9b24500e50a70006e95e7d65bc0f96b1cd3e8,33133,13510798882202432,14,3,1000,1000,18102,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295646.9863114,b'2020-02-21 14:34:06'
+Analizing directory ../../.git/objects/f3
+Actual directory: ../../.git/objects/f3
+Present subdirectories: []
+Present files: ['867a6769872abc0c7b9075dc28d0e93b49fe44', 'a00bbd0c161b562c5c754063954c6148f97ba2']
+Testing file: ../../.git/objects/f3/867a6769872abc0c7b9075dc28d0e93b49fe44
+Write on csv file ../../.git/objects/f3/867a6769872abc0c7b9075dc28d0e93b49fe44,33133,23925373020496761,14,3,1000,1000,78818,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295648.549088,b'2020-02-21 14:34:08'
+Testing file: ../../.git/objects/f3/a00bbd0c161b562c5c754063954c6148f97ba2
+Write on csv file ../../.git/objects/f3/a00bbd0c161b562c5c754063954c6148f97ba2,33133,8162774324700233,14,3,1000,1000,53,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295647.7263334,b'2020-02-21 14:34:07'
+Analizing directory ../../.git/objects/f4
+Actual directory: ../../.git/objects/f4
+Present subdirectories: []
+Present files: ['3694ed60430269d1f25f8591221964e6acdac4']
+Testing file: ../../.git/objects/f4/3694ed60430269d1f25f8591221964e6acdac4
+Write on csv file ../../.git/objects/f4/3694ed60430269d1f25f8591221964e6acdac4,33133,1688849861081398,14,3,1000,1000,601,1584199397.0,b'2020-03-14 15:23:17',1584199397.0,b'2020-03-14 15:23:17',1584199406.480743,b'2020-03-14 15:23:26'
+Analizing directory ../../.git/objects/f5
+Actual directory: ../../.git/objects/f5
+Present subdirectories: []
+Present files: ['380345d7e24d10e9d646eb7e81b115fb28afcd']
+Testing file: ../../.git/objects/f5/380345d7e24d10e9d646eb7e81b115fb28afcd
+Write on csv file ../../.git/objects/f5/380345d7e24d10e9d646eb7e81b115fb28afcd,33133,25895697857468834,14,3,1000,1000,66,1582295635.0,b'2020-02-21 14:33:55',1582295635.0,b'2020-02-21 14:33:55',1582295648.6648178,b'2020-02-21 14:34:08'
+Analizing directory ../../.git/objects/f6
+Actual directory: ../../.git/objects/f6
+Present subdirectories: []
+Present files: ['867dad1a6c17e7cd6a153a41c44bd2b05a139d']
+Testing file: ../../.git/objects/f6/867dad1a6c17e7cd6a153a41c44bd2b05a139d
+Write on csv file ../../.git/objects/f6/867dad1a6c17e7cd6a153a41c44bd2b05a139d,33133,3377699721663763,14,2,1000,1000,99,1585047362.597177,b'2020-03-24 10:56:02',1585047362.597177,b'2020-03-24 10:56:02',1585047378.3704689,b'2020-03-24 10:56:18'
+Analizing directory ../../.git/objects/f7
+Actual directory: ../../.git/objects/f7
+Present subdirectories: []
+Present files: ['4ffa533af2b66f4e3c2ff83e9fc489959c5a3b', 'ecb7bf438ff985aa884d1281c37215ce90dcbf']
+Testing file: ../../.git/objects/f7/4ffa533af2b66f4e3c2ff83e9fc489959c5a3b
+Write on csv file ../../.git/objects/f7/4ffa533af2b66f4e3c2ff83e9fc489959c5a3b,33133,8162774325744634,14,2,1000,1000,64,1585047278.1844275,b'2020-03-24 10:54:38',1585047278.1844275,b'2020-03-24 10:54:38',1585047297.0296402,b'2020-03-24 10:54:57'
+Testing file: ../../.git/objects/f7/ecb7bf438ff985aa884d1281c37215ce90dcbf
+Write on csv file ../../.git/objects/f7/ecb7bf438ff985aa884d1281c37215ce90dcbf,33133,3659174698242641,14,2,1000,1000,293206,1585834972.3990831,b'2020-04-02 13:42:52',1585834972.3990831,b'2020-04-02 13:42:52',1585834982.8271263,b'2020-04-02 13:43:02'
+Analizing directory ../../.git/objects/f8
+Actual directory: ../../.git/objects/f8
+Present subdirectories: []
+Present files: ['197711cc72ead56a4b6d8b79a9aea65b75fd17', '617e2a6ffee3a45446bebed1948841379197aa', 'b4888565caadc7510be75682268d6c18edd6de']
+Testing file: ../../.git/objects/f8/197711cc72ead56a4b6d8b79a9aea65b75fd17
+Write on csv file ../../.git/objects/f8/197711cc72ead56a4b6d8b79a9aea65b75fd17,33133,59109745110037996,14,2,1000,1000,2113,1585829778.3105583,b'2020-04-02 12:16:18',1585829778.3105583,b'2020-04-02 12:16:18',1585829786.7403758,b'2020-04-02 12:16:26'
+Testing file: ../../.git/objects/f8/617e2a6ffee3a45446bebed1948841379197aa
+Write on csv file ../../.git/objects/f8/617e2a6ffee3a45446bebed1948841379197aa,33133,25332747904088624,14,2,1000,1000,185,1582042786.4180548,b'2020-02-18 16:19:46',1582042786.4180548,b'2020-02-18 16:19:46',1582042801.6403687,b'2020-02-18 16:20:01'
+Testing file: ../../.git/objects/f8/b4888565caadc7510be75682268d6c18edd6de
+Write on csv file ../../.git/objects/f8/b4888565caadc7510be75682268d6c18edd6de,33133,10696049115127731,14,3,1000,1000,51,1582042786.0,b'2020-02-18 16:19:46',1582042786.0,b'2020-02-18 16:19:46',1582042795.7999566,b'2020-02-18 16:19:55'
+Analizing directory ../../.git/objects/f9
+Actual directory: ../../.git/objects/f9
+Present subdirectories: []
+Present files: ['93c933fe0f3cbebe44122b52a401829c5866b2']
+Testing file: ../../.git/objects/f9/93c933fe0f3cbebe44122b52a401829c5866b2
+Write on csv file ../../.git/objects/f9/93c933fe0f3cbebe44122b52a401829c5866b2,33133,7599824371343140,14,2,1000,1000,464,1584716151.7597933,b'2020-03-20 14:55:51',1584716151.7597933,b'2020-03-20 14:55:51',1584716165.9472854,b'2020-03-20 14:56:05'
+Analizing directory ../../.git/objects/fc
+Actual directory: ../../.git/objects/fc
+Present subdirectories: []
+Present files: ['93f31949f7952e5e4091097440fd2ab8f3d52e']
+Testing file: ../../.git/objects/fc/93f31949f7952e5e4091097440fd2ab8f3d52e
+Write on csv file ../../.git/objects/fc/93f31949f7952e5e4091097440fd2ab8f3d52e,33133,1688849861081429,14,2,1000,1000,167,1584199421.6465359,b'2020-03-14 15:23:41',1584199421.6465359,b'2020-03-14 15:23:41',1584199433.6822805,b'2020-03-14 15:23:53'
+Analizing directory ../../.git/objects/ff
+Actual directory: ../../.git/objects/ff
+Present subdirectories: []
+Present files: ['43c35b4ea27ffd919e2c3883b58e17a220fc2c', '83fec6ea188f77b0d87f4663b6abbb48b3e4d0']
+Testing file: ../../.git/objects/ff/43c35b4ea27ffd919e2c3883b58e17a220fc2c
+Write on csv file ../../.git/objects/ff/43c35b4ea27ffd919e2c3883b58e17a220fc2c,33133,27303072741747212,14,2,1000,1000,2503,1585829781.8454275,b'2020-04-02 12:16:21',1585829781.8454275,b'2020-04-02 12:16:21',1585829788.5010355,b'2020-04-02 12:16:28'
+Testing file: ../../.git/objects/ff/83fec6ea188f77b0d87f4663b6abbb48b3e4d0
+Write on csv file ../../.git/objects/ff/83fec6ea188f77b0d87f4663b6abbb48b3e4d0,33133,7599824371277946,14,3,1000,1000,99,1582295636.0,b'2020-02-21 14:33:56',1582295636.0,b'2020-02-21 14:33:56',1582295652.5565093,b'2020-02-21 14:34:12'
+Analizing directory ../../.git/objects/info
+Actual directory: ../../.git/objects/info
+Present subdirectories: []
+Present files: []
+Analizing directory ../../.git/objects/pack
+Actual directory: ../../.git/objects/pack
+Present subdirectories: []
+Present files: []
+Analizing directory ../../.git/refs
+Actual directory: ../../.git/refs
+Present subdirectories: ['heads', 'remotes', 'tags']
+Present files: []
+Analizing directory ../../.git/refs/heads
+Actual directory: ../../.git/refs/heads
+Present subdirectories: []
+Present files: ['master']
+Testing file: ../../.git/refs/heads/master
+Write on csv file ../../.git/refs/heads/master,33279,14073748836501823,14,1,1000,1000,41,1585834992.7326064,b'2020-04-02 13:43:12',1585834992.7326064,b'2020-04-02 13:43:12',1585835005.6023202,b'2020-04-02 13:43:25'
+Analizing directory ../../.git/refs/remotes
+Actual directory: ../../.git/refs/remotes
+Present subdirectories: ['origin']
+Present files: []
+Analizing directory ../../.git/refs/remotes/origin
+Actual directory: ../../.git/refs/remotes/origin
+Present subdirectories: []
+Present files: ['HEAD', 'master']
+Testing file: ../../.git/refs/remotes/origin/HEAD
+Write on csv file ../../.git/refs/remotes/origin/HEAD,33279,5348024557584358,14,1,1000,1000,32,1579590241.0620787,b'2020-01-21 07:04:01',1579590241.0620787,b'2020-01-21 07:04:01',1579707823.31952,b'2020-01-22 15:43:43'
+Testing file: ../../.git/refs/remotes/origin/master
+Write on csv file ../../.git/refs/remotes/origin/master,33279,43065671436758808,14,1,1000,1000,41,1585834999.4300895,b'2020-04-02 13:43:19',1585834999.4300895,b'2020-04-02 13:43:19',1585835009.6786885,b'2020-04-02 13:43:29'
+Analizing directory ../../.git/refs/tags
+Actual directory: ../../.git/refs/tags
+Present subdirectories: []
+Present files: []
+Analizing directory ../../.vs
+Actual directory: ../../.vs
+Present subdirectories: ['works_for_gbellini']
+Present files: ['ProjectSettings.json', 'slnx.sqlite', 'VSWorkspaceState.json']
+Testing file: ../../.vs/ProjectSettings.json
+Write on csv file ../../.vs/ProjectSettings.json,33279,12103423999876925,14,1,1000,1000,52,1588704025.302989,b'2020-05-05 18:40:25',1588704025.302989,b'2020-05-05 18:40:25',1588704031.1873393,b'2020-05-05 18:40:31'
+Testing file: ../../.vs/slnx.sqlite
+Write on csv file ../../.vs/slnx.sqlite,33279,18858823439759702,14,1,1000,1000,114688,1588706936.4315581,b'2020-05-05 19:28:56',1588706936.4315581,b'2020-05-05 19:28:56',1588706944.6287134,b'2020-05-05 19:29:04'
+Testing file: ../../.vs/VSWorkspaceState.json
+Write on csv file ../../.vs/VSWorkspaceState.json,33279,23925373021724487,14,1,1000,1000,483,1588667924.3741944,b'2020-05-05 08:38:44',1588667924.3741944,b'2020-05-05 08:38:44',1588667932.7752404,b'2020-05-05 08:38:52'
+Analizing directory ../../.vs/works_for_gbellini
+Actual directory: ../../.vs/works_for_gbellini
+Present subdirectories: ['config', 'v16']
+Present files: []
+Analizing directory ../../.vs/works_for_gbellini/config
+Actual directory: ../../.vs/works_for_gbellini/config
+Present subdirectories: []
+Present files: ['applicationhost.config']
+Testing file: ../../.vs/works_for_gbellini/config/applicationhost.config
+Write on csv file ../../.vs/works_for_gbellini/config/applicationhost.config,33279,82190693200344128,14,1,1000,1000,76819,1585046462.6438968,b'2020-03-24 10:41:02',1579180453.9904313,b'2020-01-16 13:14:13',1585046471.2672288,b'2020-03-24 10:41:11'
+Analizing directory ../../.vs/works_for_gbellini/v16
+Actual directory: ../../.vs/works_for_gbellini/v16
+Present subdirectories: ['ipch']
+Present files: ['.suo', 'Browse.VC.db']
+Testing file: ../../.vs/works_for_gbellini/v16/.suo
+Write on csv file ../../.vs/works_for_gbellini/v16/.suo,33279,5910974512242501,14,2,1000,1000,123904,1588706903.5637815,b'2020-05-05 19:28:23',1588706903.561,b'2020-05-05 19:28:23',1588706912.3634343,b'2020-05-05 19:28:32'
+Testing file: ../../.vs/works_for_gbellini/v16/Browse.VC.db
+Write on csv file ../../.vs/works_for_gbellini/v16/Browse.VC.db,33279,170573835886664971,14,1,1000,1000,294912,1585047370.3910131,b'2020-03-24 10:56:10',1585047370.3910131,b'2020-03-24 10:56:10',1585047382.6788237,b'2020-03-24 10:56:22'
+Analizing directory ../../.vs/works_for_gbellini/v16/ipch
+Actual directory: ../../.vs/works_for_gbellini/v16/ipch
+Present subdirectories: ['AutoPCH']
+Present files: []
+Analizing directory ../../.vs/works_for_gbellini/v16/ipch/AutoPCH
+Actual directory: ../../.vs/works_for_gbellini/v16/ipch/AutoPCH
+Present subdirectories: []
+Present files: []
+Analizing directory ../../castellani_davide_criptotest_01_01
+Actual directory: ../../castellani_davide_criptotest_01_01
+Present subdirectories: ['bin', 'doc']
+Present files: []
+Analizing directory ../../castellani_davide_criptotest_01_01/bin
+Actual directory: ../../castellani_davide_criptotest_01_01/bin
+Present subdirectories: []
+Present files: ['criptotest.xlsx']
+Testing file: ../../castellani_davide_criptotest_01_01/bin/criptotest.xlsx
+Write on csv file ../../castellani_davide_criptotest_01_01/bin/criptotest.xlsx,33279,844424931521576,14,1,1000,1000,9561,1582295556.4573612,b'2020-02-21 14:32:36',1582295556.4573612,b'2020-02-21 14:32:36',1582295589.9308436,b'2020-02-21 14:33:09'
+Analizing directory ../../castellani_davide_criptotest_01_01/doc
+Actual directory: ../../castellani_davide_criptotest_01_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../castellani_davide_criptotest_01_01/doc/README.md
+Write on csv file ../../castellani_davide_criptotest_01_01/doc/README.md,33279,844424931521579,14,1,1000,1000,277,1582295556.4595172,b'2020-02-21 14:32:36',1582295556.4595172,b'2020-02-21 14:32:36',1582295589.9577734,b'2020-02-21 14:33:09'
+Analizing directory ../../castellani_davide_hostdns_01_02
+Actual directory: ../../castellani_davide_hostdns_01_02
+Present subdirectories: ['img']
+Present files: ['hostsdns.md']
+Testing file: ../../castellani_davide_hostdns_01_02/hostsdns.md
+Write on csv file ../../castellani_davide_hostdns_01_02/hostsdns.md,33279,72339069014659233,14,1,1000,1000,1046,1586359494.2031918,b'2020-04-08 15:24:54',1586359494.2031918,b'2020-04-08 15:24:54',1586359502.2631698,b'2020-04-08 15:25:02'
+Analizing directory ../../castellani_davide_hostdns_01_02/img
+Actual directory: ../../castellani_davide_hostdns_01_02/img
+Present subdirectories: []
+Present files: ['win10_bridge.png', 'win10_hosts.png', 'win10_nat.png', 'win10_ping.png', 'win10_ping_after_hosts_modify.png']
+Testing file: ../../castellani_davide_hostdns_01_02/img/win10_bridge.png
+Write on csv file ../../castellani_davide_hostdns_01_02/img/win10_bridge.png,33279,12384898976094163,14,1,1000,1000,461221,1586358818.9900277,b'2020-04-08 15:13:38',1585834116.1850321,b'2020-04-02 13:28:36',1586358829.128538,b'2020-04-08 15:13:49'
+Testing file: ../../castellani_davide_hostdns_01_02/img/win10_hosts.png
+Write on csv file ../../castellani_davide_hostdns_01_02/img/win10_hosts.png,33279,11540474045962196,14,1,1000,1000,434838,1586358818.9980068,b'2020-04-08 15:13:38',1585834116.2172756,b'2020-04-02 13:28:36',1586358831.551263,b'2020-04-08 15:13:51'
+Testing file: ../../castellani_davide_hostdns_01_02/img/win10_nat.png
+Write on csv file ../../castellani_davide_hostdns_01_02/img/win10_nat.png,33279,3659174698063843,14,1,1000,1000,454877,1586358819.0069828,b'2020-04-08 15:13:39',1585834116.2453363,b'2020-04-02 13:28:36',1586358831.7676694,b'2020-04-08 15:13:51'
+Testing file: ../../castellani_davide_hostdns_01_02/img/win10_ping.png
+Write on csv file ../../castellani_davide_hostdns_01_02/img/win10_ping.png,33279,7881299348723661,14,1,1000,1000,294988,1586358819.0159605,b'2020-04-08 15:13:39',1585834116.2777739,b'2020-04-02 13:28:36',1586358828.460878,b'2020-04-08 15:13:48'
+Testing file: ../../castellani_davide_hostdns_01_02/img/win10_ping_after_hosts_modify.png
+Write on csv file ../../castellani_davide_hostdns_01_02/img/win10_ping_after_hosts_modify.png,33279,8725724278855634,14,1,1000,1000,420201,1586358819.0249345,b'2020-04-08 15:13:39',1585834116.3102324,b'2020-04-02 13:28:36',1586358828.6779814,b'2020-04-08 15:13:48'
+Analizing directory ../../castellani_davide_hostdns_01_03
+Actual directory: ../../castellani_davide_hostdns_01_03
+Present subdirectories: ['htdocs', 'img']
+Present files: []
+Analizing directory ../../castellani_davide_hostdns_01_03/htdocs
+Actual directory: ../../castellani_davide_hostdns_01_03/htdocs
+Present subdirectories: []
+Present files: ['hostdns.html', 'Index.html']
+Testing file: ../../castellani_davide_hostdns_01_03/htdocs/hostdns.html
+Write on csv file ../../castellani_davide_hostdns_01_03/htdocs/hostdns.html,33279,6755399441875145,14,1,1000,1000,3625,1586371771.0174696,b'2020-04-08 18:49:31',1586371771.0174696,b'2020-04-08 18:49:31',1586371778.8325913,b'2020-04-08 18:49:38'
+Testing file: ../../castellani_davide_hostdns_01_03/htdocs/Index.html
+Write on csv file ../../castellani_davide_hostdns_01_03/htdocs/Index.html,33279,13229323906220184,14,1,1000,1000,1957,1586371871.7228265,b'2020-04-08 18:51:11',1586371871.7228265,b'2020-04-08 18:51:11',1586371879.4729156,b'2020-04-08 18:51:19'
+Analizing directory ../../castellani_davide_hostdns_01_03/img
+Actual directory: ../../castellani_davide_hostdns_01_03/img
+Present subdirectories: []
+Present files: ['back_arrow.png', 'win10_bridge.png', 'win10_hosts.png', 'win10_nat.png', 'win10_ping.png', 'win10_ping_after_hosts_modify.png']
+Testing file: ../../castellani_davide_hostdns_01_03/img/back_arrow.png
+Write on csv file ../../castellani_davide_hostdns_01_03/img/back_arrow.png,33279,16888498603458319,14,1,1000,1000,27130,1586371291.6273727,b'2020-04-08 18:41:31',1586371291.6273727,b'2020-04-08 18:41:31',1586371300.331034,b'2020-04-08 18:41:40'
+Testing file: ../../castellani_davide_hostdns_01_03/img/win10_bridge.png
+Write on csv file ../../castellani_davide_hostdns_01_03/img/win10_bridge.png,33279,25895697857583725,14,1,1000,1000,461221,1586359552.612068,b'2020-04-08 15:25:52',1585834116.1850321,b'2020-04-02 13:28:36',1586359565.1024003,b'2020-04-08 15:26:05'
+Testing file: ../../castellani_davide_hostdns_01_03/img/win10_hosts.png
+Write on csv file ../../castellani_davide_hostdns_01_03/img/win10_hosts.png,33279,17169973579553461,14,1,1000,1000,434838,1586359552.6180527,b'2020-04-08 15:25:52',1585834116.2172756,b'2020-04-02 13:28:36',1586359567.9700646,b'2020-04-08 15:26:07'
+Testing file: ../../castellani_davide_hostdns_01_03/img/win10_nat.png
+Write on csv file ../../castellani_davide_hostdns_01_03/img/win10_nat.png,33279,27021597764426454,14,1,1000,1000,454877,1586359552.6240356,b'2020-04-08 15:25:52',1585834116.2453363,b'2020-04-02 13:28:36',1586359568.6998322,b'2020-04-08 15:26:08'
+Testing file: ../../castellani_davide_hostdns_01_03/img/win10_ping.png
+Write on csv file ../../castellani_davide_hostdns_01_03/img/win10_ping.png,33279,8444249301523356,14,1,1000,1000,294988,1586359552.6300206,b'2020-04-08 15:25:52',1585834116.2777739,b'2020-04-02 13:28:36',1586359569.1247506,b'2020-04-08 15:26:09'
+Testing file: ../../castellani_davide_hostdns_01_03/img/win10_ping_after_hosts_modify.png
+Write on csv file ../../castellani_davide_hostdns_01_03/img/win10_ping_after_hosts_modify.png,33279,9288674231655382,14,1,1000,1000,420201,1586359552.637001,b'2020-04-08 15:25:52',1585834116.3102324,b'2020-04-02 13:28:36',1586359569.127742,b'2020-04-08 15:26:09'
+Analizing directory ../../castellani_davide_hostdns_01_04
+Actual directory: ../../castellani_davide_hostdns_01_04
+Present subdirectories: []
+Present files: ['backup-links.txt', 'mywebsite-link.url', 'surge-link.url']
+Testing file: ../../castellani_davide_hostdns_01_04/backup-links.txt
+Write on csv file ../../castellani_davide_hostdns_01_04/backup-links.txt,33279,5348024558322131,14,1,1000,1000,143,1586373648.1812303,b'2020-04-08 19:20:48',1586373648.1812303,b'2020-04-08 19:20:48',1586373662.6494105,b'2020-04-08 19:21:02'
+Testing file: ../../castellani_davide_hostdns_01_04/mywebsite-link.url
+Write on csv file ../../castellani_davide_hostdns_01_04/mywebsite-link.url,33279,8162774325428699,14,1,1000,1000,177,1586373588.8015594,b'2020-04-08 19:19:48',1586373588.8015594,b'2020-04-08 19:19:48',1586373597.0611105,b'2020-04-08 19:19:57'
+Testing file: ../../castellani_davide_hostdns_01_04/surge-link.url
+Write on csv file ../../castellani_davide_hostdns_01_04/surge-link.url,33279,4222124651479516,14,1,1000,1000,122,1586373552.4592054,b'2020-04-08 19:19:12',1586373552.4592054,b'2020-04-08 19:19:12',1586373562.7277467,b'2020-04-08 19:19:22'
+Analizing directory ../../castellani_davide_osstat_01_01
+Actual directory: ../../castellani_davide_osstat_01_01
+Present subdirectories: ['bin', 'doc', 'log']
+Present files: []
+Analizing directory ../../castellani_davide_osstat_01_01/bin
+Actual directory: ../../castellani_davide_osstat_01_01/bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ../../castellani_davide_osstat_01_01/bin/osstat.py
+Write on csv file ../../castellani_davide_osstat_01_01/bin/osstat.py,33279,32651097299262398,14,1,1000,1000,1588,1588060332.2080452,b'2020-04-28 07:52:12',1588060332.2080452,b'2020-04-28 07:52:12',1588060340.3052597,b'2020-04-28 07:52:20'
+Analizing directory ../../castellani_davide_osstat_01_01/doc
+Actual directory: ../../castellani_davide_osstat_01_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../castellani_davide_osstat_01_01/doc/README.md
+Write on csv file ../../castellani_davide_osstat_01_01/doc/README.md,33279,21955048184272545,14,1,1000,1000,634,1588059904.9466507,b'2020-04-28 07:45:04',1588059904.9466507,b'2020-04-28 07:45:04',1588059912.9199986,b'2020-04-28 07:45:12'
+Analizing directory ../../castellani_davide_osstat_01_01/log
+Actual directory: ../../castellani_davide_osstat_01_01/log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ../../castellani_davide_osstat_01_01/log/log.log
+Write on csv file ../../castellani_davide_osstat_01_01/log/log.log,33279,65865144550348703,14,1,1000,1000,4249,1588059699.5650048,b'2020-04-28 07:41:39',1588059699.5650048,b'2020-04-28 07:41:39',1588059707.2758672,b'2020-04-28 07:41:47'
+Analizing directory ../../castellani_davide_osstat_01_02
+Actual directory: ../../castellani_davide_osstat_01_02
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ../../castellani_davide_osstat_01_02/bin
+Actual directory: ../../castellani_davide_osstat_01_02/bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ../../castellani_davide_osstat_01_02/bin/osstat.py
+Write on csv file ../../castellani_davide_osstat_01_02/bin/osstat.py,33279,59391220086781895,14,1,1000,1000,2798,1588064502.0937514,b'2020-04-28 09:01:42',1588064322.1498594,b'2020-04-28 08:58:42',1588064511.796601,b'2020-04-28 09:01:51'
+Analizing directory ../../castellani_davide_osstat_01_02/doc
+Actual directory: ../../castellani_davide_osstat_01_02/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../castellani_davide_osstat_01_02/doc/README.md
+Write on csv file ../../castellani_davide_osstat_01_02/doc/README.md,33279,18577348463736841,14,1,1000,1000,813,1588064502.097741,b'2020-04-28 09:01:42',1588064342.4089832,b'2020-04-28 08:59:02',1588064511.8162284,b'2020-04-28 09:01:51'
+Analizing directory ../../castellani_davide_osstat_01_02/flussi
+Actual directory: ../../castellani_davide_osstat_01_02/flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ../../castellani_davide_osstat_01_02/flussi/osstat.csv
+Write on csv file ../../castellani_davide_osstat_01_02/flussi/osstat.csv,33279,18858823440521838,14,1,1000,1000,873,1588064502.103725,b'2020-04-28 09:01:42',1588064037.5717466,b'2020-04-28 08:53:57',1588064511.826228,b'2020-04-28 09:01:51'
+Analizing directory ../../castellani_davide_osstat_01_02/log
+Actual directory: ../../castellani_davide_osstat_01_02/log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ../../castellani_davide_osstat_01_02/log/log.log
+Write on csv file ../../castellani_davide_osstat_01_02/log/log.log,33279,18014398510390095,14,1,1000,1000,28978,1588064502.1087122,b'2020-04-28 09:01:42',1588064037.5717466,b'2020-04-28 08:53:57',1588064511.8362277,b'2020-04-28 09:01:51'
+Analizing directory ../../castellani_davide_osstat_01_03
+Actual directory: ../../castellani_davide_osstat_01_03
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ../../castellani_davide_osstat_01_03/bin
+Actual directory: ../../castellani_davide_osstat_01_03/bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ../../castellani_davide_osstat_01_03/bin/osstat.py
+Write on csv file ../../castellani_davide_osstat_01_03/bin/osstat.py,33279,25895697858851298,14,1,1000,1000,3335,1588706936.2229898,b'2020-05-05 19:28:56',1588706936.2229898,b'2020-05-05 19:28:56',1588706944.3197448,b'2020-05-05 19:29:04'
+Analizing directory ../../castellani_davide_osstat_01_03/doc
+Actual directory: ../../castellani_davide_osstat_01_03/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../castellani_davide_osstat_01_03/doc/README.md
+Write on csv file ../../castellani_davide_osstat_01_03/doc/README.md,33279,313000174102254574,14,1,1000,1000,1036,1588707168.2252216,b'2020-05-05 19:32:48',1588707168.2252216,b'2020-05-05 19:32:48',1588707174.8101132,b'2020-05-05 19:32:54'
+Analizing directory ../../castellani_davide_osstat_01_03/flussi
+Actual directory: ../../castellani_davide_osstat_01_03/flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ../../castellani_davide_osstat_01_03/flussi/osstat.csv
+Write on csv file ../../castellani_davide_osstat_01_03/flussi/osstat.csv,33279,12384898975827963,14,1,1000,1000,58551,1588707575.0977798,b'2020-05-05 19:39:35',1588707575.0977798,b'2020-05-05 19:39:35',1588707575.0977798,b'2020-05-05 19:39:35'
+Analizing directory ../../castellani_davide_osstat_01_03/log
+Actual directory: ../../castellani_davide_osstat_01_03/log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ../../castellani_davide_osstat_01_03/log/log.log
+Write on csv file ../../castellani_davide_osstat_01_03/log/log.log,33279,6192449489102923,14,1,1000,1000,152305,1588707575.0958369,b'2020-05-05 19:39:35',1588707575.0958369,b'2020-05-05 19:39:35',1588707575.0958369,b'2020-05-05 19:39:35'
+Analizing directory ../../cp_01_01
+Actual directory: ../../cp_01_01
+Present subdirectories: ['bin', 'doc']
+Present files: []
+Analizing directory ../../cp_01_01/bin
+Actual directory: ../../cp_01_01/bin
+Present subdirectories: []
+Present files: ['cp.bat', 'W10STAT-7-143_CP.txt', 'W10STAT-7-143_INFO.txt']
+Testing file: ../../cp_01_01/bin/cp.bat
+Write on csv file ../../cp_01_01/bin/cp.bat,33279,1125899908232254,14,1,1000,1000,258,1582295583.7337797,b'2020-02-21 14:33:03',1579617215.6158385,b'2020-01-21 14:33:35',1582295604.2714758,b'2020-02-21 14:33:24'
+Testing file: ../../cp_01_01/bin/W10STAT-7-143_CP.txt
+Write on csv file ../../cp_01_01/bin/W10STAT-7-143_CP.txt,33279,1125899908232255,14,1,1000,1000,51,1582295583.7483838,b'2020-02-21 14:33:03',1579617215.613846,b'2020-01-21 14:33:35',1582295604.8170216,b'2020-02-21 14:33:24'
+Testing file: ../../cp_01_01/bin/W10STAT-7-143_INFO.txt
+Write on csv file ../../cp_01_01/bin/W10STAT-7-143_INFO.txt,33279,844424931521600,14,1,1000,1000,5289,1582295583.7593548,b'2020-02-21 14:33:03',1579617215.6158385,b'2020-01-21 14:33:35',1582295605.8731966,b'2020-02-21 14:33:25'
+Analizing directory ../../cp_01_01/doc
+Actual directory: ../../cp_01_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../cp_01_01/doc/README.md
+Write on csv file ../../cp_01_01/doc/README.md,33279,844424931521602,14,1,1000,1000,295,1582295583.7733164,b'2020-02-21 14:33:03',1579617215.617834,b'2020-01-21 14:33:35',1582295606.894497,b'2020-02-21 14:33:26'
+Analizing directory ../../cp_01_02
+Actual directory: ../../cp_01_02
+Present subdirectories: ['bin', 'doc']
+Present files: []
+Analizing directory ../../cp_01_02/bin
+Actual directory: ../../cp_01_02/bin
+Present subdirectories: []
+Present files: ['cp.bat', 'W10STAT-7-143_CP.txt', 'W10STAT-7-143_INFO.txt']
+Testing file: ../../cp_01_02/bin/cp.bat
+Write on csv file ../../cp_01_02/bin/cp.bat,33279,844424931521605,14,1,1000,1000,258,1582295583.7822926,b'2020-02-21 14:33:03',1579617215.620825,b'2020-01-21 14:33:35',1582295612.968279,b'2020-02-21 14:33:32'
+Testing file: ../../cp_01_02/bin/W10STAT-7-143_CP.txt
+Write on csv file ../../cp_01_02/bin/W10STAT-7-143_CP.txt,33279,844424931521606,14,1,1000,1000,51,1582295583.7852845,b'2020-02-21 14:33:03',1579617215.6188316,b'2020-01-21 14:33:35',1582295612.9862316,b'2020-02-21 14:33:32'
+Testing file: ../../cp_01_02/bin/W10STAT-7-143_INFO.txt
+Write on csv file ../../cp_01_02/bin/W10STAT-7-143_INFO.txt,33279,844424931521607,14,1,1000,1000,5289,1582295583.7882771,b'2020-02-21 14:33:03',1579617215.6198287,b'2020-01-21 14:33:35',1582295613.112699,b'2020-02-21 14:33:33'
+Analizing directory ../../cp_01_02/doc
+Actual directory: ../../cp_01_02/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../cp_01_02/doc/README.md
+Write on csv file ../../cp_01_02/doc/README.md,33279,844424931521609,14,1,1000,1000,420,1582295583.7993095,b'2020-02-21 14:33:03',1579617215.6218653,b'2020-01-21 14:33:35',1582295613.1358314,b'2020-02-21 14:33:33'
+Analizing directory ../../create_structure_01_01
+Actual directory: ../../create_structure_01_01
+Present subdirectories: ['bin', 'doc', 'log']
+Present files: []
+Analizing directory ../../create_structure_01_01/bin
+Actual directory: ../../create_structure_01_01/bin
+Present subdirectories: []
+Present files: ['create_structure.py']
+Testing file: ../../create_structure_01_01/bin/create_structure.py
+Write on csv file ../../create_structure_01_01/bin/create_structure.py,33279,44473046321412388,14,1,1000,1000,3043,1585047034.7137952,b'2020-03-24 10:50:34',1585047034.7137952,b'2020-03-24 10:50:34',1585047043.0523162,b'2020-03-24 10:50:43'
+Analizing directory ../../create_structure_01_01/doc
+Actual directory: ../../create_structure_01_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../create_structure_01_01/doc/README.md
+Write on csv file ../../create_structure_01_01/doc/README.md,33279,14918173766793502,14,1,1000,1000,517,1585046948.5567596,b'2020-03-24 10:49:08',1585046948.5567596,b'2020-03-24 10:49:08',1585046957.2417405,b'2020-03-24 10:49:17'
+Analizing directory ../../create_structure_01_01/log
+Actual directory: ../../create_structure_01_01/log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ../../create_structure_01_01/log/log.log
+Write on csv file ../../create_structure_01_01/log/log.log,33279,48976645948782879,14,1,1000,1000,0,1585046948.557687,b'2020-03-24 10:49:08',1585046948.557687,b'2020-03-24 10:49:08',1585046957.249524,b'2020-03-24 10:49:17'
+Analizing directory ../../create_structure_02_01
+Actual directory: ../../create_structure_02_01
+Present subdirectories: ['bin', 'doc', 'log']
+Present files: []
+Analizing directory ../../create_structure_02_01/bin
+Actual directory: ../../create_structure_02_01/bin
+Present subdirectories: []
+Present files: ['create_structure.py']
+Testing file: ../../create_structure_02_01/bin/create_structure.py
+Write on csv file ../../create_structure_02_01/bin/create_structure.py,33279,28428972647978916,14,1,1000,1000,6940,1586359403.7785666,b'2020-04-08 15:23:23',1586359403.7785666,b'2020-04-08 15:23:23',1586359410.2596316,b'2020-04-08 15:23:30'
+Analizing directory ../../create_structure_02_01/doc
+Actual directory: ../../create_structure_02_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../create_structure_02_01/doc/README.md
+Write on csv file ../../create_structure_02_01/doc/README.md,33279,25332747904795696,14,1,1000,1000,752,1585047330.550594,b'2020-03-24 10:55:30',1585047330.550594,b'2020-03-24 10:55:30',1585047339.0797508,b'2020-03-24 10:55:39'
+Analizing directory ../../create_structure_02_01/log
+Actual directory: ../../create_structure_02_01/log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ../../create_structure_02_01/log/log.log
+Write on csv file ../../create_structure_02_01/log/log.log,33279,63894819714446482,14,1,1000,1000,0,1585046560.309497,b'2020-03-24 10:42:40',1585046560.309497,b'2020-03-24 10:42:40',1585046569.81696,b'2020-03-24 10:42:49'
+Analizing directory ../../exp_2020-01-21
+Actual directory: ../../exp_2020-01-21
+Present subdirectories: ['exp_a']
+Present files: ['exp.bat', 'README.md']
+Testing file: ../../exp_2020-01-21/exp.bat
+Write on csv file ../../exp_2020-01-21/exp.bat,33279,671036344478280330,14,1,1000,1000,17,1579617215.5759456,b'2020-01-21 14:33:35',1579617215.5759456,b'2020-01-21 14:33:35',1579707874.0758586,b'2020-01-22 15:44:34'
+Testing file: ../../exp_2020-01-21/README.md
+Write on csv file ../../exp_2020-01-21/README.md,33279,12103423998634592,14,1,1000,1000,318,1579617215.574949,b'2020-01-21 14:33:35',1579617215.574949,b'2020-01-21 14:33:35',1579707875.1554139,b'2020-01-22 15:44:35'
+Analizing directory ../../exp_2020-01-21/exp_a
+Actual directory: ../../exp_2020-01-21/exp_a
+Present subdirectories: ['sabaini_chiara_cp_01_01', 'sabaini_chiara_cp_01_02', 'sabaini_chiara_proc_02_01']
+Present files: ['mod.bat', 'Presentazione_Sistemi_Operativi.pdf', 'Rappresentazionedelleimmagini.pdf', '_mod.bat']
+Testing file: ../../exp_2020-01-21/exp_a/mod.bat
+Write on csv file ../../exp_2020-01-21/exp_a/mod.bat,33279,58828270132624393,14,1,1000,1000,51,1579617215.6128833,b'2020-01-21 14:33:35',1579617215.6128833,b'2020-01-21 14:33:35',1579707879.3325043,b'2020-01-22 15:44:39'
+Testing file: ../../exp_2020-01-21/exp_a/Presentazione_Sistemi_Operativi.pdf
+Write on csv file ../../exp_2020-01-21/exp_a/Presentazione_Sistemi_Operativi.pdf,33279,15199648742457468,14,1,1000,1000,3221754,1579617215.6078658,b'2020-01-21 14:33:35',1579617215.6078658,b'2020-01-21 14:33:35',1579707878.4752927,b'2020-01-22 15:44:38'
+Testing file: ../../exp_2020-01-21/exp_a/Rappresentazionedelleimmagini.pdf
+Write on csv file ../../exp_2020-01-21/exp_a/Rappresentazionedelleimmagini.pdf,33279,14636698789048036,14,1,1000,1000,216067,1579617215.610854,b'2020-01-21 14:33:35',1579617215.610854,b'2020-01-21 14:33:35',1579707877.1597886,b'2020-01-22 15:44:37'
+Testing file: ../../exp_2020-01-21/exp_a/_mod.bat
+Write on csv file ../../exp_2020-01-21/exp_a/_mod.bat,33279,13510798882208556,14,1,1000,1000,51,1579617215.6118512,b'2020-01-21 14:33:35',1579617215.6118512,b'2020-01-21 14:33:35',1579707877.1867192,b'2020-01-22 15:44:37'
+Analizing directory ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01
+Actual directory: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01
+Present subdirectories: ['bin', 'doc']
+Present files: []
+Analizing directory ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/bin
+Actual directory: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/bin
+Present subdirectories: []
+Present files: ['cp.bat', 'W10STAT-7-143_CP.txt', 'W10STAT-7-143_INFO.txt']
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/bin/cp.bat
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/bin/cp.bat,33279,6755399441153670,14,1,1000,1000,258,1579617215.6158385,b'2020-01-21 14:33:35',1579617215.6158385,b'2020-01-21 14:33:35',1579707897.930771,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/bin/W10STAT-7-143_CP.txt
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/bin/W10STAT-7-143_CP.txt,33279,6755399441153664,14,1,1000,1000,51,1579617215.613846,b'2020-01-21 14:33:35',1579617215.613846,b'2020-01-21 14:33:35',1579707897.9437754,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/bin/W10STAT-7-143_INFO.txt
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/bin/W10STAT-7-143_INFO.txt,33279,6473924464443012,14,1,1000,1000,5289,1579617215.6158385,b'2020-01-21 14:33:35',1579617215.6158385,b'2020-01-21 14:33:35',1579707897.9577384,b'2020-01-22 15:44:57'
+Analizing directory ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/doc
+Actual directory: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/doc/README.md
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_01/doc/README.md,33279,6473924464443020,14,1,1000,1000,295,1579617215.617834,b'2020-01-21 14:33:35',1579617215.617834,b'2020-01-21 14:33:35',1579707897.9746542,b'2020-01-22 15:44:57'
+Analizing directory ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02
+Actual directory: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02
+Present subdirectories: ['bin', 'doc']
+Present files: []
+Analizing directory ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/bin
+Actual directory: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/bin
+Present subdirectories: []
+Present files: ['cp.bat', 'W10STAT-7-143_CP.txt', 'W10STAT-7-143_INFO.txt']
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/bin/cp.bat
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/bin/cp.bat,33279,14073748835630757,14,1,1000,1000,258,1579617215.620825,b'2020-01-21 14:33:35',1579617215.620825,b'2020-01-21 14:33:35',1579707897.875918,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/bin/W10STAT-7-143_CP.txt
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/bin/W10STAT-7-143_CP.txt,33279,14355223812341396,14,1,1000,1000,51,1579617215.6188316,b'2020-01-21 14:33:35',1579617215.6188316,b'2020-01-21 14:33:35',1579707897.8899522,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/bin/W10STAT-7-143_INFO.txt
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/bin/W10STAT-7-143_INFO.txt,33279,28710447624584854,14,1,1000,1000,5289,1579617215.6198287,b'2020-01-21 14:33:35',1579617215.6198287,b'2020-01-21 14:33:35',1579707897.9028816,b'2020-01-22 15:44:57'
+Analizing directory ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/doc
+Actual directory: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/doc/README.md
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_cp_01_02/doc/README.md,33279,9288674231549615,14,1,1000,1000,420,1579617215.6218653,b'2020-01-21 14:33:35',1579617215.6218653,b'2020-01-21 14:33:35',1579707897.9168656,b'2020-01-22 15:44:57'
+Analizing directory ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01
+Actual directory: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01
+Present subdirectories: ['bin', 'doc', 'src']
+Present files: []
+Analizing directory ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin
+Actual directory: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin
+Present subdirectories: []
+Present files: ['cc.bat', 'debug.exe', 'DPMI16BI.OVL', 'DPMIINS1.EXE', 'DPMILOAD.EXE', 'DPMIMEM.DLL', 'PROC.EXE', 'TASM.EXE', 'TLINK.EXE']
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/cc.bat
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/cc.bat,33279,7881299347996623,14,1,1000,1000,974,1579617215.634789,b'2020-01-21 14:33:35',1579617215.634789,b'2020-01-21 14:33:35',1579707897.779205,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/debug.exe
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/debug.exe,33279,25051272927346708,14,1,1000,1000,20634,1579617215.6367834,b'2020-01-21 14:33:35',1579617215.6367834,b'2020-01-21 14:33:35',1579707897.797508,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/DPMI16BI.OVL
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/DPMI16BI.OVL,33279,22236523160239823,14,1,1000,1000,60672,1579617215.6238537,b'2020-01-21 14:33:35',1579617215.6238537,b'2020-01-21 14:33:35',1579707897.66248,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/DPMIINS1.EXE
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/DPMIINS1.EXE,33279,9851624184970976,14,1,1000,1000,35524,1579617215.6258116,b'2020-01-21 14:33:35',1579617215.6258116,b'2020-01-21 14:33:35',1579707897.735284,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/DPMILOAD.EXE
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/DPMILOAD.EXE,33279,8162774324707084,14,1,1000,1000,22212,1579617215.62681,b'2020-01-21 14:33:35',1579617215.62681,b'2020-01-21 14:33:35',1579707897.7639594,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/DPMIMEM.DLL
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/DPMIMEM.DLL,33279,14636698789052189,14,1,1000,1000,24932,1579617215.6278408,b'2020-01-21 14:33:35',1579617215.6278408,b'2020-01-21 14:33:35',1579707897.6874127,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/PROC.EXE
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/PROC.EXE,33279,9570149208260469,14,1,1000,1000,586,1579617215.6288047,b'2020-01-21 14:33:35',1579617215.6288047,b'2020-01-21 14:33:35',1579707897.8111484,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/TASM.EXE
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/TASM.EXE,33279,2533274790494102,14,1,1000,1000,129266,1579617215.6318343,b'2020-01-21 14:33:35',1579617215.6318343,b'2020-01-21 14:33:35',1579707897.716356,b'2020-01-22 15:44:57'
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/TLINK.EXE
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/bin/TLINK.EXE,33279,8725724278128576,14,1,1000,1000,150569,1579617215.634789,b'2020-01-21 14:33:35',1579617215.634789,b'2020-01-21 14:33:35',1579707897.8310285,b'2020-01-22 15:44:57'
+Analizing directory ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/doc
+Actual directory: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/doc/README.md
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/doc/README.md,33279,24488322973925468,14,1,1000,1000,709,1579617215.6378171,b'2020-01-21 14:33:35',1579617215.6378171,b'2020-01-21 14:33:35',1579707897.844059,b'2020-01-22 15:44:57'
+Analizing directory ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/src
+Actual directory: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/src
+Present subdirectories: []
+Present files: ['proc.asm']
+Testing file: ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/src/proc.asm
+Write on csv file ../../exp_2020-01-21/exp_a/sabaini_chiara_proc_02_01/src/proc.asm,33279,6755399441154347,14,1,1000,1000,1075,1579617215.638778,b'2020-01-21 14:33:35',1579617215.638778,b'2020-01-21 14:33:35',1579707897.858955,b'2020-01-22 15:44:57'
+Analizing directory ../../hostdns_01_01
+Actual directory: ../../hostdns_01_01
+Present subdirectories: ['bin', 'doc']
+Present files: []
+Analizing directory ../../hostdns_01_01/bin
+Actual directory: ../../hostdns_01_01/bin
+Present subdirectories: []
+Present files: ['win10_bridge.png', 'win10_hosts.png', 'win10_nat.png', 'win10_ping.png', 'win10_ping_after_hosts_modify.png']
+Testing file: ../../hostdns_01_01/bin/win10_bridge.png
+Write on csv file ../../hostdns_01_01/bin/win10_bridge.png,33279,5629499534833703,14,1,1000,1000,461221,1585834116.1850321,b'2020-04-02 13:28:36',1585834116.1850321,b'2020-04-02 13:28:36',1585834125.7140796,b'2020-04-02 13:28:45'
+Testing file: ../../hostdns_01_01/bin/win10_hosts.png
+Write on csv file ../../hostdns_01_01/bin/win10_hosts.png,33279,8444249302118161,14,1,1000,1000,434838,1585834116.2172756,b'2020-04-02 13:28:36',1585834116.2172756,b'2020-04-02 13:28:36',1585834124.96444,b'2020-04-02 13:28:44'
+Testing file: ../../hostdns_01_01/bin/win10_nat.png
+Write on csv file ../../hostdns_01_01/bin/win10_nat.png,33279,5348024558301194,14,1,1000,1000,454877,1585834116.2453363,b'2020-04-02 13:28:36',1585834116.2453363,b'2020-04-02 13:28:36',1585834126.0752082,b'2020-04-02 13:28:46'
+Testing file: ../../hostdns_01_01/bin/win10_ping.png
+Write on csv file ../../hostdns_01_01/bin/win10_ping.png,33279,5348024558301205,14,1,1000,1000,294988,1585834116.2777739,b'2020-04-02 13:28:36',1585834116.2777739,b'2020-04-02 13:28:36',1585834125.992549,b'2020-04-02 13:28:45'
+Testing file: ../../hostdns_01_01/bin/win10_ping_after_hosts_modify.png
+Write on csv file ../../hostdns_01_01/bin/win10_ping_after_hosts_modify.png,33279,5066549581609002,14,1,1000,1000,420201,1585834116.3102324,b'2020-04-02 13:28:36',1585834116.3102324,b'2020-04-02 13:28:36',1585834125.9386246,b'2020-04-02 13:28:45'
+Analizing directory ../../hostdns_01_01/doc
+Actual directory: ../../hostdns_01_01/doc
+Present subdirectories: []
+Present files: ['hostsdns.md']
+Testing file: ../../hostdns_01_01/doc/hostsdns.md
+Write on csv file ../../hostdns_01_01/doc/hostsdns.md,33279,63613344737236062,14,1,1000,1000,966,1585834762.9081419,b'2020-04-02 13:39:22',1585834762.9081419,b'2020-04-02 13:39:22',1585834772.0095792,b'2020-04-02 13:39:32'
+Analizing directory ../../int81_01_01
+Actual directory: ../../int81_01_01
+Present subdirectories: ['bin', 'doc', 'src']
+Present files: []
+Analizing directory ../../int81_01_01/bin
+Actual directory: ../../int81_01_01/bin
+Present subdirectories: []
+Present files: ['INT81.EXE']
+Testing file: ../../int81_01_01/bin/INT81.EXE
+Write on csv file ../../int81_01_01/bin/INT81.EXE,33279,22799473113964310,14,1,1000,1000,644,1582014508.4093611,b'2020-02-18 08:28:28',1582014012.9518647,b'2020-02-18 08:20:12',1582014516.4269695,b'2020-02-18 08:28:36'
+Analizing directory ../../int81_01_01/doc
+Actual directory: ../../int81_01_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../int81_01_01/doc/README.md
+Write on csv file ../../int81_01_01/doc/README.md,33279,33495522229087266,14,1,1000,1000,528,1582014946.988039,b'2020-02-18 08:35:46',1582014946.988039,b'2020-02-18 08:35:46',1582014954.7365427,b'2020-02-18 08:35:54'
+Analizing directory ../../int81_01_01/src
+Actual directory: ../../int81_01_01/src
+Present subdirectories: []
+Present files: ['int81']
+Testing file: ../../int81_01_01/src/int81
+Write on csv file ../../int81_01_01/src/int81,33279,87820192733750530,14,1,1000,1000,1599,1582014160.685926,b'2020-02-18 08:22:40',1582014160.685926,b'2020-02-18 08:22:40',1582014455.4534037,b'2020-02-18 08:27:35'
+Analizing directory ../../int81_02_01
+Actual directory: ../../int81_02_01
+Present subdirectories: ['bin', 'doc', 'src']
+Present files: []
+Analizing directory ../../int81_02_01/bin
+Actual directory: ../../int81_02_01/bin
+Present subdirectories: []
+Present files: ['INT81.EXE']
+Testing file: ../../int81_02_01/bin/INT81.EXE
+Write on csv file ../../int81_02_01/bin/INT81.EXE,33279,432345564227568042,14,1,1000,1000,683,1582042588.6990144,b'2020-02-18 16:16:28',1582042480.4894218,b'2020-02-18 16:14:40',1582042596.250808,b'2020-02-18 16:16:36'
+Analizing directory ../../int81_02_01/doc
+Actual directory: ../../int81_02_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../int81_02_01/doc/README.md
+Write on csv file ../../int81_02_01/doc/README.md,33279,43065671437018032,14,1,1000,1000,679,1582014936.8420355,b'2020-02-18 08:35:36',1582014936.8420355,b'2020-02-18 08:35:36',1582042594.6530826,b'2020-02-18 16:16:34'
+Analizing directory ../../int81_02_01/src
+Actual directory: ../../int81_02_01/src
+Present subdirectories: []
+Present files: ['INT81.ASM']
+Testing file: ../../int81_02_01/src/INT81.ASM
+Write on csv file ../../int81_02_01/src/INT81.ASM,33279,60235645016155857,14,1,1000,1000,2305,1582042573.1575923,b'2020-02-18 16:16:13',1582042527.4947577,b'2020-02-18 16:15:27',1582042580.7452917,b'2020-02-18 16:16:20'
+Analizing directory ../../osstat_01_02
+Actual directory: ../../osstat_01_02
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ../../osstat_01_02/bin
+Actual directory: ../../osstat_01_02/bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ../../osstat_01_02/bin/osstat.py
+Write on csv file ../../osstat_01_02/bin/osstat.py,33279,151152062493785300,14,1,1000,1000,2798,1588064322.1498594,b'2020-04-28 08:58:42',1588064322.1498594,b'2020-04-28 08:58:42',1588064328.5218117,b'2020-04-28 08:58:48'
+Analizing directory ../../osstat_01_02/doc
+Actual directory: ../../osstat_01_02/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../osstat_01_02/doc/README.md
+Write on csv file ../../osstat_01_02/doc/README.md,33279,83598068083824285,14,1,1000,1000,813,1588064342.4089832,b'2020-04-28 08:59:02',1588064342.4089832,b'2020-04-28 08:59:02',1588064348.7011528,b'2020-04-28 08:59:08'
+Analizing directory ../../osstat_01_02/flussi
+Actual directory: ../../osstat_01_02/flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ../../osstat_01_02/flussi/osstat.csv
+Write on csv file ../../osstat_01_02/flussi/osstat.csv,33279,68679894318159519,14,1,1000,1000,873,1588064037.5717466,b'2020-04-28 08:53:57',1588064037.5717466,b'2020-04-28 08:53:57',1588064045.4394226,b'2020-04-28 08:54:05'
+Analizing directory ../../osstat_01_02/log
+Actual directory: ../../osstat_01_02/log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ../../osstat_01_02/log/log.log
+Write on csv file ../../osstat_01_02/log/log.log,33279,102456891522742515,14,1,1000,1000,28978,1588064037.5717466,b'2020-04-28 08:53:57',1588064037.5717466,b'2020-04-28 08:53:57',1588064045.2978015,b'2020-04-28 08:54:05'
+Analizing directory ../../proc_02_01
+Actual directory: ../../proc_02_01
+Present subdirectories: ['bin', 'doc', 'src']
+Present files: []
+Analizing directory ../../proc_02_01/bin
+Actual directory: ../../proc_02_01/bin
+Present subdirectories: []
+Present files: ['cc.bat', 'debug.exe', 'DPMI16BI.OVL', 'DPMIINS1.EXE', 'DPMILOAD.EXE', 'DPMIMEM.DLL', 'PROC.EXE', 'TASM.EXE', 'TLINK.EXE']
+Testing file: ../../proc_02_01/bin/cc.bat
+Write on csv file ../../proc_02_01/bin/cc.bat,33279,1688849861653550,14,1,1000,1000,974,1582295583.5509603,b'2020-02-21 14:33:03',1579617215.634789,b'2020-01-21 14:33:35',1582295599.4847653,b'2020-02-21 14:33:19'
+Testing file: ../../proc_02_01/bin/debug.exe
+Write on csv file ../../proc_02_01/bin/debug.exe,33279,1407374884942895,14,1,1000,1000,20634,1582295583.5758452,b'2020-02-21 14:33:03',1579617215.6367834,b'2020-01-21 14:33:35',1582295599.5123818,b'2020-02-21 14:33:19'
+Testing file: ../../proc_02_01/bin/DPMI16BI.OVL
+Write on csv file ../../proc_02_01/bin/DPMI16BI.OVL,33279,1125899908232240,14,1,1000,1000,60672,1582295583.5918024,b'2020-02-21 14:33:03',1579617215.6238537,b'2020-01-21 14:33:35',1582295599.3700252,b'2020-02-21 14:33:19'
+Testing file: ../../proc_02_01/bin/DPMIINS1.EXE
+Write on csv file ../../proc_02_01/bin/DPMIINS1.EXE,33279,1125899908232241,14,1,1000,1000,35524,1582295583.605171,b'2020-02-21 14:33:03',1579617215.6258116,b'2020-01-21 14:33:35',1582295599.4593518,b'2020-02-21 14:33:19'
+Testing file: ../../proc_02_01/bin/DPMILOAD.EXE
+Write on csv file ../../proc_02_01/bin/DPMILOAD.EXE,33279,1125899908232242,14,1,1000,1000,22212,1582295583.618744,b'2020-02-21 14:33:03',1579617215.62681,b'2020-01-21 14:33:35',1582295599.4733539,b'2020-02-21 14:33:19'
+Testing file: ../../proc_02_01/bin/DPMIMEM.DLL
+Write on csv file ../../proc_02_01/bin/DPMIMEM.DLL,33279,1125899908232243,14,1,1000,1000,24932,1582295583.6322165,b'2020-02-21 14:33:03',1579617215.6278408,b'2020-01-21 14:33:35',1582295599.3905358,b'2020-02-21 14:33:19'
+Testing file: ../../proc_02_01/bin/PROC.EXE
+Write on csv file ../../proc_02_01/bin/PROC.EXE,33279,1125899908232244,14,1,1000,1000,586,1582295583.6409328,b'2020-02-21 14:33:03',1579617215.6288047,b'2020-01-21 14:33:35',1582295599.4982846,b'2020-02-21 14:33:19'
+Testing file: ../../proc_02_01/bin/TASM.EXE
+Write on csv file ../../proc_02_01/bin/TASM.EXE,33279,1125899908232245,14,1,1000,1000,129266,1582295583.6567147,b'2020-02-21 14:33:03',1579617215.6318343,b'2020-01-21 14:33:35',1582295599.4359236,b'2020-02-21 14:33:19'
+Testing file: ../../proc_02_01/bin/TLINK.EXE
+Write on csv file ../../proc_02_01/bin/TLINK.EXE,33279,1125899908232246,14,1,1000,1000,150569,1582295583.673584,b'2020-02-21 14:33:03',1579617215.634789,b'2020-01-21 14:33:35',1582295599.5311582,b'2020-02-21 14:33:19'
+Analizing directory ../../proc_02_01/doc
+Actual directory: ../../proc_02_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../proc_02_01/doc/README.md
+Write on csv file ../../proc_02_01/doc/README.md,33279,1125899908232248,14,1,1000,1000,709,1582295583.6955266,b'2020-02-21 14:33:03',1579617215.6378171,b'2020-01-21 14:33:35',1582295599.5431635,b'2020-02-21 14:33:19'
+Analizing directory ../../proc_02_01/src
+Actual directory: ../../proc_02_01/src
+Present subdirectories: []
+Present files: ['proc.asm']
+Testing file: ../../proc_02_01/src/proc.asm
+Write on csv file ../../proc_02_01/src/proc.asm,33279,1688849861653562,14,1,1000,1000,1075,1582295583.7124796,b'2020-02-21 14:33:03',1579617215.638778,b'2020-01-21 14:33:35',1582295599.562076,b'2020-02-21 14:33:19'
+Analizing directory ../../vbox_02_01
+Actual directory: ../../vbox_02_01
+Present subdirectories: ['bin', 'doc']
+Present files: []
+Analizing directory ../../vbox_02_01/bin
+Actual directory: ../../vbox_02_01/bin
+Present subdirectories: []
+Present files: ['Bridge.png', 'log.log', 'NAT.png', 'vbox.bat']
+Testing file: ../../vbox_02_01/bin/Bridge.png
+Write on csv file ../../vbox_02_01/bin/Bridge.png,33279,18295873487010084,14,1,1000,1000,420012,1584199362.4122777,b'2020-03-14 15:22:42',1584092079.0,b'2020-03-13 09:34:39',1584199370.5010672,b'2020-03-14 15:22:50'
+Testing file: ../../vbox_02_01/bin/log.log
+Write on csv file ../../vbox_02_01/bin/log.log,33279,31525197391656402,14,1,1000,1000,232,1584710501.8627617,b'2020-03-20 13:21:41',1584710501.8627617,b'2020-03-20 13:21:41',1584710533.5113814,b'2020-03-20 13:22:13'
+Testing file: ../../vbox_02_01/bin/NAT.png
+Write on csv file ../../vbox_02_01/bin/NAT.png,33279,7318349395294457,14,1,1000,1000,427529,1584199362.410286,b'2020-03-14 15:22:42',1584092082.0,b'2020-03-13 09:34:42',1584199370.5695448,b'2020-03-14 15:22:50'
+Testing file: ../../vbox_02_01/bin/vbox.bat
+Write on csv file ../../vbox_02_01/bin/vbox.bat,33279,40250921669751244,14,1,1000,1000,593,1584711223.6029725,b'2020-03-20 13:33:43',1584711223.6029725,b'2020-03-20 13:33:43',1584711231.6908112,b'2020-03-20 13:33:51'
+Analizing directory ../../vbox_02_01/doc
+Actual directory: ../../vbox_02_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../vbox_02_01/doc/README.md
+Write on csv file ../../vbox_02_01/doc/README.md,33279,33495522228617766,14,1,1000,1000,765,1584199376.3693087,b'2020-03-14 15:22:56',1584199376.3693087,b'2020-03-14 15:22:56',1584199384.3473985,b'2020-03-14 15:23:04'
+Analizing directory ../../vbox_02_02
+Actual directory: ../../vbox_02_02
+Present subdirectories: ['bin', 'doc', 'log', 'virtualboxm']
+Present files: []
+Analizing directory ../../vbox_02_02/bin
+Actual directory: ../../vbox_02_02/bin
+Present subdirectories: []
+Present files: ['Bridge.png', 'NAT.png', 'vbox.bat', 'vbox.py']
+Testing file: ../../vbox_02_02/bin/Bridge.png
+Write on csv file ../../vbox_02_02/bin/Bridge.png,33279,13792273858948908,14,1,1000,1000,420012,1584709374.84326,b'2020-03-20 13:02:54',1584092079.0,b'2020-03-13 09:34:39',1584709391.4414003,b'2020-03-20 13:03:11'
+Testing file: ../../vbox_02_02/bin/NAT.png
+Write on csv file ../../vbox_02_02/bin/NAT.png,33279,22517998136979254,14,1,1000,1000,427529,1584709374.8522363,b'2020-03-20 13:02:54',1584092082.0,b'2020-03-13 09:34:42',1584709392.311536,b'2020-03-20 13:03:12'
+Testing file: ../../vbox_02_02/bin/vbox.bat
+Write on csv file ../../vbox_02_02/bin/vbox.bat,33279,76279718688617026,14,1,1000,1000,1189,1584713924.465121,b'2020-03-20 14:18:44',1584713924.465121,b'2020-03-20 14:18:44',1584713932.8944247,b'2020-03-20 14:18:52'
+Testing file: ../../vbox_02_02/bin/vbox.py
+Write on csv file ../../vbox_02_02/bin/vbox.py,33279,15199648742492548,14,1,1000,1000,877,1585040889.9328566,b'2020-03-24 09:08:09',1585040889.9328566,b'2020-03-24 09:08:09',1585040898.2647946,b'2020-03-24 09:08:18'
+Analizing directory ../../vbox_02_02/doc
+Actual directory: ../../vbox_02_02/doc
+Present subdirectories: []
+Present files: ['README.md', 'vmsfromp.csv']
+Testing file: ../../vbox_02_02/doc/README.md
+Write on csv file ../../vbox_02_02/doc/README.md,33279,54043195528495590,14,1,1000,1000,1568,1584716036.93386,b'2020-03-20 14:53:56',1584716036.93386,b'2020-03-20 14:53:56',1584716044.7027068,b'2020-03-20 14:54:04'
+Testing file: ../../vbox_02_02/doc/vmsfromp.csv
+Write on csv file ../../vbox_02_02/doc/vmsfromp.csv,33279,25332747904091466,14,1,1000,1000,361,1584715652.2023928,b'2020-03-20 14:47:32',1584715652.2023928,b'2020-03-20 14:47:32',1584715660.1872091,b'2020-03-20 14:47:40'
+Analizing directory ../../vbox_02_02/log
+Actual directory: ../../vbox_02_02/log
+Present subdirectories: []
+Present files: ['bat_log.log', 'py_log.log']
+Testing file: ../../vbox_02_02/log/bat_log.log
+Write on csv file ../../vbox_02_02/log/bat_log.log,33279,49821070877916010,14,1,1000,1000,188,1584713104.3720737,b'2020-03-20 14:05:04',1584713104.3720737,b'2020-03-20 14:05:04',1584713935.6318874,b'2020-03-20 14:18:55'
+Testing file: ../../vbox_02_02/log/py_log.log
+Write on csv file ../../vbox_02_02/log/py_log.log,33279,50384020831244101,14,1,1000,1000,195,1584715491.6717482,b'2020-03-20 14:44:51',1584715491.6717482,b'2020-03-20 14:44:51',1584715497.9680705,b'2020-03-20 14:44:57'
+Analizing directory ../../vbox_02_02/virtualboxm
+Actual directory: ../../vbox_02_02/virtualboxm
+Present subdirectories: []
+Present files: ['VBoxDDU.dll', 'VBoxManage.exe', 'VBoxRT.dll']
+Testing file: ../../vbox_02_02/virtualboxm/VBoxDDU.dll
+Write on csv file ../../vbox_02_02/virtualboxm/VBoxDDU.dll,33279,114560315521364666,14,1,1000,1000,414088,1584711608.8291814,b'2020-03-20 13:40:08',1570736718.0,b'2019-10-10 19:45:18',1584711634.6812756,b'2020-03-20 13:40:34'
+Testing file: ../../vbox_02_02/virtualboxm/VBoxManage.exe
+Write on csv file ../../vbox_02_02/virtualboxm/VBoxManage.exe,33279,33214047251988029,14,1,1000,1000,1189544,1584713669.3630514,b'2020-03-20 14:14:29',1570736724.0,b'2019-10-10 19:45:24',1584713678.1752424,b'2020-03-20 14:14:38'
+Testing file: ../../vbox_02_02/virtualboxm/VBoxRT.dll
+Write on csv file ../../vbox_02_02/virtualboxm/VBoxRT.dll,33279,97108866965304005,14,1,1000,1000,6169128,1584711680.8775144,b'2020-03-20 13:41:20',1570736716.0,b'2019-10-10 19:45:16',1584711689.7852051,b'2020-03-20 13:41:29'
+Analizing directory ../../virtualbox_cli_01_01
+Actual directory: ../../virtualbox_cli_01_01
+Present subdirectories: ['bin', 'doc']
+Present files: []
+Analizing directory ../../virtualbox_cli_01_01/bin
+Actual directory: ../../virtualbox_cli_01_01/bin
+Present subdirectories: []
+Present files: ['vmsinstalled.txt', 'vmsinstalledos.txt']
+Testing file: ../../virtualbox_cli_01_01/bin/vmsinstalled.txt
+Write on csv file ../../virtualbox_cli_01_01/bin/vmsinstalled.txt,33279,77405618595437487,14,1,1000,1000,380,1582898299.2082753,b'2020-02-28 13:58:19',1582898299.2082753,b'2020-02-28 13:58:19',1582898307.2134235,b'2020-02-28 13:58:27'
+Testing file: ../../virtualbox_cli_01_01/bin/vmsinstalledos.txt
+Write on csv file ../../virtualbox_cli_01_01/bin/vmsinstalledos.txt,33279,12666373952029911,14,1,1000,1000,11472,1582898299.1985073,b'2020-02-28 13:58:19',1582898299.1985073,b'2020-02-28 13:58:19',1582898307.6135876,b'2020-02-28 13:58:27'
+Analizing directory ../../virtualbox_cli_01_01/doc
+Actual directory: ../../virtualbox_cli_01_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../virtualbox_cli_01_01/doc/README.md
+Write on csv file ../../virtualbox_cli_01_01/doc/README.md,33279,15762598695859095,14,1,1000,1000,1185,1582906636.6894498,b'2020-02-28 16:17:16',1582906636.6894498,b'2020-02-28 16:17:16',1582906644.3400218,b'2020-02-28 16:17:24'
+Analizing directory ../../walk_01_01
+Actual directory: ../../walk_01_01
+Present subdirectories: ['bin', 'doc', 'log']
+Present files: []
+Analizing directory ../../walk_01_01/bin
+Actual directory: ../../walk_01_01/bin
+Present subdirectories: []
+Present files: ['walk.py']
+Testing file: ../../walk_01_01/bin/walk.py
+Write on csv file ../../walk_01_01/bin/walk.py,33279,133700613938394183,14,1,1000,1000,906,1585043544.6802711,b'2020-03-24 09:52:24',1585043544.6802711,b'2020-03-24 09:52:24',1585080227.6523948,b'2020-03-24 20:03:47'
+Analizing directory ../../walk_01_01/doc
+Actual directory: ../../walk_01_01/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../walk_01_01/doc/README.md
+Write on csv file ../../walk_01_01/doc/README.md,33279,333829322379669494,14,1,1000,1000,633,1585080283.5633707,b'2020-03-24 20:04:43',1585080283.5633707,b'2020-03-24 20:04:43',1585120214.7303133,b'2020-03-25 07:10:14'
+Analizing directory ../../walk_01_01/log
+Actual directory: ../../walk_01_01/log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ../../walk_01_01/log/log.log
+Write on csv file ../../walk_01_01/log/log.log,33279,553098329237282950,14,1,1000,1000,564,1585080338.7836149,b'2020-03-24 20:05:38',1585080338.7836149,b'2020-03-24 20:05:38',1585120215.9724379,b'2020-03-25 07:10:15'
+Analizing directory ../../walk_01_02
+Actual directory: ../../walk_01_02
+Present subdirectories: ['bin', 'doc', 'log']
+Present files: []
+Analizing directory ../../walk_01_02/bin
+Actual directory: ../../walk_01_02/bin
+Present subdirectories: []
+Present files: ['walk.py']
+Testing file: ../../walk_01_02/bin/walk.py
+Write on csv file ../../walk_01_02/bin/walk.py,33279,76561193666057888,14,1,1000,1000,1304,1588056518.9210036,b'2020-04-28 06:48:38',1588056518.9210036,b'2020-04-28 06:48:38',1588056526.9295769,b'2020-04-28 06:48:46'
+Analizing directory ../../walk_01_02/doc
+Actual directory: ../../walk_01_02/doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ../../walk_01_02/doc/README.md
+Write on csv file ../../walk_01_02/doc/README.md,33279,90916417477556979,14,1,1000,1000,1023,1585829742.305938,b'2020-04-02 12:15:42',1585829742.305938,b'2020-04-02 12:15:42',1585829750.1912348,b'2020-04-02 12:15:50'
+Analizing directory ../../walk_01_02/log
+Actual directory: ../../walk_01_02/log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ../../walk_01_02/log/log.log
+Write on csv file ../../walk_01_02/log/log.log,33279,105271641289929530,14,1,1000,1000,31842,1585829684.110668,b'2020-04-02 12:14:44',1585829684.110668,b'2020-04-02 12:14:44',1585829691.875265,b'2020-04-02 12:14:51'
+Done
+End time: 2020-05-05 21:41:45.454179
+Total time: 0:08:53.668966
+
