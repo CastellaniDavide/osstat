@@ -1,0 +1,96 @@
+Start time: 2020-04-28 09:34:25.359239
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+os.stat_result(st_mode=33206, st_ino=53761720551898705, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=1489, st_atime=1588059251, st_mtime=1588059251, st_ctime=1588054348)
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+os.stat_result(st_mode=33206, st_ino=92323792361126133, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=600, st_atime=1588054897, st_mtime=1588054897, st_ctime=1588054348)
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+os.stat_result(st_mode=33206, st_ino=95701492081658484, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=0, st_atime=1588059263, st_mtime=1588059263, st_ctime=1588054348)
+Done
+End time: 2020-04-28 09:34:25.363228
+Total time: 0:00:00.003989
+
+Start time: 2020-04-28 09:34:58.486254
+Printing on screen the given directory name: ./
+Analizing directory ./
+Actual directory: ./
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ./\osstat.py
+os.stat_result(st_mode=33206, st_ino=53761720551898705, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=1489, st_atime=1588059251, st_mtime=1588059251, st_ctime=1588054348)
+Done
+End time: 2020-04-28 09:34:58.486254
+Total time: 0:00:00
+
+Start time: 2020-04-28 09:36:52.179753
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+os.stat_result(st_mode=33206, st_ino=53761720551898705, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=1489, st_atime=1588059251, st_mtime=1588059251, st_ctime=1588054348)
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+os.stat_result(st_mode=33206, st_ino=92323792361126133, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=600, st_atime=1588054897, st_mtime=1588054897, st_ctime=1588054348)
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+os.stat_result(st_mode=33206, st_ino=65865144550348703, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=1730, st_atime=1588059409, st_mtime=1588059409, st_ctime=1588054348)
+Done
+End time: 2020-04-28 09:36:52.184740
+Total time: 0:00:00.004987
+
+Start time: 2020-04-28 09:41:39.558024
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+os.stat_result(st_mode=33206, st_ino=9288674232293134, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=1557, st_atime=1588059693, st_mtime=1588059693, st_ctime=1588054348)
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+os.stat_result(st_mode=33206, st_ino=92323792361126133, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=600, st_atime=1588054897, st_mtime=1588054897, st_ctime=1588054348)
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+os.stat_result(st_mode=33206, st_ino=65865144550348703, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=2990, st_atime=1588059412, st_mtime=1588059412, st_ctime=1588054348)
+Done
+End time: 2020-04-28 09:41:39.565004
+Total time: 0:00:00.006980
+
