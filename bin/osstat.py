@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from stat import filemode
 
 __author__ = "davidecastellani@castellanidavide.it"
-__version__ = "01.03 2020-05-05"
+__version__ = "02.01 2020-05-14"
 
 class osstat:
 	def __init__ (self, directory, vs=False):
