@@ -15,6 +15,8 @@ View the proprieties of every file in a selected folder or in the subfolders.
 	 - osstat.py
  - doc
 	 - README.md
+ - flussi
+     - osstat.csv
  - log
 	 - log.log
 
@@ -27,7 +29,12 @@ View the proprieties of every file in a selected folder or in the subfolders.
 
 ---
 ## Changelog
+- [01.02_2020-4-28](#01.02_2020-4-28)
 - [01.01_2020-4-28](#01.01_2020-4-28)
+
+---
+### 01.02_2020-4-28
+ - now the infos of every file are printed int the csv file in the folder flussi
 
 ---
 ### 01.01_2020-4-28

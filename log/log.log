@@ -94,3 +94,561 @@ Done
 End time: 2020-04-28 09:41:39.565004
 Total time: 0:00:00.006980
 
+Start time: 2020-04-28 09:54:46.967612
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+os.stat_result(st_mode=33206, st_ino=42221246507439889, st_dev=3693933532, st_nlink=2, st_uid=0, st_gid=0, st_size=1836, st_atime=1588060480, st_mtime=1588060480, st_ctime=1588059936)
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+os.stat_result(st_mode=33206, st_ino=6473924465186585, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=634, st_atime=1588059936, st_mtime=1588059904, st_ctime=1588059936)
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+os.stat_result(st_mode=33206, st_ino=25895697857878685, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=0, st_atime=1588060009, st_mtime=1588060009, st_ctime=1588060009)
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+os.stat_result(st_mode=33206, st_ino=57420895249815333, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=4249, st_atime=1588060485, st_mtime=1588060485, st_ctime=1588059936)
+Done
+End time: 2020-04-28 09:54:46.972599
+Total time: 0:00:00.004987
+
+Start time: 2020-04-28 09:58:33.106755
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file os.stat_result(st_mode=33206, st_ino=7599824372029252, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=1864, st_atime=1588060708, st_mtime=1588060708, st_ctime=1588059936)
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file os.stat_result(st_mode=33206, st_ino=6473924465186585, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=634, st_atime=1588059936, st_mtime=1588059904, st_ctime=1588059936)
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file os.stat_result(st_mode=33206, st_ino=25895697857878685, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=183, st_atime=1588060713, st_mtime=1588060713, st_ctime=1588060009)
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file os.stat_result(st_mode=33206, st_ino=57420895249815333, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=5855, st_atime=1588060486, st_mtime=1588060486, st_ctime=1588059936)
+Done
+End time: 2020-04-28 09:58:33.120717
+Total time: 0:00:00.013962
+Start time: 2020-04-28 10:02:18.065341
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file os.stat_result(st_mode=33206, st_ino=11821949022689066, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=1864, st_atime=1588060934, st_mtime=1588060934, st_ctime=1588059936)
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file os.stat_result(st_mode=33206, st_ino=6473924465186585, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=634, st_atime=1588059936, st_mtime=1588059904, st_ctime=1588059936)
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file os.stat_result(st_mode=33206, st_ino=25895697857878685, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=183, st_atime=1588060938, st_mtime=1588060938, st_ctime=1588060009)
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file os.stat_result(st_mode=33206, st_ino=22236523160983340, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=7532, st_atime=1588060774, st_mtime=1588060774, st_ctime=1588059936)
+Done
+End time: 2020-04-28 10:02:18.097277
+Total time: 0:00:00.031936
+
+Start time: 2020-04-28 10:03:13.401015
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file os.stat_result(st_mode=33206, st_ino=65020719621003045, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=1864, st_atime=1588060984, st_mtime=1588060984, st_ctime=1588059936)
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file os.stat_result(st_mode=33206, st_ino=6473924465186585, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=634, st_atime=1588059936, st_mtime=1588059904, st_ctime=1588059936)
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file os.stat_result(st_mode=33206, st_ino=25895697857878685, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=183, st_atime=1588060993, st_mtime=1588060993, st_ctime=1588060009)
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file os.stat_result(st_mode=33206, st_ino=22236523160983340, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=9212, st_atime=1588060938, st_mtime=1588060938, st_ctime=1588059936)
+Done
+End time: 2020-04-28 10:03:13.440908
+Total time: 0:00:00.039893
+
+Start time: 2020-04-28 10:05:49.833363
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file os.stat_result(st_mode=33206, st_ino=15199648743216938, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=1864, st_atime=1588061145, st_mtime=1588061145, st_ctime=1588059936)
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file os.stat_result(st_mode=33206, st_ino=6473924465186585, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=634, st_atime=1588059936, st_mtime=1588059904, st_ctime=1588059936)
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file os.stat_result(st_mode=33206, st_ino=25895697857878685, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=183, st_atime=1588061149, st_mtime=1588061149, st_ctime=1588060009)
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file os.stat_result(st_mode=33206, st_ino=22236523160983340, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=10892, st_atime=1588060993, st_mtime=1588060993, st_ctime=1588059936)
+Done
+End time: 2020-04-28 10:05:49.845335
+Total time: 0:00:00.011972
+
+Start time: 2020-04-28 10:17:31.845014
+Inizializing the csv file
+Start time: 2020-04-28 10:17:50.949152
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file os.stat_result(st_mode=33206, st_ino=35465847066384172, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=2181, st_atime=1588061868, st_mtime=1588061868, st_ctime=1588059936)
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file os.stat_result(st_mode=33206, st_ino=6473924465186585, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=634, st_atime=1588059936, st_mtime=1588059904, st_ctime=1588059936)
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file os.stat_result(st_mode=33206, st_ino=25895697857878685, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=449, st_atime=1588061870, st_mtime=1588061870, st_ctime=1588060009)
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file os.stat_result(st_mode=33206, st_ino=99079191802167908, st_dev=3693933532, st_nlink=1, st_uid=0, st_gid=0, st_size=12640, st_atime=1588061851, st_mtime=1588061851, st_ctime=1588059936)
+Done
+End time: 2020-04-28 10:17:50.961116
+Total time: 0:00:00.011964
+
+Start time: 2020-04-28 10:25:02.456202
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file ..\bin\osstat.py,os.stat(file_path).st_mode
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file ..\doc\README.md,os.stat(file_path).st_mode
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file ..\flussi\osstat.csv,os.stat(file_path).st_mode
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file ..\log\log.log,os.stat(file_path).st_mode
+Done
+End time: 2020-04-28 10:25:02.463184
+Total time: 0:00:00.006982
+
+Start time: 2020-04-28 10:25:18.330192
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file ..\bin\osstat.py,33206
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file ..\doc\README.md,33206
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file ..\flussi\osstat.csv,33206
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file ..\log\log.log,33206
+Done
+End time: 2020-04-28 10:25:18.345152
+Total time: 0:00:00.014960
+
+Start time: 2020-04-28 10:27:41.618334
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file ..\bin\osstat.py,33206,56013520365432951,3693933532,1,0,0,2477,1588062449.790687,1588062449.790687,1588059936.8541832
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file ..\doc\README.md,33206,6473924465186585,3693933532,1,0,0,634,1588059936.8591697,1588059904.9466507,1588059936.8581727
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file ..\flussi\osstat.csv,33206,25895697857878685,3693933532,1,0,0,329,1588062461.6253135,1588062461.6253135,1588060009.8565722
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file ..\log\log.log,33206,99079191802167908,3693933532,1,0,0,16568,1588062318.3451521,1588062318.3451521,1588059936.8611643
+Done
+End time: 2020-04-28 10:27:41.632295
+Total time: 0:00:00.013961
+
+Start time: 2020-04-28 10:38:20.679516
+Inizializing the csv file
+Start time: 2020-04-28 10:39:03.769025
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file ..\bin\osstat.py,33206,47006321110840502,3693933532,1,0,0,2477,1588063117.76083,1588063117.76083,1588059936.8541832
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file ..\doc\README.md,33206,6473924465186585,3693933532,1,0,0,634,1588059936.8591697,1588059904.9466507,1588059936.8581727
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file ..\flussi\osstat.csv,33206,112589990684425428,3693933532,1,0,0,327,1588063143.7819908,1588063143.7819908,1588060009.8565722
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file ..\log\log.log,33206,82190693199675074,3693933532,1,0,0,18087,1588063100.6825092,1588063100.6825092,1588059936.8611643
+Done
+End time: 2020-04-28 10:39:03.799940
+Total time: 0:00:00.030915
+
+Start time: 2020-04-28 10:40:17.218818
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file ..\bin\osstat.py,33206,48695170971106049,3693933532,2,0,0,2566,1588063213.097725,1588063213.097725,1588059936.8541832
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file ..\doc\README.md,33206,6473924465186585,3693933532,1,0,0,634,1588059936.8591697,1588059904.9466507,1588059936.8581727
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file ..\flussi\osstat.csv,33206,112589990684425428,3693933532,2,0,0,329,1588063222.8016155,1588063222.8016155,1588060009.8565722
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file ..\log\log.log,33206,82190693199675074,3693933532,1,0,0,19538,1588063143.79994,1588063143.79994,1588059936.8611643
+Done
+End time: 2020-04-28 10:40:26.612436
+Total time: 0:00:09.393618
+
+Start time: 2020-04-28 10:40:37.847678
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file ..\bin\osstat.py,33206,102175416545993138,3693933532,1,0,0,2572,1588063235.4443562,1588063235.4443562,1588059936.8541832
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file ..\doc\README.md,33206,6473924465186585,3693933532,1,0,0,634,1588059936.8591697,1588059904.9466507,1588059936.8581727
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file ..\flussi\osstat.csv,33206,112589990684425428,3693933532,1,0,0,332,1588063238.9790273,1588063238.9790273,1588060009.8565722
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file ..\log\log.log,33206,82190693199675074,3693933532,1,0,0,20987,1588063226.6124363,1588063226.6124363,1588059936.8611643
+Done
+End time: 2020-04-28 10:40:39.688130
+Total time: 0:00:01.840452
+
+Start time: 2020-04-28 10:41:18.804118
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file ..\bin\osstat.py,33206,57139420272860848,3693933532,1,0,0,2583,1588063275.3051822,1588063275.3051822,1588059936.8541832
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file ..\doc\README.md,33206,6473924465186585,3693933532,1,0,0,634,1588059936.8591697,1588059904.9466507,1588059936.8581727
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file ..\flussi\osstat.csv,33206,112589990684425428,3693933532,1,0,0,331,1588063281.752915,1588063281.752915,1588060009.8565722
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file ..\log\log.log,33206,82190693199675074,3693933532,1,0,0,22443,1588063239.6891298,1588063239.6891298,1588059936.8611643
+Done
+End time: 2020-04-28 10:41:23.838861
+Total time: 0:00:05.034743
+
+Start time: 2020-04-28 10:42:55.681829
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file ..\bin\osstat.py,33206,167759086119567972,3693933532,1,0,0,2738,1588063364.7153802,2020-04-28 08:42:44,1588063364.7153802,2020-04-28 08:42:44,1588059936.8541832,2020-04-28 07:45:36
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file ..\doc\README.md,33206,6473924465186585,3693933532,1,0,0,634,1588059936.8591697,2020-04-28 07:45:36,1588059904.9466507,2020-04-28 07:45:04,1588059936.8581727,2020-04-28 07:45:36
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file ..\flussi\osstat.csv,33206,112589990684425428,3693933532,1,0,0,452,1588063375.6947954,2020-04-28 08:42:55,1588063375.6947954,2020-04-28 08:42:55,1588060009.8565722,2020-04-28 07:46:49
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file ..\log\log.log,33206,82190693199675074,3693933532,1,0,0,23896,1588063283.8388615,2020-04-28 08:41:23,1588063283.8388615,2020-04-28 08:41:23,1588059936.8611643,2020-04-28 07:45:36
+Done
+End time: 2020-04-28 10:42:55.709754
+Total time: 0:00:00.027925
+
+Start time: 2020-04-28 10:44:06.552451
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file ..\bin\osstat.py,33206,127508164449952178,3693933532,1,0,0,2798,1588063443.7230191,2020-04-28 08:44:03,1588063443.7230191,2020-04-28 08:44:03,1588059936.8541832,2020-04-28 07:45:36
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file ..\doc\README.md,33206,6473924465186585,3693933532,1,0,0,634,1588059936.8591697,2020-04-28 07:45:36,1588059904.9466507,2020-04-28 07:45:04,1588059936.8581727,2020-04-28 07:45:36
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file ..\flussi\osstat.csv,33206,112589990684425428,3693933532,1,0,0,512,1588063446.5594325,2020-04-28 08:44:06,1588063446.5594325,2020-04-28 08:44:06,1588060009.8565722,2020-04-28 07:46:49
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file ..\log\log.log,33206,82190693199675074,3693933532,1,0,0,25592,1588063375.709755,2020-04-28 08:42:55,1588063375.709755,2020-04-28 08:42:55,1588059936.8611643,2020-04-28 07:45:36
+Done
+End time: 2020-04-28 10:44:06.569406
+Total time: 0:00:00.016955
+
+Start time: 2020-04-28 10:53:57.557782
+Inizializing the csv file
+Printing on screen the given directory name: ..\
+Analizing directory ..\
+Actual directory: ..\
+Present subdirectories: ['bin', 'doc', 'flussi', 'log']
+Present files: []
+Analizing directory ..\bin
+Actual directory: ..\bin
+Present subdirectories: []
+Present files: ['osstat.py']
+Testing file: ..\bin\osstat.py
+Write on csv file ..\bin\osstat.py,33206,65583669573609077,3693933532,1,0,0,2798,1588064033.381671,2020-04-28 08:53:53,1588064033.381671,2020-04-28 08:53:53,1588059936.8541832,2020-04-28 07:45:36
+Analizing directory ..\doc
+Actual directory: ..\doc
+Present subdirectories: []
+Present files: ['README.md']
+Testing file: ..\doc\README.md
+Write on csv file ..\doc\README.md,33206,30680772461620521,3693933532,1,0,0,810,1588063769.432984,2020-04-28 08:49:29,1588063769.432984,2020-04-28 08:49:29,1588059936.8581727,2020-04-28 07:45:36
+Analizing directory ..\flussi
+Actual directory: ..\flussi
+Present subdirectories: []
+Present files: ['osstat.csv']
+Testing file: ..\flussi\osstat.csv
+Write on csv file ..\flussi\osstat.csv,33206,68679894318159519,3693933532,1,0,0,508,1588064037.5627701,2020-04-28 08:53:57,1588064037.5627701,2020-04-28 08:53:57,1588060009.8565722,2020-04-28 07:46:49
+Analizing directory ..\log
+Actual directory: ..\log
+Present subdirectories: []
+Present files: ['log.log']
+Testing file: ..\log\log.log
+Write on csv file ..\log\log.log,33206,102456891522742515,3693933532,1,0,0,27286,1588063987.6705163,2020-04-28 08:53:07,1588063987.6705163,2020-04-28 08:53:07,1588059936.8611643,2020-04-28 07:45:36
+Done
+End time: 2020-04-28 10:53:57.571746
+Total time: 0:00:00.013964
+
