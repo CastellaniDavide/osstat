@@ -1,9 +1,9 @@
 # osstat
 ![Author](https://img.shields.io/badge/author-Castellani%20Davide-green?style=flat)
-![Version](https://img.shields.io/badge/version-v02.01-blue?style=flat)
+![Version](https://img.shields.io/badge/version-v02.02-blue?style=flat)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/CastellaniDavide/osstat?label=lastest%20relase)
 ![Language vbs](https://img.shields.io/badge/language-Python3-yellowgreen?style=flat)
-![sys.platform supported](https://img.shields.io/badge/os%20platform%20supported-Windows%2010%20&%20Linux-blue?style=flat)
+![sys.platform supported](https://img.shields.io/badge/os%20platform%20supported-All%20OSs-blue?style=flat)
 [![On GitHub](https://img.shields.io/badge/on%20GitHub-True-green?style=flat&logo=github)](https://github.com/CastellaniDavide/osstats)
 
 ## Tags
@@ -24,8 +24,7 @@ View the proprieties of every file in a selected folder or in the subfolders.
  - doc
 	 - README.md
  - flussi
-     - osstat_w.csv
-     - osstat_x.csv
+     - osstat.csv
  - log
 	 - log.log
 
@@ -43,10 +42,16 @@ View the proprieties of every file in a selected folder or in the subfolders.
 
 ---
 ## Changelog
+- [02.02_2020-5-23](#02.01_2020-5-23)
 - [02.01_2020-5-14](#02.01_2020-5-14)
 - [01.03_2020-5-5](#01.03_2020-5-5)
 - [01.02_2020-4-28](#01.02_2020-4-28)
 - [01.01_2020-4-28](#01.01_2020-4-28)
+
+---
+### 02.02_2020-5-23
+ - now there is only a csv file for all sys
+ - now accept Mac OS
 
 ---
 ### 02.01_2020-5-14

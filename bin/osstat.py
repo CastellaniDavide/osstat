@@ -16,7 +16,7 @@ class osstat:
 		base_dir = "." if vs else ".." # the project "root" in Visual studio it is different
 
 		file = open(os.path.join(base_dir, "log", "log.log"), "a")
-		csv_file = os.path.join(base_dir, "flussi", f"osstat_{'w' if osstat.get_os() == 'win' else 'x'}.csv") # Redirect the utput in the correct file csv
+		csv_file = os.path.join(base_dir, "flussi", f"osstat.csv") # Redirect the utput in the correct file csv
 
 		start_time = datetime.now()
 
@@ -33,7 +33,7 @@ class osstat:
 			osstat.print_and_log(file, f"Present subdirectories: {subdirectories}")
 			osstat.print_and_log(file, f"Present files: {files}")
 			for file_ in files:
-				osstat.file_stat(file, os.path.join(directories, file_), csv_file)
+				osstat.file_stat(file, os.path.join(directories, file_), csv_file, osstat.get_os())
 
 		osstat.log(file, "Done")
 		osstat.log(file, f"End time: {datetime.now()}\nTotal time: {datetime.now() - start_time}")
@@ -45,19 +45,19 @@ class osstat:
 		"""
 		if sys.platform == "linux" or sys.platform == "linux2":
 			# Linux
-			return "lnx"
+			return "Linux"
 		elif sys.platform == "darwin":
 			# MAC OS
 			Exception("This program didn't support MAC OS, please check if it was supproted by the new versions")
 		elif sys.platform == "win32":
 			# Windows
-			return "win"
+			return "Windows"
 
-	def file_stat(filelog, file_path, filecsv):
+	def file_stat(filelog, file_path, filecsv, sys):
 		"""View all proprieties for every file
 		"""
 		osstat.print_and_log(filelog, f"Testing file: {file_path}")
-		osstat.csv_write(filelog, filecsv, f"{file_path},{os.stat(file_path).st_mode},{oct(os.stat(file_path).st_mode)},{filemode(os.stat(file_path).st_mode)},{os.stat(file_path).st_ino},{os.stat(file_path).st_dev},{os.stat(file_path).st_nlink},{os.stat(file_path).st_uid},{os.stat(file_path).st_gid},{os.stat(file_path).st_size},{os.stat(file_path).st_atime},{osstat.time_converter(os.stat(file_path).st_atime)},{os.stat(file_path).st_mtime},{osstat.time_converter(os.stat(file_path).st_mtime)},{os.stat(file_path).st_ctime},{osstat.time_converter(os.stat(file_path).st_ctime)}")
+		osstat.csv_write(filelog, filecsv, f"{sys},{file_path},{os.stat(file_path).st_mode},{oct(os.stat(file_path).st_mode)},{filemode(os.stat(file_path).st_mode)},{os.stat(file_path).st_ino},{os.stat(file_path).st_dev},{os.stat(file_path).st_nlink},{os.stat(file_path).st_uid},{os.stat(file_path).st_gid},{os.stat(file_path).st_size},{os.stat(file_path).st_atime},{osstat.time_converter(os.stat(file_path).st_atime)},{os.stat(file_path).st_mtime},{osstat.time_converter(os.stat(file_path).st_mtime)},{os.stat(file_path).st_ctime},{osstat.time_converter(os.stat(file_path).st_ctime)}")
 
 	def log(file, item):
 		"""Writes a line in the log.log file
@@ -75,7 +75,7 @@ class osstat:
 		"""Write the intestation of the csv file
 		"""
 		with open(file_csv, "w+") as csv:
-			csv.write("filename,st_mode,st_mode in oct,classic proprieties,st_ino,st_dev,st_nlink,st_uid,st_gid,st_size,st_atime,st_atime (yyyy-mm-dd hh:ii:ss),st_mtime,st_mtime (yyyy-mm-dd hh:ii:ss),st_ctime,st_ctime (yyyy-mm-dd hh:ii:ss)\n")
+			csv.write("platform,filename,st_mode,st_mode in oct,classic proprieties,st_ino,st_dev,st_nlink,st_uid,st_gid,st_size,st_atime,st_atime (yyyy-mm-dd hh:ii:ss),st_mtime,st_mtime (yyyy-mm-dd hh:ii:ss),st_ctime,st_ctime (yyyy-mm-dd hh:ii:ss)\n")
 
 	def csv_write(file_log, file_csv, item):
 		"""Writes on the csv file, screen and in the log file
